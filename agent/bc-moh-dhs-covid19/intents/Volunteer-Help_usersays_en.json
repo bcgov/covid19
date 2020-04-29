@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e47528bf-01af-481e-bc2e-81377b46f600",
+    "data": [
+      {
+        "text": "Who would I contact about becoming a contact tracer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "576057c3-e5ee-4e75-97da-556c9c26e838",
+    "data": [
+      {
+        "text": "I would like to contact someone about the serology testing as a potential testing volunteer.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be77008d-a668-46b0-ab64-b9211eced499",
+    "data": [
+      {
+        "text": "I want to help. I am a teacher. I can offer education services, child care services or other volunteer services but do not know where to look",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fccb6887-117d-4a88-ba62-690432758ce6",
+    "data": [
+      {
+        "text": "I want to help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10c25dea-eb5f-4b9b-9040-0a59d4eeefcb",
+    "data": [
+      {
+        "text": "How can I help seniors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7625a218-8ab8-4ffb-870d-8102ba649261",
+    "data": [
+      {
+        "text": "Where can I volunteer to help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3023bf0-d7c8-4dcf-8661-55bc23ab2571",
+    "data": [
+      {
+        "text": "How can I help others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

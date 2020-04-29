@@ -1,0 +1,53 @@
+{
+  "id": "8b620bea-5a03-4d0f-8e08-d20afc84cbb0",
+  "parentId": "13a6d913-5d8b-4e25-bb9f-79eb952c13d2",
+  "rootParentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "name": "self-assessment-q03a-yes-Final",
+  "auto": true,
+  "contexts": [
+    "self-assessment-q03-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-yes.self-assessment-q03-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-q03a-yes-staff-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003ePlease self-isolate for 14 days and self-monitor.\u003c/b\u003e\n\u003cbr\u003e\u003cbr\u003e\nAs of March 25, 2020 it is mandatory under the Quarantine Act that anyone arriving in British Columbia from outside of Canada self-isolate and monitor for symptoms for 14 days upon their arrival and complete/register a \u003ca href\u003d\"https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return\" target\u003d_blank\u003eSelf Isolation Plan\u003c/a\u003e .\n\u003cbr\u003e\u003cbr\u003e\nThere are some individuals who are exempt from this order to provide essential services, but they still need to self-monitor for symptoms. Returning travellers that develop symptoms are also required to self-isolate for at least 14 days or 10 days after onset of symptoms, whichever is longer.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

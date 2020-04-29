@@ -1,0 +1,53 @@
+{
+  "id": "454ad25c-79fa-4a62-a7f6-871114e26146",
+  "name": "I\u0027m scared of my girlfriend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5d09136-67fa-4045-878f-0faf554abdd5",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you are experiencing domestic violence, refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/priority-populations/people-who-may-be-or-are-experiencing-violence\" target\u003d_Blank\u003ePeople who may be or are experiencing violence\u003c/a\u003e for details on getting help.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

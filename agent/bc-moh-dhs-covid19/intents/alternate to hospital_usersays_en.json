@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ce43fb8f-594e-4ef5-aea4-6e204766eafb",
+    "data": [
+      {
+        "text": "Emergency visit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38c2f2a0-998d-41b3-8730-09b9a4879111",
+    "data": [
+      {
+        "text": "can i visit a hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8b643b3-ad27-40e9-ab29-6ee74d9147fd",
+    "data": [
+      {
+        "text": "Hi, I would like to know which hospitals are taking care of corona virus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b970fae0-b8fb-4933-b294-3293334297e4",
+    "data": [
+      {
+        "text": "Where are the urgent care facilities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c69aab8e-510e-46a1-a1a6-4fa32aaadf55",
+    "data": [
+      {
+        "text": "Where is the closest hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10cf0610-9363-407e-9b2e-969e7fa37a79",
+    "data": [
+      {
+        "text": "should i go to the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e372e87-9ce6-429e-9518-9d98a86a0a6f",
+    "data": [
+      {
+        "text": "I sprained my ankle is it safe to go to the er",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82081095-4952-4faf-8682-988d012e8f5a",
+    "data": [
+      {
+        "text": "Will the ER run the covid test for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9ea7bd8-97e2-4774-9943-a2ffed7f4bbb",
+    "data": [
+      {
+        "text": "Will the hospital test me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89c5d62c-f2e9-4cf7-afac-fee9f41cc378",
+    "data": [
+      {
+        "text": "Can I  get a test in the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76c31eed-04be-48ed-8efc-cfde055885b9",
+    "data": [
+      {
+        "text": "Will the ER test me if I come in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59cfe508-0124-4ea9-aeaa-fe4f11892687",
+    "data": [
+      {
+        "text": "Can I get tested at the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a8bdfca-64b1-4083-af0f-116d1e34670c",
+    "data": [
+      {
+        "text": "Can I go to the Emergency Department?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11908196-6cd2-4f6a-8076-213443cf422d",
+    "data": [
+      {
+        "text": "Can I go to the ED",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e758753-8577-48e0-a1ca-25c5e88ed63f",
+    "data": [
+      {
+        "text": "Can I go to the Emergency Dept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d77e76e4-3461-4575-84dd-adaa57f571fc",
+    "data": [
+      {
+        "text": "Can I go to the ER?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27291e47-3e95-4876-8ea1-80cdcdedaa2e",
+    "data": [
+      {
+        "text": "can i go to a clinic for other reasons than covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "f5ff770f-e851-4015-81a1-850b79dd9111",
+    "data": [
+      {
+        "text": "Leaf me alone I do not want too talk to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4102c1b-40b7-4ac8-8aae-cb65b5312d11",
+    "data": [
+      {
+        "text": "go away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "943e6783-5889-4336-b233-f719e5c46c46",
+    "data": [
+      {
+        "text": "I do not have any questions at ",
+        "userDefined": false
+      },
+      {
+        "text": "this time",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35aed3bf-65c8-4938-afa5-b619c0a9a640",
+    "data": [
+      {
+        "text": "ok, have a nice day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d79c17c5-4032-4e68-87c3-ef6395d8542d",
+    "data": [
+      {
+        "text": "Thanks. I just wanna read the numbers, no assistance needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a821ad0-359b-4e44-9fd7-b8a34845a257",
+    "data": [
+      {
+        "text": "Im done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f04eac5-a0ab-4e29-8caa-deddd4de347e",
+    "data": [
+      {
+        "text": "Salut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a014fa8d-563b-438d-bac6-47eee140c767",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "685ea32b-54b6-4061-9820-76cd67feccad",
+    "data": [
+      {
+        "text": "Thats all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fb4f0d2-addb-4d5a-b0c4-942ef41f35dd",
+    "data": [
+      {
+        "text": "I have no more questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fbdae4e-a520-4c46-b531-a7ec36e52a4c",
+    "data": [
+      {
+        "text": "I am done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbb8f719-a2d1-48d0-b7d5-5e3008de8f46",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba4cff69-bbeb-4589-963c-5c65988ebc65",
+    "data": [
+      {
+        "text": "Good Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

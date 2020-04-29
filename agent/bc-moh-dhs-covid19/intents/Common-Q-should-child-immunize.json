@@ -1,0 +1,79 @@
+{
+  "id": "982ac2bc-7cd4-4914-8610-2f372f8fc915",
+  "name": "Common-Q-should-child-immunize",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f0d3374c-7d6e-42a3-b624-c3fac129c9b8",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "b41238e7-80c5-4e0e-9c63-5d78764ad063",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c7a2b91f-3383-4cdf-89e9-51addf182b0d",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Yes, it is important to keep immunizations up to date. \n\u003cul\u003e\n\u003cli\u003eImmunization is an essential service and health units are continuing to hold clinics during COVID-19. However, services may vary. \u003c/li\u003e\n\u003cli\u003eClinic changes have been made to ensure safety\u003c/li\u003e\n\u003c/ul\u003e\nVisit \u003ca href\u003d\"https://immunizebc.ca/immunization-during-covid-19\" target\u003d_blank\u003eImmunization BC\u003c/a\u003e for the latest information on immunization during COVID-19.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "fd83fdcf-6962-49d8-8829-8e1464d87792",
+  "name": "Common-Q-I_have_COVID-now-what",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you live in a household with someone who has COVID-19 it is important to clean and disinfect common areas regularly. Go to our If you are sick page for details on how to stop the spread of germs, what to do if your symptoms get worse and ending self-isolation.\n\u003cbr\u003e\u003cbr\u003e\nFor cleaning, water and detergent (e.g., liquid dishwashing soap) or common household cleaning wipes should be used. Apply firm pressure while cleaning. Surfaces should be cleaned at least once a day. Next, use a store bought disinfectant or diluted bleach solution, one part bleach to 50 parts water (20ml of bleach to 1 litre of water), and allow the surface to remain wet for one minute. Clean surfaces that are touched often (e.g., counters, table tops, doorknobs, toilets, sinks, taps, etc.) at least twice a day.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ea03364b-3645-4d2d-826b-539151594feb",
+  "name": "covid19 spread",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "48eed136-55e3-4e81-8633-fa80e2a1888a",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0581bf1e-3c13-4cb1-a7b7-688325540c1d",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Coronavirus is spread from an infected person through:\n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003eDroplets spread when a person coughs or sneezes. \u003c/li\u003e\n\u003cli\u003eIt can be spread by touch if a person has used their hands to cover their mouth or nose when they cough or sneeze. \u003c/li\u003e\n\u003cli\u003eTouching an object or surface with the virus on it, then touching your mouth, nose or eyes before washing your hands. \u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

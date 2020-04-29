@@ -1,0 +1,59 @@
+{
+  "id": "470fa627-044b-4ebd-8da2-2e841de982ab",
+  "parentId": "e3505e9f-871f-44ff-a6d2-824e7744a3b1",
+  "rootParentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "name": "self-assessment-q07no - yes - final",
+  "auto": true,
+  "contexts": [
+    "self-assessment-exit",
+    "self-assessment-q06no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-no.self-assessment-q04-no.self-assessment-q05-q04no-no.self-assessment-q06-q05no-no.self-assessment-q06no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eSelf-isolate for 14 days\u003c/b\u003e\n\u003cbr\u003e\n\u003cbr\u003e\nFollow direction given by the Medical Health Officer\n\u003cbr\u003e\n\u003cbr\u003e\nYou \u003cb\u003eDO NOT\u003c/b\u003e require a COVID-19 test\n\u003cbr\u003e\n\u003cbr\u003e\nYou \u003cb\u003eDO NOT\u003c/b\u003e require a nurse assessment",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

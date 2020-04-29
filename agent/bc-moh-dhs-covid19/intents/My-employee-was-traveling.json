@@ -1,0 +1,67 @@
+{
+  "id": "54e266b1-d61b-4617-9d52-5cb5cd35f396",
+  "name": "My-employee-was-traveling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "841643f3-502c-4dce-920c-b8d66553a0ba",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "71834df4-96e5-47d7-8be1-6e70fa39664a",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Employees who are returning international travellers are required by law to self-isolate for 14 days and complete a self-isolation plan. \n\u003cul\u003e\n\u003cli\u003eThe BC Government provides details on how to comply with the Quarantine Act, how to complete your isolation plan and the assessment process upon arrival in Canada.\n\u003cli\u003eThere are some individuals who are exempt from this order to provide essential services, but they still require a self-isolation plan and self-monitoring for symptoms.\n\u003c/ul\u003e\nLearn about \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation\" target\u003d_blank\u003eSelf Isolation and Self Monitoring\u003c/a\u003e , including what to do if you get sick, and how to prevent the spread of COVID-19.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

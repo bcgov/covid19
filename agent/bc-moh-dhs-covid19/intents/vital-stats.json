@@ -1,0 +1,31 @@
+{
+  "id": "afd3caca-1127-4088-aeb8-2fc711e6aede",
+  "name": "vital-stats",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Information on Vital Stats Offices can be found here https://www2.gov.bc.ca/gov/content/life-events?bcgovtm\u003d20200319_GCPE_AM_COVID_4_NOTIFICATION_BCGOV_BCGOV_EN_BC__NOTIFICATION"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

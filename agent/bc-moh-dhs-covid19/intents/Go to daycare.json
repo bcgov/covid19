@@ -1,0 +1,47 @@
+{
+  "id": "74300cf5-503f-4399-8ade-44278bc73722",
+  "name": "Go to daycare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "69dfe1b1-1493-4bcd-b113-1991beb95692",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you can care for your child at home that is advised.  While schools are closed some Day Care Centres remain open for essential services. Refer to  \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/childcare-schools\" target\u003d_blank\u003echildcare and schools\u003c/a\u003e for details.",
+          "ssml": "",
+          "displayText": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

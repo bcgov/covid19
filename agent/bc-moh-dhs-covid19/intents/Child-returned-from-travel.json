@@ -1,0 +1,103 @@
+{
+  "id": "05b6a531-7cbe-4c31-8dd6-6a9063a3bc68",
+  "name": "Child-returned-from-travel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73b10f39-6b44-4c6e-9001-66c1f01e2735",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4aa856e5-0db5-4bce-9bd2-37f58979ee30",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "dbb12c11-a39a-4f5f-bc3e-c537a7f7f16d",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dbbcafa9-1ce8-4b5f-bce6-3832bda09dd8",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3707c5d2-b588-43b0-b7e9-de70ce207c01",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Children are included with all international travellers returning to B.C. who are required by law to self-isolate for 14 days and complete a self-isolation plan. \n\u003cbr\u003e\u003cbr\u003e\nParents of children in daycare or school do not have special requirements unless it is your child or family that travelled outside of Canada. It is important for everyone to practice respiratory etiquette and hand hygiene, and make sure your children stay home when they are sick.\n\u003cbr\u003e\u003cbr\u003e\nPlease refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/childcare-schools\" target\u003d_blank\u003eChildcare \u0026 Schools\u003c/a\u003e for guidance.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,238 @@
+[
+  {
+    "id": "06dc7efc-5d35-4584-8e62-a33241624181",
+    "data": [
+      {
+        "text": "I work with a tree planting organization. ",
+        "userDefined": false
+      },
+      {
+        "text": "Is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " there guidance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab864e4b-c06d-4dcc-87e5-9924b89afc60",
+    "data": [
+      {
+        "text": "what should I do I ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a tree planter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5e2e1a2-db39-4bce-9d91-4cf4de19648f",
+    "data": [
+      {
+        "text": "what about tree planters ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2de3913-8848-4d24-9c5d-5f3bfd5bf5a3",
+    "data": [
+      {
+        "text": "I have a work term with silvaculture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1914f99-b608-4e7a-ad88-d121e1c44037",
+    "data": [
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I go to my tree planting job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "898f21aa-c01d-4242-9093-bef8c8d5f829",
+    "data": [
+      {
+        "text": "orders for tree planting contracts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2d13175-b589-4194-8b49-2938cf0a88d1",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the orders for the silvaculture industry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75952d1e-2cb6-42d0-91a3-1a47b8b4b205",
+    "data": [
+      {
+        "text": "coronavirus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " tree planting industry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfd136af-3454-4268-b739-cf26e528d979",
+    "data": [
+      {
+        "text": "tree planters guidance for ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "214a7cc3-741d-4307-8fbe-5e7c0cf1831f",
+    "data": [
+      {
+        "text": "guidance on tree plant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "049f57cb-7861-4a36-8388-44295ea11084",
+    "data": [
+      {
+        "text": "silvaculture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e364b82b-552a-4aa0-a041-b3e8b06d192e",
+    "data": [
+      {
+        "text": "Can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I go tree planting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d46c02ff-87a7-4790-8858-17f008adf567",
+    "data": [
+      {
+        "text": "tree planting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "49ebff12-4a34-4325-8835-bfffca544023",
+    "data": [
+      {
+        "text": "will gloves protect me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0f6675-339a-4069-a3f0-1d2fcd14eba6",
+    "data": [
+      {
+        "text": "are my hands better in gloves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "208f0614-747d-4c3e-a249-eea20eaa00cd",
+    "data": [
+      {
+        "text": "am I safer with gloves on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a43d476c-c54f-4588-aa19-40b68b71ae7c",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the benefit of wearing gloves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "767609f3-c853-4778-855b-bb585a6224df",
+    "data": [
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " gloves better than washing hands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6994ecdb-f57e-472d-928e-5e9569a9bff8",
+    "data": [
+      {
+        "text": "should I wear gloves when I go out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee657cd1-b0b5-481f-878a-fcfb195cd834",
+    "data": [
+      {
+        "text": "should ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " children wear gloves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed058d9a-a3a3-4130-b2f3-01e6fdaae9e8",
+    "data": [
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " good ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " wear gloves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d32df13-bfc7-4fdd-aa61-58d2b2418061",
+    "data": [
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " gloves protect from the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "710a436f-4b26-407d-84bb-aec0b08020fe",
+    "data": [
+      {
+        "text": "should I wear gloves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

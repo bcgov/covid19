@@ -1,0 +1,358 @@
+[
+  {
+    "id": "a407098b-87d9-4d24-b7a8-e060865c20a9",
+    "data": [
+      {
+        "text": "What time is Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " doing her update ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79022fd2-b973-4468-a4b0-516dd53c35db",
+    "data": [
+      {
+        "text": "when is dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " speaking next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17bdec12-e1f7-4328-8281-d68af5321f9a",
+    "data": [
+      {
+        "text": "when is the next press conference with dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "feb2a3e9-976f-4697-9f87-76bcdbeae119",
+    "data": [
+      {
+        "text": "where can I watch ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " presentation on Modeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79c9f40c-1960-4898-83ec-02291bf470d7",
+    "data": [
+      {
+        "text": "Where can I watch Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " give a live update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee2c27af-9996-41c4-8c3a-98e0fc04ddc4",
+    "data": [
+      {
+        "text": "Bonnie Henry\u0027s address for ",
+        "userDefined": false
+      },
+      {
+        "text": "April 21st",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "910c8d6d-eb57-4560-9633-b24c790c7028",
+    "data": [
+      {
+        "text": "Bonnie Henry\u0027s daily address for ",
+        "userDefined": false
+      },
+      {
+        "text": "april 21",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98027040-57b5-4752-a07e-9603e9b2283c",
+    "data": [
+      {
+        "text": "where can I see the bonny henry update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26146ea4-2c22-48cc-a0d3-c6ffb7d72c7f",
+    "data": [
+      {
+        "text": "wE HAD A CALL FROM THE  PREMIER ",
+        "userDefined": false
+      },
+      {
+        "text": "LAST NIGHT",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " HE TALKED SO FAST I COULDN\u0027T GET ALL ABOUT SIGHT HE WAS RACING THROUGH",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "367db1e4-d7b2-4f81-b2a0-a98ac1ac8719",
+    "data": [
+      {
+        "text": "DO YOU HAVE APRIL 5TH STATS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cfad394-eee1-4bb0-94df-58290ea26147",
+    "data": [
+      {
+        "text": "can you give me the link to the ",
+        "userDefined": false
+      },
+      {
+        "text": "april 08",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " latest case counts on novel coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f935b922-b33e-4105-a84b-a29089fb6ea3",
+    "data": [
+      {
+        "text": "That\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "april 9th",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", i want ",
+        "userDefined": false
+      },
+      {
+        "text": "april 8th",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d68439de-22bd-4a9f-8940-6c73375613d8",
+    "data": [
+      {
+        "text": "Can I see the government videos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ae58c90-f861-4fbd-bc24-3321d8ae7e83",
+    "data": [
+      {
+        "text": "are the old videos archived",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d99f6cbd-3bbd-4875-b82b-4a10be3911a1",
+    "data": [
+      {
+        "text": "can i review all of the past government messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a113dc92-cacc-481d-af78-7e368b09d34b",
+    "data": [
+      {
+        "text": "is there somewhere that the older orders are found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b954ec54-ae70-40dd-867a-161917cbafe7",
+    "data": [
+      {
+        "text": "is there someone I can see past messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91ec2c24-d1c4-4c83-96d6-91e13eac17fb",
+    "data": [
+      {
+        "text": "where can I find a history of what has happened",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04f551d0-8478-407c-9f1e-c61b56c1eeb3",
+    "data": [
+      {
+        "text": "where are the old government info kept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "982b7a55-e605-454e-82e7-08c3b7316dc2",
+    "data": [
+      {
+        "text": "Are the recorded conferences available anywhere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "200887b5-9705-4beb-9d9a-3b4d4444c3fe",
+    "data": [
+      {
+        "text": "Can I see videos of past press conferences?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

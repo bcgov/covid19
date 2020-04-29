@@ -1,0 +1,70 @@
+{
+  "id": "784b2b70-1270-4897-a4d5-0e7b6fb9b778",
+  "parentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "rootParentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "name": "self-assessment-q02",
+  "auto": true,
+  "contexts": [
+    "self-assessment-q01-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-q02-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Are you experiencing any of the following:\n\u003cul\u003e\u003cli\u003eMild to moderate shortness of breath\u003c/li\u003e\n\u003cli\u003eInability to lie down because of difficulty breathing\u003c/li\u003e\n\u003cli\u003eChronic health conditions that you are having difficulty managing because of difficulty breathing\u003c/li\u003e\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "None"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

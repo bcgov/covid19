@@ -1,0 +1,31 @@
+{
+  "id": "3e835b83-08a3-48e1-b657-0c4ae238a40e",
+  "name": "transporation-busses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Information on busses can be found here: More information can be found here:  https://www.bctransit.com/covid19?bcgovtm\u003d20200319_GCPE_AM_COVID_4_NOTIFICATION_BCGOV_BCGOV_EN_BC__NOTIFICATION"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

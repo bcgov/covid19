@@ -1,0 +1,31 @@
+{
+  "id": "a37ceef9-b2b9-445b-a756-e5aa99a672c5",
+  "name": "Volunteer-Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thanks, look here for volunteer opportunities: https://news.gov.bc.ca/releases/2020HLTH0109-000570?bcgovtm\u003d20200319_GCPE_AM_COVID_4_NOTIFICATION_BCGOV_BCGOV_EN_BC__NOTIFICATION"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

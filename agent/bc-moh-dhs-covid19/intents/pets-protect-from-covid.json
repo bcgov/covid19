@@ -1,0 +1,67 @@
+{
+  "id": "10b5e478-9830-42fe-9fdd-521ae2153450",
+  "name": "pets-protect-from-covid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c5c55fe-f5a8-4186-9f23-9432243c1ea6",
+          "required": false,
+          "dataType": "@pet",
+          "name": "pet",
+          "value": "$pet",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f968e342-20c1-45fa-ae88-10779993c656",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Individuals infected with COVID-19 should limit contact with their pets during their illness. The best option is to have another member of the household care for the animals.  If an infected person must care for animals, then they should wash their hands before and after interacting with their animals, their food and supplies. They should avoid close contact with their pet such as snuggling or letting them sleep in their bed. Restrict your animal’s contact with individuals outside your home until your illness has resolved.  If there is no one available to care for your animal (e.g. pet owner is hospitalized and doesn’t have a family member to care for their pet), then arrange for temporary housing of your pet at an animal shelter. Shelters should take the necessary precautions when handling pets from COVID-19 positive households.\n\u003cbr\u003e\u003cbr\u003e\nFor more information on pets and COVID-19 please refer to: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/pets",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

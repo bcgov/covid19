@@ -1,0 +1,650 @@
+[
+  {
+    "id": "7995a956-45c3-4776-bc25-a0b702f343d6",
+    "data": [
+      {
+        "text": "is taking transit safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5245b59d-d3ff-4587-a53f-81e0ab2eee3e",
+    "data": [
+      {
+        "text": "can I take a bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6dd6598-4abe-4aa9-868b-6ada7f370846",
+    "data": [
+      {
+        "text": "Is it safe to go into an area where there has been an outbreak in the community",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39a0fb44-91eb-43ba-930a-ef8d8dea25d8",
+    "data": [
+      {
+        "text": "is it safe to go shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "129c6335-6ae3-401a-bda2-f47e14ff2082",
+    "data": [
+      {
+        "text": "Can I go for a drive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5be9db-656d-4c9b-b729-4978f1b926d3",
+    "data": [
+      {
+        "text": "Family Drive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d67227a0-ed3e-4a3d-a01c-d2a22026b36e",
+    "data": [
+      {
+        "text": "can i go to the starbicks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1cae9d1-a067-4966-833e-4b91eb176a42",
+    "data": [
+      {
+        "text": "Can we leave our homes in B.C.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a947e46-cbc2-450c-968d-b29b935d36d5",
+    "data": [
+      {
+        "text": "Can I ride my motorcycle during the pandemic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c311cc0-68d0-45f8-9778-a7e9fa4f5abb",
+    "data": [
+      {
+        "text": "Can I take my dog to the dog park?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ca8b05e-8476-4160-b05a-a1132dd07ad5",
+    "data": [
+      {
+        "text": "I’m ",
+        "userDefined": false
+      },
+      {
+        "text": "70 years",
+        "alias": "age",
+        "meta": "@sys.age",
+        "userDefined": false
+      },
+      {
+        "text": " old and still working do I need to stay home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a01f3e57-3766-4aeb-a46b-2f078ecab2e2",
+    "data": [
+      {
+        "text": "Retail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09f405ec-359a-4def-a1c2-fcf0518864b8",
+    "data": [
+      {
+        "text": "What are the rules about staying home or not going outside?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6546fdd0-96d5-481c-9a0c-c0818ee732b4",
+    "data": [
+      {
+        "text": "should I stay at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b88349d5-8879-4a67-a46e-4f48507eb59d",
+    "data": [
+      {
+        "text": "should people over ",
+        "userDefined": false
+      },
+      {
+        "text": "65 years",
+        "alias": "age",
+        "meta": "@sys.age",
+        "userDefined": false
+      },
+      {
+        "text": " old be isolating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84ae02a8-b6b0-4b1b-955d-ab67e1f49498",
+    "data": [
+      {
+        "text": "I’ve been coughing ",
+        "userDefined": false
+      },
+      {
+        "text": "for 9 days",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". I’m in a house with ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " other people. They have no symptoms. When can they leave the house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4504deeb-ec87-46a4-b4a2-d7c6b3975c12",
+    "data": [
+      {
+        "text": "Can I go to friends for easter dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6260993-9629-4240-a479-5221985ff68b",
+    "data": [
+      {
+        "text": "Can I go to laundromat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b09af91-5c23-41ad-bc0e-27daf8c43d62",
+    "data": [
+      {
+        "text": "Can I exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8be27768-3f6b-437d-9324-b2a3394057b3",
+    "data": [
+      {
+        "text": "can I clean peoples homes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "23bb5c31-45d9-44f1-b44c-1df8facbe0f7",
+    "data": [
+      {
+        "text": "Can I go in my yard and talk to my neighbours in their yard?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32f78ebf-fa4e-464a-8020-99807477ab57",
+    "data": [
+      {
+        "text": "Can families get together in backyards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f974c99-226a-4252-ac13-68003cbc3edf",
+    "data": [
+      {
+        "text": "Are the current restrictions with covid-",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " for people who are unaffected and not in quarantine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "987f51eb-bd79-44bb-80cd-0fe14c5ea865",
+    "data": [
+      {
+        "text": "is it safe to eat in restaurants?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24dd2fcb-858e-4b50-91b6-13e928003fd0",
+    "data": [
+      {
+        "text": "can i get covid from the outside?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb0c720a-ffea-4d2c-9eac-8cff88819f67",
+    "data": [
+      {
+        "text": "should I use online shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a87d336-7bc4-4296-9d34-f423bdb7879d",
+    "data": [
+      {
+        "text": "can i visit my friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3140dfe9-ada3-4b3d-9afb-d8b802c765a9",
+    "data": [
+      {
+        "text": "can I grocery shop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "367f9769-0abc-4576-ad34-7681946a202e",
+    "data": [
+      {
+        "text": "I can visit the hardware store if needed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "139e8495-e885-4169-8e68-c065b1a9d2e0",
+    "data": [
+      {
+        "text": "why are people still going outside?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3d3b17f1-20ee-4f60-b6a5-474d7e81d500",
+    "data": [
+      {
+        "text": "Can I use a taxi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "00713c08-18fe-4386-be02-332e161d17a3",
+    "data": [
+      {
+        "text": "is the library open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5a0306e-c560-461b-94d9-07f71c332a1a",
+    "data": [
+      {
+        "text": "can i drive my car if i am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "146fe259-01c0-4bc9-bd82-e726e5c4df59",
+    "data": [
+      {
+        "text": "can i drive my car if i have the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "286f7137-7968-46fb-800a-f1413e0e1654",
+    "data": [
+      {
+        "text": "Should I stay inside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bb1d4ac-f432-4b7c-8eb6-45bc1d19e6aa",
+    "data": [
+      {
+        "text": "Can I go to a party",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48ed424a-badf-44b4-95a6-21269cb663b0",
+    "data": [
+      {
+        "text": "am I at risk if I go to the dentist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f25a772c-a4e2-4c3c-af67-140f00980ad7",
+    "data": [
+      {
+        "text": "should I go to work ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc7f6346-9c36-4240-bdc2-a5c7669db41a",
+    "data": [
+      {
+        "text": "i need to get my haircut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7da9ee60-3d39-401b-b9c4-4936bb3d0545",
+    "data": [
+      {
+        "text": "can I get my hair cut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14a461d4-bbde-4391-bcc7-ce1989bbf700",
+    "data": [
+      {
+        "text": "Is it safe to go grocery shopping?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afa512fc-1493-48a3-ad79-5f4bbba657b8",
+    "data": [
+      {
+        "text": "Is public transit safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6cd12307-2726-4a30-bca5-459bdd741521",
+    "data": [
+      {
+        "text": "Can I get sick from public transit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8e60faf4-9938-4e14-997e-983cf7d91d15",
+    "data": [
+      {
+        "text": "Can I get covid from an uber?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1ad455e6-bec7-47f7-b800-03e6cae744e3",
+    "data": [
+      {
+        "text": "Can I go to a restaurant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "865b307f-fb68-4d27-b119-3d1a27de32f2",
+    "data": [
+      {
+        "text": "Can I order pizza?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "389bb6de-979e-46b0-bfdc-04521fd0b7dc",
+    "data": [
+      {
+        "text": "Do I go to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "119c3fd9-d27b-4ecd-8500-c01e128e2fd3",
+    "data": [
+      {
+        "text": "Do I need to stay at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e973825-56a7-4f8b-b2e3-7bb92d6be22f",
+    "data": [
+      {
+        "text": "Is it safe to go out in public (eg. to work, ride the bus)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

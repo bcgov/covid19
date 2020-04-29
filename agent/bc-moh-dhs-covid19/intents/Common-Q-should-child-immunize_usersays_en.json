@@ -1,0 +1,208 @@
+[
+  {
+    "id": "bb61d481-c83b-4599-93c1-104be0882a3f",
+    "data": [
+      {
+        "text": "regular baby immunization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54a674ae-e870-43d8-b80a-931e4bbffab6",
+    "data": [
+      {
+        "text": "baby immunization schedule changes with covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbec23b5-3f75-4426-bc80-87d42fca64a0",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " baby immunizations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "756397f6-e3b4-4e4c-b306-56a72d280a4e",
+    "data": [
+      {
+        "text": "will",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " baby immunization appointment go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d7e1723-7edb-48f5-b145-c47635f95a86",
+    "data": [
+      {
+        "text": "baby immunization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dd8507c-bb62-4578-b4ca-4942c874d7d2",
+    "data": [
+      {
+        "text": "immunization ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " baby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b51ca8ba-ece4-40b9-94f6-090ab675353f",
+    "data": [
+      {
+        "text": "immunize",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "716057e6-8706-419d-98c1-440069eebd73",
+    "data": [
+      {
+        "text": "immunization appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dbe4246-adc1-4552-850e-40efd3c250f6",
+    "data": [
+      {
+        "text": "should ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " still ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " immunized",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3aaaced0-8fa3-4b18-bbda-acdaab930d7f",
+    "data": [
+      {
+        "text": "should I take ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " for immunization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

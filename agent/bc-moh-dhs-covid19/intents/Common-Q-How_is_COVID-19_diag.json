@@ -1,0 +1,31 @@
+{
+  "id": "f15a2d6c-3abf-469a-946f-0bc497176f80",
+  "name": "Common-Q-How_is_COVID-19_diag",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "COVID-19 testing is done using samples collected by a nasopharyngeal swab (NP) or throat swab. The BCCDC Public Health Laboratory (PHL) has developed laboratory guidance for COVID-19 diagnostic testing. If your health care provider thinks you may have the new coronavirus, they will arrange for testing."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

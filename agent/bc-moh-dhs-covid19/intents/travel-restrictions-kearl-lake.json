@@ -1,0 +1,79 @@
+{
+  "id": "8a4c023f-b4d1-4a99-a49f-c35e41b59f67",
+  "name": "travel-restrictions-kearl-lake",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0bbf6f48-f803-4bd8-9877-9f5a7f6a1528",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "158e2d5f-4cbd-4269-8742-bf06c80e7b0a",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1f10eb82-e89b-4498-bf83-1c2867817e2c",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "British Columbians returning from the Kearl Lake project, near Fort McMurray, Alta., from March onward, are ordered to immediately self-isolate for 14 days. Contact your primary care provider, 811 or local public health team if you develop symptoms.\n\u003cbr\u003e\u003cbr\u003e\nLearn more about self-isolation when returning from travel at our \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation\" target\u003d_blank\u003eSelf Isolation Page\u003c/a\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

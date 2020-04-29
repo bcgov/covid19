@@ -1,0 +1,131 @@
+[
+  {
+    "value": "dad",
+    "synonyms": [
+      "dad"
+    ]
+  },
+  {
+    "value": "father",
+    "synonyms": [
+      "father"
+    ]
+  },
+  {
+    "value": "mother",
+    "synonyms": [
+      "mother"
+    ]
+  },
+  {
+    "value": "mom",
+    "synonyms": [
+      "mom"
+    ]
+  },
+  {
+    "value": "brother",
+    "synonyms": [
+      "brother"
+    ]
+  },
+  {
+    "value": "husband",
+    "synonyms": [
+      "husband",
+      "hubby"
+    ]
+  },
+  {
+    "value": "wife",
+    "synonyms": [
+      "wife"
+    ]
+  },
+  {
+    "value": "spouse",
+    "synonyms": [
+      "spouse"
+    ]
+  },
+  {
+    "value": "family member",
+    "synonyms": [
+      "family member"
+    ]
+  },
+  {
+    "value": "friend",
+    "synonyms": [
+      "friend",
+      "bff",
+      "best friend"
+    ]
+  },
+  {
+    "value": "neighbour",
+    "synonyms": [
+      "neighbour"
+    ]
+  },
+  {
+    "value": "coworker",
+    "synonyms": [
+      "coworker",
+      "co-worker"
+    ]
+  },
+  {
+    "value": "son",
+    "synonyms": [
+      "son"
+    ]
+  },
+  {
+    "value": "daughter",
+    "synonyms": [
+      "daughter"
+    ]
+  },
+  {
+    "value": "kid",
+    "synonyms": [
+      "kid",
+      "kids",
+      "child"
+    ]
+  },
+  {
+    "value": "grandmother",
+    "synonyms": [
+      "grandmother",
+      "nana",
+      "granny"
+    ]
+  },
+  {
+    "value": "grandfather",
+    "synonyms": [
+      "grandfather",
+      "gramps"
+    ]
+  },
+  {
+    "value": "uncle",
+    "synonyms": [
+      "uncle"
+    ]
+  },
+  {
+    "value": "aunt",
+    "synonyms": [
+      "aunt"
+    ]
+  },
+  {
+    "value": "cousin",
+    "synonyms": [
+      "cousin"
+    ]
+  }
+]

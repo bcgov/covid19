@@ -1,0 +1,65 @@
+{
+  "id": "0da7e220-ecce-4d7c-8380-503953874a0f",
+  "name": "HCP-Newborn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "77db4f28-cbfc-4eb7-85c1-35743fb4403a",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "bfa0093e-0728-405e-8cfd-24d6bfc3938d",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eHealth Care Professionals\u003c/b\u003e: For guidance for newborn care, resuscitation procedures and lactation please refer to \u003ca href\u003d\"http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/clinical-care/newborns\" target\u003d_blank\u003e Newborns\u003c/a\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

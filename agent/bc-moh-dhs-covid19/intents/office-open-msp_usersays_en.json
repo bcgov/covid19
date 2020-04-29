@@ -1,0 +1,480 @@
+[
+  {
+    "id": "5ab57a9f-d39f-4c74-9959-218964b76759",
+    "data": [
+      {
+        "text": "Hi I\u0027ll be landing in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": ". How long till I get my B.C. health card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a02cad68-1b3b-4cd3-9330-4035b7bbdfd6",
+    "data": [
+      {
+        "text": "how can i pay health fee online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40af4f2c-e7e3-43a0-ae2f-e6f5ee6c802f",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " international student in ",
+        "userDefined": false
+      },
+      {
+        "text": "BC",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": ". i heard that international students health fee can waied  up to thre months . is it right ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c515d94b-3738-4203-824c-e239ba46b3c8",
+    "data": [
+      {
+        "text": "can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "insured",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "health insurance",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea24eb07-874f-4446-87f5-ad69ab75fb45",
+    "data": [
+      {
+        "text": "health insurance",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "865c15be-ad25-4090-aa0d-ecfcf1b32785",
+    "data": [
+      {
+        "text": "medical services plan",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be4bf40b-00b6-4ffc-af38-619afccb0661",
+    "data": [
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a19bbb01-c514-4f2c-8634-756c1efce509",
+    "data": [
+      {
+        "text": "medical ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b334890d-7e81-4bed-80bc-ec05d7b137c6",
+    "data": [
+      {
+        "text": "what about medical ",
+        "userDefined": false
+      },
+      {
+        "text": "coverage",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9299ea38-0670-4afb-a9ec-170c33395b8b",
+    "data": [
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I get ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      },
+      {
+        "text": " during ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aba46499-aa07-4def-8079-adbe626940ce",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " info on ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0abc1e0b-2db4-498e-9860-a80b5596098b",
+    "data": [
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " family able ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " get ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73bdd031-47c9-4b08-a2dd-3b52276feef9",
+    "data": [
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I elligible for ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ee632dd-1e5a-417b-8704-63a59fbf014f",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I get added for ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4072eecd-8e77-4e41-be19-7062802aae74",
+    "data": [
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " there information on ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c86be839-b42a-441b-8f43-4f16e09ba89c",
+    "data": [
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      },
+      {
+        "text": " office open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "486c3bfb-2d56-48e8-b27c-61105d0a740d",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I go for ",
+        "userDefined": false
+      },
+      {
+        "text": "medical services plan",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      },
+      {
+        "text": " info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e902574-38f3-4664-a21b-96a43a4d4d31",
+    "data": [
+      {
+        "text": "Where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I get a care card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddd1bbae-2b45-4522-9ea8-22c6d101e46d",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "msp",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

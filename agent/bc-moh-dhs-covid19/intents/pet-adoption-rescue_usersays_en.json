@@ -1,0 +1,204 @@
+[
+  {
+    "id": "b33b0990-e70b-48a4-9032-943be44ad856",
+    "data": [
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " adoption rescue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee1718b6-8242-4e27-8aaf-5f89ef72715e",
+    "data": [
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " rescue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bda9850-ef99-4b64-a6f8-6b1b05a4470c",
+    "data": [
+      {
+        "text": "overseas animal rescue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a73c773-0821-4de0-8701-db2b449fde0a",
+    "data": [
+      {
+        "text": "can I get a foster ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6a7e157-2f03-4374-875f-e1003c48a8b1",
+    "data": [
+      {
+        "text": "adopt ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " from shelter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a3e706-198a-44e5-9655-a11bb70ddaf3",
+    "data": [
+      {
+        "text": "adopt foreign rescue ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48248c2b-ff75-4bf0-b3a7-b11f8aeb1f35",
+    "data": [
+      {
+        "text": "CanI get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from an imported ",
+        "userDefined": false
+      },
+      {
+        "text": "cat",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "002274e6-3933-469f-92b7-76e81e95cf90",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from a foreign ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ecb0b41-9355-4296-8311-a49d1a26fd4b",
+    "data": [
+      {
+        "text": "Am I at risk of getting ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from an imported animal such as a ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "11216a91-45e5-4212-b206-7a986d367bad",
+    "data": [
+      {
+        "text": "which accomodation government prepares in bc for no covid symptom from oversea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fc98e3d-19e6-443d-9cdc-5d259882171a",
+    "data": [
+      {
+        "text": "which accomodation government prepares to non covid traveler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9bce575-d012-466f-abb4-b2137176ffb7",
+    "data": [
+      {
+        "text": "Where is support for travellers form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "084bb8ab-4ce7-4945-a362-255ff6d9ebcb",
+    "data": [
+      {
+        "text": "Can my husband get back home from traveling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7481870b-9f56-4bf1-a780-ccc636241445",
+    "data": [
+      {
+        "text": "Can my parents get back to ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b771342a-b579-4dd1-b67b-326d7a18cbe5",
+    "data": [
+      {
+        "text": "How can I get home from my cruise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5646c8b-3445-4180-9b9b-b6b335eb011e",
+    "data": [
+      {
+        "text": "How can I get back to ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97619203-3e0e-45fe-a99b-50ffee31b34e",
+    "data": [
+      {
+        "text": "how do I get home if i\u0027m out of the country?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bcb67c9-5e62-4e4c-b952-05ad8b1addd5",
+    "data": [
+      {
+        "text": "How do I travel home if I\u0027m outside ",
+        "userDefined": false
+      },
+      {
+        "text": "canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6baff36e-35d6-4466-b60a-dd05a491ba05",
+    "data": [
+      {
+        "text": "how do i get back to bc?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c837bd5-dc07-4563-a92a-c8aa6adc9983",
+    "data": [
+      {
+        "text": "Is there funding for people outside of ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3a7309d-026b-4cac-854f-51f367a38c4f",
+    "data": [
+      {
+        "text": "Can I get a loan to return to Canada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ccdbe54-8858-44ab-8ee4-a13d886e358a",
+    "data": [
+      {
+        "text": "Is there any funding for return travel to Canada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7da64985-545d-4e9f-92e1-31826982e2db",
+    "data": [
+      {
+        "text": "I am outside of ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " is there any funding to return to Canada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

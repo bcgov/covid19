@@ -1,0 +1,79 @@
+{
+  "id": "510838e1-fd0b-4a92-b717-285ef622de30",
+  "name": "HCP-eye-and-face-care",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b007118c-55bc-471b-a3f9-8edc3eb36e45",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dea3830b-5a8d-4de7-96dd-567637f98d25",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "d8788413-fdef-46f6-98c2-70b521c9d759",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code2",
+          "value": "$geo-country-code2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eHealth Care Professionals\u003c/b\u003e: Details on eye and face care can be found here: http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/infection-control/personal-protective-equipment\n\u003cbr\u003e\u003cbr\u003e\nFor non healthcare uses please ask me about guidance on face masks.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

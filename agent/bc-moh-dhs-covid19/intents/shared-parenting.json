@@ -1,0 +1,68 @@
+{
+  "id": "76e299c2-07d4-4d27-9d96-cd9432cef0ee",
+  "name": "shared-parenting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c84f9715-561e-4ae4-bd07-e132630fcb4e",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "65973064-82dd-4d76-b7f4-b5ce37fca023",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "77180b5a-35c5-4ae1-b14a-8a79ae449254",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You must comply with the parenting agreement or court order that gives parenting time or contact with a child to another person. You should not change the current schedule unless there is a good reason to believe your child’s safety is at risk. Parents may have to temporarily adjust parenting time schedules if the child or parent must self-isolate, is sick, or has been exposed to someone who is sick. For more information : https://www2.gov.bc.ca/gov/content/life-events/divorce/family-justice/legal-covid-19"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "84ce9250-3df1-4fd0-8b44-b2b43df8d3a7",
+  "name": "Call 211",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7e1e9094-556a-4f4f-954d-3921165f5432",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bc14c26a-9041-4d7b-adf2-1e4ec7f3df52",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "This province wide information and referral service operated by the United Way connects people with community, social, or government services. \n\u003cbr\u003e\u003cbr\u003e\n2-1-1 is for anyone in BC needing information on financial assistance or income support, and services such as legal aid, system navigation for child and family services, services for temporary financial relief, and accessing home support. \n\u003cbr\u003e\u003cbr\u003e\nAvailable 24/7; free, confidential, and multilingual. You can call or text 2-1-1.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

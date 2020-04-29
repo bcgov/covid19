@@ -1,0 +1,32 @@
+[
+  {
+    "value": "car",
+    "synonyms": [
+      "car"
+    ]
+  },
+  {
+    "value": "motorcycle",
+    "synonyms": [
+      "motorcycle"
+    ]
+  },
+  {
+    "value": "motorhome",
+    "synonyms": [
+      "motorhome"
+    ]
+  },
+  {
+    "value": "bus",
+    "synonyms": [
+      "bus"
+    ]
+  },
+  {
+    "value": "truck",
+    "synonyms": [
+      "truck"
+    ]
+  }
+]

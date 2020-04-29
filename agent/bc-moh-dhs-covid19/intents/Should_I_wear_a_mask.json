@@ -1,0 +1,42 @@
+{
+  "id": "849f16c8-df0a-4339-b569-ba5a1e2856d9",
+  "name": "Should_I_wear_a_mask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eMedical masks and N95 respirators should be reserved for healthcare workers.\u003c/b\u003e\n\u003cbr\u003e\u003cbr\u003e\nIf you are a healthy individual, the use of a cloth mask is a personal choice. Wearing a non-medical mask in the community has not been proven to protect the person wearing it. \n\u003cbr\u003e\u003cbr\u003e\nAny mask, no matter how efficient at filtration or how good the seal, will have minimal effect if it is not used together with other preventive measures, such as frequent hand washing, physical distancing and not touching your face\nWearing a mask when not ill may give a person a false sense of security and are likely to increase the number of times a person will touch their own face (e.g., to adjust the mask).\n\u003cbr\u003e\u003cbr\u003e\nThere is a potential risk of infection with incorrect mask use, placement and when putting it on or taking it off\nMasks also need to be changed frequently.‎ \n\u003cbr\u003e\u003cbr\u003e\nFor more information on who should wear masks refer to BCCDC Common Questions Page http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

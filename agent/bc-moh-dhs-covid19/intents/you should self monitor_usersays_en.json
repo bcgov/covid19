@@ -1,0 +1,296 @@
+[
+  {
+    "id": "f69d3beb-5073-42f1-b631-2104a0162e18",
+    "data": [
+      {
+        "text": "If I self quarantine and am not sick for ",
+        "userDefined": false
+      },
+      {
+        "text": "14 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": ", can I assume I do not have covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b78094d-f81b-4e5b-914d-5a4544b740fb",
+    "data": [
+      {
+        "text": "I just finished my 14 day isolation after travel, what are the rules now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24f83388-8940-4c0c-8b62-9f96be067bd4",
+    "data": [
+      {
+        "text": "I am isolating and am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93170760-5da0-43a9-9b9e-ca099329e5d7",
+    "data": [
+      {
+        "text": "I am quarantined and am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "975ede21-87b6-4cb7-b4f0-c521f92af180",
+    "data": [
+      {
+        "text": "what if I get sick when quarantined?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59eca4e5-ef43-4f32-8c2f-3bdd620cbfed",
+    "data": [
+      {
+        "text": "what if I get sick when I am isolated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f40072ee-a144-4245-8223-f227bd826246",
+    "data": [
+      {
+        "text": "What if I get sick when I am self isolating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adeae3c8-3e69-4ade-bf24-700b51095bc7",
+    "data": [
+      {
+        "text": "What is self monitor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05cba5b9-3785-4140-9625-eca4dd9b8e87",
+    "data": [
+      {
+        "text": "how do I self monitor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8884db4-d6a5-4fdf-8f9d-929842b836c2",
+    "data": [
+      {
+        "text": "what do I do when I am quarantined?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "147125c0-2f22-4dd0-8f50-bc7257e27544",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "family member",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " and wore protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c3ef65a-0f3c-4b6a-ab52-33bcc34ab86e",
+    "data": [
+      {
+        "text": "I am a doctor and wore protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38f6a16e-a5d7-4751-9061-fbd8c0ead181",
+    "data": [
+      {
+        "text": "I am a nurse who was protected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfb9278d-c877-47b9-8008-25eefc017e20",
+    "data": [
+      {
+        "text": "I am a health care worker with protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bbc2993-0ace-48ed-b3d8-41d76abb5d3f",
+    "data": [
+      {
+        "text": "I traveled but not outside of ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d1e4806-e52a-4360-82fb-ce7648ae331b",
+    "data": [
+      {
+        "text": "I traveled within ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc75ea0d-356a-4f8c-a03b-a265900e0be4",
+    "data": [
+      {
+        "text": "I was in contact with someone sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32128d51-85f1-43d3-9545-b047f27f4155",
+    "data": [
+      {
+        "text": "My family member has been sick but not tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bca33b9-e9af-4e96-9e28-148375589e4a",
+    "data": [
+      {
+        "text": "My family member may have covid but has not traveled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df11a147-4198-442a-84bb-7230c4229b32",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "family member",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " is sick but has not traveled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dd71053-a370-4eae-b0a5-66eb9dadfde0",
+    "data": [
+      {
+        "text": "I have been in contact with someone who is sick but not positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

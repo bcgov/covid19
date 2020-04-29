@@ -1,0 +1,56 @@
+{
+  "id": "3b2ae391-d745-4035-a594-132fd6fcded1",
+  "name": "you should self monitor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ebd26c4d-f5ab-4ba4-80be-f98d23b7028d",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "192635ef-1480-4b3a-bef7-02a72e2647b2",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Self-monitoring means you should be monitoring your health and the health of your children for symptoms such as fever, cough or difficulty breathing. Individuals who are self-monitoring are allowed to attend work and school and take part in regular activities. For more information please refer to:  http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

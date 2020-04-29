@@ -1,0 +1,504 @@
+[
+  {
+    "id": "812977a3-85f5-4862-ab42-a623f16248a0",
+    "data": [
+      {
+        "text": "Looking for information on current group size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a97a5bb-6041-436b-b5dd-bb89d9ec7cf4",
+    "data": [
+      {
+        "text": "I am looking for safe practices during Ramadan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "733d88c8-05ff-4b79-9c7b-c837f9a9d321",
+    "data": [
+      {
+        "text": "Does BCCDC agree with the WHO Safe Ramadan practices document?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ca9c16c-2e40-4295-b081-aa9561b64d45",
+    "data": [
+      {
+        "text": "cancel event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18e6a041-68b4-4483-bef4-decde5d4aafb",
+    "data": [
+      {
+        "text": "Is it a public health order that more than ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " people cannot meet? Does that also mean indoors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deb7f904-42c0-45db-b31f-9c85fba2f8aa",
+    "data": [
+      {
+        "text": "What restrictions are in place for groups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a8e991a-3861-40ed-87ff-f0f646bf0edd",
+    "data": [
+      {
+        "text": "Which of these are exempt from the ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "-person limit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b8fbc2b-56cb-4cb9-9e41-e3c7b44c8ee4",
+    "data": [
+      {
+        "text": "Can I get married?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a958684-9e80-49ed-b332-b18ffe118a82",
+    "data": [
+      {
+        "text": "i shopped at canadian tire and it seemed there was quite a few people in the store is there a limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53878d29-6919-466b-bd74-95e5fedb50ea",
+    "data": [
+      {
+        "text": "How are societies supposed to proceed with annual general meetings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0a610a6-d740-4e72-ba45-f0f81a1bd36a",
+    "data": [
+      {
+        "text": "How many people can be in one area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a11a55ee-dbcb-42e2-a7b1-39f356645c4a",
+    "data": [
+      {
+        "text": "What about groups getting together",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dfeddae-ba3b-4082-a5a3-568c691523d3",
+    "data": [
+      {
+        "text": "We have a convention to go to in the beginning of ",
+        "userDefined": false
+      },
+      {
+        "text": "June",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": ". Should we cancel going?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "488d6942-e488-40d6-9be6-f6d7d4498746",
+    "data": [
+      {
+        "text": "what are the rules for large gatherings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf95f7f3-603a-4c9f-8459-3ce87f5d77bc",
+    "data": [
+      {
+        "text": "Is house party allowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35da1d42-b3ef-4ae1-8e1f-f0a423c222f2",
+    "data": [
+      {
+        "text": "There\u0027s a house party going on next door.  Is it ok to do so?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aed9aa80-75bf-4da1-a12e-851068e77e53",
+    "data": [
+      {
+        "text": "house party",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12161eb8-f334-49e0-944b-520786e6dc60",
+    "data": [
+      {
+        "text": "In BC how many people can gather?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6213b381-d530-42aa-a2c6-6fe11890050d",
+    "data": [
+      {
+        "text": "What is the maximum that persons can get together outside in a social gathering while maintaining social distancing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d0a6a2a-b520-408d-b7f5-92c4d1d943f2",
+    "data": [
+      {
+        "text": "How many people can go to a funeral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60d84372-d1c7-405d-a5e6-9d3d99cad7d9",
+    "data": [
+      {
+        "text": "Funeral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3bd8557-187a-41da-aa11-0382a80d9b65",
+    "data": [
+      {
+        "text": "Max number of people in funeral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6956b0a9-6988-41f2-9ac7-72fa80e09795",
+    "data": [
+      {
+        "text": "What is the max amount of people say for funeral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2d4f31c-8452-42ac-b9d7-57edbcff45d7",
+    "data": [
+      {
+        "text": "can we plan a ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "+ gathering in ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "191a0672-88c5-4918-ac0e-66861142dc22",
+    "data": [
+      {
+        "text": "can a local government host a council meeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f10a7af2-94c0-4e59-9fcc-f42819235efa",
+    "data": [
+      {
+        "text": "What public spaces are allowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7c2c0c0-68d6-4510-aca6-19524f030a38",
+    "data": [
+      {
+        "text": "What can do about religious celebrations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afbd5214-afbd-4147-aad9-0dc395482fc1",
+    "data": [
+      {
+        "text": "Can I go to a wedding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e43ee7e8-6e9e-48d3-83c3-2101491dda07",
+    "data": [
+      {
+        "text": "Can I still have my wedding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f292ca84-ed3b-437b-b5c1-0baa1b4c6f8d",
+    "data": [
+      {
+        "text": "how long are things cancelled for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60a94d2f-b24b-41cf-a462-c113964fa962",
+    "data": [
+      {
+        "text": "are all events cancelled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41dcce91-3289-4562-9c1a-72d44df068b3",
+    "data": [
+      {
+        "text": "are conferences cancelled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd6887c4-1bf4-4d75-a0e1-9b5fa31e7685",
+    "data": [
+      {
+        "text": "what events are cancelled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0035dfc-5e37-46f8-a954-74dad1f0da68",
+    "data": [
+      {
+        "text": "Is my concert cancelled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ec4441f-3632-42a6-92ef-f6d6affeddb3",
+    "data": [
+      {
+        "text": "Is my event cancelled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49832f6d-0d50-4f4e-aa18-6ac3e5201e23",
+    "data": [
+      {
+        "text": "Am I at risk from attending A conference",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef371442-7b7f-42d5-ae46-bbdbce22879b",
+    "data": [
+      {
+        "text": "Can I hold my wedding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8dc71316-f58c-45d4-9dc4-8751407757cb",
+    "data": [
+      {
+        "text": "Why are events being cancelled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

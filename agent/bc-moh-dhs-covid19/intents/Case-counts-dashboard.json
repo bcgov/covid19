@@ -1,0 +1,163 @@
+{
+  "id": "f22291d8-52d5-41c8-b835-e06882c2b464",
+  "name": "Case-counts-dashboard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06e4ed3d-cd13-4dd2-8109-a1676582551e",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3210fc61-316e-4cfe-afa3-a1c616faa59d",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6af8c887-7b12-4aeb-a5ed-1edb43fcd57d",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c6e06c40-593f-462e-b9e2-bbf4ba393156",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "3f979174-39aa-4698-a619-85f5f2e59598",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1e7904e0-4360-4607-8bb5-17b0f5b77551",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1c0e8705-0b75-4951-a7d2-ae37693cfb6a",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4e3feadb-5fe7-4ede-9781-7301bc9cf1f4",
+          "required": false,
+          "dataType": "@sys.unit-length",
+          "name": "unit-length",
+          "value": "$unit-length",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fe314fab-acc8-469e-92ac-a7568fbd0c7f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d443aea1-964f-4690-9ae3-0b3914cd05ba",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number2",
+          "value": "$number2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "The BC CDC is reporting case counts by BC Health Authority.  \n\u003cbr\u003e\u003cbr\u003e\nThese numbers are updated daily at end of day. As of 4/27/2020 4:30pm, there are 1998 cases (11 new) in BC. \n\u003cBR\u003e\n\u003cbr\u003e\n\u003cli\u003eFraser Health 879 | 3 new\n\u003cli\u003eVancouver Coastal 795 | 4 new\n\u003cli\u003eInterior Health 164 | 3 new\n\u003cli\u003eVancouver Island 117 | 1 new\n\u003cli\u003eNorthern Health 43 | 0 new\n\u003cbr\u003e\u003cbr\u003e\n\u003ca href\u003d\"http://www.bccdc.ca/covid19data\" target\u003d\"_blank\"\u003eBC COVID-19 Data\u003c/a\u003e has further details on cases, the epidemic curve over time and the provincial surveillance reports.\n\u003cbr\u003e\u003cbr\u003e\nThe Public Health Agency of Canada \u003ca href\u003d\"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1\" target\u003d\"_blank\"\u003edashboard\u003c/a\u003e has details on case counts across Canada.\n\u003cbr\u003e\u003cbr\u003e\nGlobal case counts are available at the \u003ca href\u003d\"https://who.sprinklr.com/\" target\u003d_blank \u003eWorld Health Organization\u003c/a\u003e.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

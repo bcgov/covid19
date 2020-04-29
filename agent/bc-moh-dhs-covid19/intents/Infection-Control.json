@@ -1,0 +1,67 @@
+{
+  "id": "d82b20e3-0495-4dba-922f-3c09922a1f03",
+  "name": "Infection-Control",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af1b0042-cf12-4de9-89eb-5479ac0f8425",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "52d433b3-2e2d-42b8-90e5-1fe4880d5d34",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "For guidance about person protective equipment (PPE) for environmental service staff in health care facilities, as well as information on environmental cleaning, laundry and waste management: \u003ca href\u003d\"http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/infection-control\" target\u003d_blank\u003eInfection Control\u003c/a\u003e. \n\u003cbr\u003e\u003cbr\u003e\nAlso  see the \u003ca href\u003d\"http://www.bccdc.ca/Health-Info-Site/Documents/Environmental_Service_Providers_Health_Care.pdf\" target\u003d_blank\u003eInformation Sheet\u003c/a\u003e for environmental service providers in health care settings.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

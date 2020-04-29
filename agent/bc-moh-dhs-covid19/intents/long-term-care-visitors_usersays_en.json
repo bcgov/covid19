@@ -1,0 +1,502 @@
+[
+  {
+    "id": "d98d6451-c0a5-4be4-a5f4-0079c0140138",
+    "data": [
+      {
+        "text": "Can I send a care package to a resident of a care home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2efe28f6-53e3-4f9f-8639-589ff302399f",
+    "data": [
+      {
+        "text": "Long term care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "450856a8-1e73-4af9-8c68-df982e3318ff",
+    "data": [
+      {
+        "text": "Hello. Are long term care homes currently under quarantine in bc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60e331cd-e6e3-4318-ada3-43a64850a051",
+    "data": [
+      {
+        "text": "How do I handle this situation with his visiting time coming up ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b922b76-919b-4032-a72e-8e6f1eed2d89",
+    "data": [
+      {
+        "text": "my 99 yr old uncle in long term is not doing well. He does not have covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ". Can we go see him before he passes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbef9b33-08fc-4668-978f-546e4111a9e8",
+    "data": [
+      {
+        "text": "can I visit a care home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9301974-21e5-478f-86d3-23598fa6b31d",
+    "data": [
+      {
+        "text": "can I visit my mother in her care home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b446cecd-73b3-450e-b7d4-e6293e694bb7",
+    "data": [
+      {
+        "text": "can I go to a care home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ed7e35d-20a2-4d38-b5df-8eb4b20fa319",
+    "data": [
+      {
+        "text": "visit elderly patients ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dad5163a-9e38-4b0b-a17c-3c3b46fb44f6",
+    "data": [
+      {
+        "text": "go see elderly patients ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a nursing home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5129aa7-ec54-44f2-a361-eba7de9c29d5",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " not sick ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I go see ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code2",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " parent ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code2",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30b795b6-b7d4-4ad4-a2b1-c0f90002515d",
+    "data": [
+      {
+        "text": "who ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " go see someone ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a nursing home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62f58c9d-3039-4905-868b-a7d440912eae",
+    "data": [
+      {
+        "text": "who ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " visit a nursing home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44096727-77d3-4ac3-99dd-c7b7fecc29f4",
+    "data": [
+      {
+        "text": "who ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " visit a long term care facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b82ac51-4ae9-4f79-b485-ee95ca63af39",
+    "data": [
+      {
+        "text": "visit parent ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76bdba90-8c32-4673-83a6-7cb2606fb9f2",
+    "data": [
+      {
+        "text": "go see parent ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f62c740-73ca-4ebd-983b-d456d07f6df9",
+    "data": [
+      {
+        "text": "nursing home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d589b1d7-27c3-4875-ad44-07a329946236",
+    "data": [
+      {
+        "text": "visit parent ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a nursing home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "670265a7-9d8f-4dc0-88c2-6647452629e0",
+    "data": [
+      {
+        "text": "assisted living visit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7866a5f4-b83a-4b02-8ed3-3dc79884b224",
+    "data": [
+      {
+        "text": "visit long term care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e23d545-bc28-4229-9431-2a69662095a6",
+    "data": [
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I go ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " see ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code2",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " parent ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code2",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a long term care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d730decc-b4d4-4a50-a5b5-e507725dca59",
+    "data": [
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I go visit ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8e70300-1317-4f03-929b-5cfcd223dcff",
+    "data": [
+      {
+        "text": "Can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I visit ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " parent ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code2",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a faclity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "id": "50c55303-3b6f-42f7-b90c-dfb85e7634ed",
+  "name": "pet-vaccine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b93a4a5d-325c-4be3-bd09-a8b2490fd350",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "024fd14d-c0de-4a1e-b4a9-e15e8249f049",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bf82f678-3f01-4e56-a371-9cc94c15caec",
+          "required": false,
+          "dataType": "@pet",
+          "name": "pet",
+          "value": "$pet",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5f91c1eb-43d9-43ca-97bc-6e888b2aba9c",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "39741035-49fd-4c23-9817-741989d51f35",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "No. Currently, there are no vaccines against COVID-19 available for animals. There is absolutely no evidence that vaccinating dogs with commercially available vaccines for other coronaviruses will provide cross-protection against COVID-19.  \n\u003cbr\u003e\u003cbr\u003e\nFor more information on pets and COVID-19 please refer to: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/pets",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "26af3896-b461-4642-92ac-d8c3d12e42ec",
+    "data": [
+      {
+        "text": "can I take transit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d959a273-d721-4b2e-9fda-a4aaf0912554",
+    "data": [
+      {
+        "text": "is taking transit safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "540d7e18-38e1-4b83-a39c-8639b78d2dc2",
+    "data": [
+      {
+        "text": "Is it safe to travel on public transit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efd4d745-e7aa-4579-be3d-ad1e20722a65",
+    "data": [
+      {
+        "text": "Why are there so many people allowed to be on a bus when there is really no way to be socially distant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8baba28d-6d38-4e23-aa6e-84b501aa7c88",
+    "data": [
+      {
+        "text": "should I still use the skytrain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e85163ea-fd06-45c4-9813-5f12a634937d",
+    "data": [
+      {
+        "text": "Do I need to pay bus fare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f26c577b-f66f-44a0-ab52-c11da4497d89",
+    "data": [
+      {
+        "text": "Do I need a bus pass?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a94dcf7f-68e8-499f-95b2-14f4ec97db60",
+    "data": [
+      {
+        "text": "Are busses running?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

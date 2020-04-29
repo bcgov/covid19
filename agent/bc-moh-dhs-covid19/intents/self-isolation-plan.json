@@ -1,0 +1,44 @@
+{
+  "id": "47c97fb7-398f-4eb4-a7a8-dacad52e949d",
+  "name": "self-isolation-plan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd736357-43b2-4589-bc17-dcf826c04b3d",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "On March 25, 2020, the federal government implemented a self-isolation plan for returning international travellers on select flights under the Quarantine Act.\n\nThe federal government will continue to use its authority under the Quarantine Act to ensure compliance with the order to self-isolate, enforceable by RCMP or local police\nMaximum penalties for breaking self-isolation orders include a fine of up to $750,000 and/or imprisonment for six months. You can get more details and submit your self-isolation plan here: https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

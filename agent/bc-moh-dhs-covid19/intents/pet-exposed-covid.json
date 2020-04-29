@@ -1,0 +1,91 @@
+{
+  "id": "143a7ca5-c821-467e-92cd-69ad964dcaa3",
+  "name": "pet-exposed-covid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7dc70ed9-7193-47a3-a793-9a94aa8ff2a5",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "3f36e41d-4080-43dc-b378-c89c4c809baa",
+          "required": false,
+          "dataType": "@pet",
+          "name": "pet",
+          "value": "$pet",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "66968e9f-8d2e-4aa4-afb0-eba2a5c18593",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "155a78ce-2c90-465c-a9f1-49b4840e8a61",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If your pet becomes ill after exposure to a person with COVID-19, and you feel you need to take your pet to a veterinary clinic, call your veterinarian and let them know that your sick pet was exposed to a person with COVID-19. Your veterinarian will discuss with you how to manage the situation. Your pet should remain at home to minimize contact with other animals and people. Dogs that may have been exposed to the COVID-19 virus should be kept on a leash or within a private fenced area when taken outside for elimination activities, and kept away from other animals and people for 14 days.\n\u003cbr\u003e\u003cbr\u003e\nFor more information on pets and COVID-19 please refer to: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/pets",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

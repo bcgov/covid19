@@ -1,0 +1,326 @@
+[
+  {
+    "id": "5e346377-16df-49ba-969c-e52ec557c50c",
+    "data": [
+      {
+        "text": "Symp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8836a703-5278-4111-8eac-48f271c01945",
+    "data": [
+      {
+        "text": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7af6ba75-21d8-454f-b58b-99e04e57d457",
+    "data": [
+      {
+        "text": "Is exudative pharyngitis common in covid19 infected patients?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e339f2aa-0a48-4fa2-9599-ee3a58374706",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " signs of coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7949bfc-5af7-4141-b367-33537c5b57e8",
+    "data": [
+      {
+        "text": "what symptoms am I looking for if I have the influenza B ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66d18f21-6c45-40cb-aaeb-2dfbedb0b617",
+    "data": [
+      {
+        "text": "First",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " Symptoms of corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e2f4cdf-0eab-41ab-825b-bfbe3534127a",
+    "data": [
+      {
+        "text": "is post-nasal drip a symptom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64c8c73b-afea-4a93-8661-800d6512ea0f",
+    "data": [
+      {
+        "text": "How does the ",
+        "userDefined": false
+      },
+      {
+        "text": "covid 19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " affect lungs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "188519fc-74b0-4f1c-be97-8f201618ec71",
+    "data": [
+      {
+        "text": "how do i take my temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f21cf17-5d82-45ec-b0c8-5dbd407f00bb",
+    "data": [
+      {
+        "text": "what is a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba7c808e-73b7-41bf-96fa-1a87c3a7521b",
+    "data": [
+      {
+        "text": "how hot is a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3a3b1cd-aa96-4001-b85e-5e9dfa9d723c",
+    "data": [
+      {
+        "text": "what degree of temperature is a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90e851dd-e27c-43ab-847d-4c4414d538b1",
+    "data": [
+      {
+        "text": "How do I know if I have a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c8d226a-789a-44f5-8d1a-f03b9d29a35c",
+    "data": [
+      {
+        "text": "what is considered a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "308d88c5-29d7-4666-8f0f-313d8b25715b",
+    "data": [
+      {
+        "text": "what temperature is a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8537017b-fb9c-4ce6-9a97-8f89e6ab20e7",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8337f30e-d605-4c11-b67b-e90a97663df4",
+    "data": [
+      {
+        "text": "How to identify ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " illness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6e29d2c-b455-479e-baea-609b24c16cf3",
+    "data": [
+      {
+        "text": "How high is a ",
+        "userDefined": false
+      },
+      {
+        "text": "CoVid 19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d367d97-9231-4bd7-9199-e8fd1ab05219",
+    "data": [
+      {
+        "text": "How can I tell if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0d8a09d-824f-4814-9b7e-fab2d52a62e5",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b29410f-33fc-4110-bf07-1f05cb80fac2",
+    "data": [
+      {
+        "text": "What are the symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

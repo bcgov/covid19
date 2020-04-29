@@ -1,0 +1,2856 @@
+[
+  {
+    "id": "468cd97b-9756-42ee-905e-c70be07a0594",
+    "data": [
+      {
+        "text": "Questions about testing ? Got sick with Covid symptoms ",
+        "userDefined": false
+      },
+      {
+        "text": "March",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "th.",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "th. Ended up ",
+        "userDefined": false
+      },
+      {
+        "text": "30 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " in isolation.  Went back to work under direction with a persistent chest cough that’s still lasting after ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number2",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " weeks. Any suggestions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5e6f09b-f202-448c-a8ed-dd7abbe4400c",
+    "data": [
+      {
+        "text": "I have some symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "941b752e-9464-4082-a584-7dd57b6be46c",
+    "data": [
+      {
+        "text": "I feel a little bit hot in my head area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f8f0a90-cd2f-467e-a7a4-ace07a8e2f1e",
+    "data": [
+      {
+        "text": "Post infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4dae935-f2a7-4eb0-9404-59bda0cdd841",
+    "data": [
+      {
+        "text": "Should I isolate after being at the emergency room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22ab9a48-f650-4f02-a902-911662fb0a47",
+    "data": [
+      {
+        "text": "I had an fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "885132cb-cff3-49c2-8d86-7fa0fae3c1e5",
+    "data": [
+      {
+        "text": "Hi how do u check for symptoms for virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a585cb6-2a5f-4b03-955b-6e6dbfc3a295",
+    "data": [
+      {
+        "text": "Covid toes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48801142-b2e8-479d-b6ac-95c2a0bac8d1",
+    "data": [
+      {
+        "text": "Discolouration of toes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd8a9ecf-05f2-4165-b54f-91d3bb6e15d1",
+    "data": [
+      {
+        "text": "Hello should I get tested for covid if I have symptoms or stay home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c560af8-9bd9-4343-a58d-62f17a9258c2",
+    "data": [
+      {
+        "text": "I am a nurse and I have symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3673171c-372a-46cc-8e47-0269c84f287d",
+    "data": [
+      {
+        "text": "self check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "568469e5-870f-4c5b-82a6-1d513675bca6",
+    "data": [
+      {
+        "text": "If after ",
+        "userDefined": false
+      },
+      {
+        "text": "ten days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " of isolation child still has cough should they go to school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "078fc4e6-8466-4811-8708-57e683d978be",
+    "data": [
+      {
+        "text": "I have some symptoms of covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " but I’m okay. Do I need to get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9d8677e-0d5f-4bae-94d7-c021cca4d0c3",
+    "data": [
+      {
+        "text": "what if i am infected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "991ba83c-c434-417e-8e12-8a0713cb210d",
+    "data": [
+      {
+        "text": "Exposure to someone with covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7076c4c7-6d52-4909-9894-1d95d93c76b9",
+    "data": [
+      {
+        "text": "What do you do if you have been exposed to someone who has covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a508193c-030f-4934-8e6e-a4cf5858cf29",
+    "data": [
+      {
+        "text": "Should I be self isolating as a precaution?  I am still working at a construction site.  Employer has done a lot concerning covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " but I have been at maple ridge hospital outside entrances and at an assisted living apartment inside once recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0f7e7c-63cd-474d-8476-84d107e05acc",
+    "data": [
+      {
+        "text": "what do I do if I have a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2df53dd5-2cdb-4488-8187-0c7f2ee9817b",
+    "data": [
+      {
+        "text": "If you get covid will your blood pressure increase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "513e1122-6d19-4b6c-9119-ead56e5e625c",
+    "data": [
+      {
+        "text": "I\u0027m not sure if I have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1306f1f5-2caa-446b-a5a5-c960d0d3c37f",
+    "data": [
+      {
+        "text": "What if I don\u0027t have covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4068ddcf-bcb7-4659-b083-5c208d7eafe0",
+    "data": [
+      {
+        "text": "Nauseous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d49bdc4-a21b-4600-8040-7913eeb6ea1f",
+    "data": [
+      {
+        "text": "I suspect I\u0027m infected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4164ddfd-2d89-428c-ac69-deec67ecefe4",
+    "data": [
+      {
+        "text": "can I assess my child",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c79135d-fd78-4a6c-b190-96efb346a082",
+    "data": [
+      {
+        "text": "How do I know I have CV",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbfbce30-d43b-4e1d-a1fc-c09ccfe6e206",
+    "data": [
+      {
+        "text": "If I have hayfever does that change my risk factors?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "effe019a-4f43-43a5-b3cd-e63c644a101e",
+    "data": [
+      {
+        "text": "I am experiencing symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d134c9e-e74e-4933-879d-050430f323cf",
+    "data": [
+      {
+        "text": "How can I find out if I have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5790ad1d-264a-4a8a-b610-f5feb52bb513",
+    "data": [
+      {
+        "text": "What do I do if there is a positive case reported in my grocery store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be50532d-22c5-4acc-a73c-d4c9b348fcc3",
+    "data": [
+      {
+        "text": "My son is having difficulty breathing.  He has not been able to sleep much in the last ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of days because he will wake up not being able to breathe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b47765a-53fa-4997-8a2b-cf1bee14d94e",
+    "data": [
+      {
+        "text": "I work retail on a drugstore.  What should we be doing if a customer says they have tested positive for covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c02d730-21e7-4a6a-84c7-3e2732cbc5eb",
+    "data": [
+      {
+        "text": "Symptoms of diarreah daily. Should I get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cbebb87-f516-4821-97bb-d9f87afb7e3f",
+    "data": [
+      {
+        "text": "I have hives and am overheating at night in complete body sweats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cd1a5ef-e9bf-4ffd-a97c-64166b47aba3",
+    "data": [
+      {
+        "text": "If I have been in an area with individuals who have tested posititve for COVID",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ", is it possible I have the virus even though I have no symptoms?s",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53488f92-2cd8-48f6-9279-df7411141698",
+    "data": [
+      {
+        "text": "Covid assessment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ea79b06-fd74-4388-9973-a8b476dd9f04",
+    "data": [
+      {
+        "text": "symptom checker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9725af8f-8d0c-4567-a619-0283f910b34d",
+    "data": [
+      {
+        "text": "If someone else in my household is sick, can I go to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fb21290-6213-4c44-8d91-6a09c40d8ccf",
+    "data": [
+      {
+        "text": "what is my risk level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b0d187f-2e06-4187-8bfd-14439736099d",
+    "data": [
+      {
+        "text": "If I believe I have Covid do I need to report it to anyone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bac3e789-3441-4c9b-9d73-9405b6523059",
+    "data": [
+      {
+        "text": "self diagnosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd0318a0-e4c4-4ac5-ae20-23570324be00",
+    "data": [
+      {
+        "text": "Where do I find the check to see if I should stay home from work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0adc6560-b58f-45a6-b8da-6bb22f1ad711",
+    "data": [
+      {
+        "text": "had ",
+        "userDefined": false
+      },
+      {
+        "text": "few minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " contact with co employee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7855e51d-4ec7-42bd-aee4-553e2c4db944",
+    "data": [
+      {
+        "text": "co-worker test positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4bc92ad-8ace-47c5-ab76-e33cd8647eb6",
+    "data": [
+      {
+        "text": "I wanna know the difference between covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms and daily fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0696a1a0-40af-4a50-bdac-8cf21eb6ff2b",
+    "data": [
+      {
+        "text": "Walk me through the assessment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf79e644-bf75-4aad-9c98-2d820a5573b8",
+    "data": [
+      {
+        "text": "How do l know if l get covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf790b00-4ebc-40fe-a451-1a3c1cd7c190",
+    "data": [
+      {
+        "text": "How long should someone wait to go out after symptoms disappear?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b01b614-6b79-40ed-98bf-dc2118c7cab2",
+    "data": [
+      {
+        "text": "I have a mild pain in my chest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2042c81e-a84a-4ca4-bfb0-695a3b91065a",
+    "data": [
+      {
+        "text": "My chest pain is not severe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d52c72b9-d472-40c1-b7d2-2eaa1a5c6205",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " eyes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4b5d24a-cd4b-4819-9e12-885d9711939d",
+    "data": [
+      {
+        "text": "How to know if I am showing Covid-19 symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecc1b7d1-ed70-47d6-9690-12c8f0981082",
+    "data": [
+      {
+        "text": "Should I call ",
+        "userDefined": false
+      },
+      {
+        "text": "911",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84fa6044-fa6a-4ad5-91df-020c93da7e76",
+    "data": [
+      {
+        "text": "what isolation measures do you need to take if you\u0027ve been to the hospital for non-covid related treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "154b6219-df84-4749-8c52-a2e9707f1099",
+    "data": [
+      {
+        "text": "Does throwing up happen from covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45c418d8-985b-4043-9d43-45415b6fc4eb",
+    "data": [
+      {
+        "text": "I have a sniffle.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9d4dd42-7447-4380-b1b1-d3f0c41f0b43",
+    "data": [
+      {
+        "text": "I have the start of a cold and am an essential worker. How many days should I isolate myself?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a643160f-1d45-4665-ad8f-1da597aafa38",
+    "data": [
+      {
+        "text": "I have sinus congestion which is likely my ",
+        "userDefined": false
+      },
+      {
+        "text": "spring",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " allergies also little cough that comes and goes during the days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc1be5ed-4505-4bfc-881b-b890afdefcd9",
+    "data": [
+      {
+        "text": "do i need to call ",
+        "userDefined": false
+      },
+      {
+        "text": "811",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53cb174f-3bbd-4baf-99a9-d7c211bf9b71",
+    "data": [
+      {
+        "text": "Does Covid-19 cause persistent headaches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5c191f0-dc99-421b-bb4a-8be0b753005a",
+    "data": [
+      {
+        "text": "Does Covid-19 increase blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3329bd3-597f-4d16-9265-78913ce18dc7",
+    "data": [
+      {
+        "text": "I work in a homeless shelter.  ",
+        "userDefined": false
+      },
+      {
+        "text": "Two",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " clients tested positive. What do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "866ec932-a1d7-413b-9342-e221dc919de3",
+    "data": [
+      {
+        "text": "I was exposed to COVID, now what?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "946b7e62-b6a3-40a9-b99e-36d939057187",
+    "data": [
+      {
+        "text": "How do I know if it’s Coronavirus or a cold?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c13d2df-53f3-4afa-9728-d6939b009f07",
+    "data": [
+      {
+        "text": "Im not sure if this is linked to covid, but what does body hurting mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d2e63d9-b737-4497-b550-9c55e3097638",
+    "data": [
+      {
+        "text": "We need testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "641bd594-650a-4f94-b295-114eb084135e",
+    "data": [
+      {
+        "text": "I have a worker who came into contact with someone diagnosed with covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ". Should my worker self isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b5d80c1-b05f-441d-977e-34a20c339537",
+    "data": [
+      {
+        "text": "I am writting a document for a company I work for and I would like to know what number I should call if I havesymptons of covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10428b37-a4a3-4c32-a388-5705491961bf",
+    "data": [
+      {
+        "text": "Very tired with covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09f41f8f-568f-42e6-8319-716c0b409f64",
+    "data": [
+      {
+        "text": "How do you know if you have a code 19 because I’m itchy is that a case of code ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d69d1b88-4def-450f-ad22-6772c939b098",
+    "data": [
+      {
+        "text": "Just tell me how to get my itchy Ness off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a31fbfed-c8c8-4c32-a60d-bfa78c69cafe",
+    "data": [
+      {
+        "text": "I am throwing up is that a symptom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f3ac837-997f-4ea6-984c-cc8d3c8711fe",
+    "data": [
+      {
+        "text": "No fever but other symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32c93088-4b6b-4a6e-b1db-1edb08975832",
+    "data": [
+      {
+        "text": "Conjunctivitis and corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4a99115-ca32-4070-8313-d4a87f9f9080",
+    "data": [
+      {
+        "text": "Want to talk self assessment test for covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e465b060-c6dd-483d-a476-32b80a02f64d",
+    "data": [
+      {
+        "text": "I mean the tool used used if the test is needed or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b04f87f8-78cf-4e11-a7b0-390c85c2d55e",
+    "data": [
+      {
+        "text": "If someone has secondary contact with a person who has tested positive for the novel coronavirus, how long do they have to stay in self isolation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34ea21b6-a666-45c6-9399-e7ccd40d1593",
+    "data": [
+      {
+        "text": "My throat is ichy idk if its from weed and stuff coming up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b49fff33-e545-4175-a333-21a888f6dd5c",
+    "data": [
+      {
+        "text": "I woke up with the flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d790b165-8896-4180-8d05-8f6541110d4f",
+    "data": [
+      {
+        "text": "If you have symptoms, who should be contacted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8726b171-53ad-45ea-af1d-efa659e7f1be",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "72",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " year old woman wondering if i should be going to get my",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36c7dd56-7d48-4ede-818c-276b2006477c",
+    "data": [
+      {
+        "text": "I have arunny nose, should i get a test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5af14a8e-79d3-4ace-9307-5d4183a0b1ba",
+    "data": [
+      {
+        "text": "Hi my parter has been sick for almost ",
+        "userDefined": false
+      },
+      {
+        "text": "a week",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd12cdba-e4f5-4dae-8217-c8c454a70966",
+    "data": [
+      {
+        "text": "Could you find me triage information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cbaf113-41f6-4bc0-b2b4-a4a002de2151",
+    "data": [
+      {
+        "text": "Is abdominal pain a symptom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06c4f0c6-89cd-4ccb-b6ce-5de67f003acf",
+    "data": [
+      {
+        "text": "What symptoms require isolating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "794ead0d-8f5c-4afe-9bfb-adee92639aa7",
+    "data": [
+      {
+        "text": "What symptoms should isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb666e3f-e994-4134-92d7-8b3ce3245727",
+    "data": [
+      {
+        "text": "Hi, my husband (",
+        "userDefined": false
+      },
+      {
+        "text": "69",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ") has a rash on his chest and very itchy skin.  We’ve been self isolating but ",
+        "userDefined": false
+      },
+      {
+        "text": "5 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " ago he was with ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " other person keeping safe distance.  No cough, no fever, feels okay, good appetite.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3b3478e-c7f6-4ec1-b59f-59abee10e401",
+    "data": [
+      {
+        "text": "I have rheumatoid arthritis. Should I be self isolating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0b88b9c-0274-4cf5-b5ec-6ca413e95223",
+    "data": [
+      {
+        "text": "Is rheumatoid arthritis an underlying illness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00eb4450-cc6d-415e-a491-a191c6b85f88",
+    "data": [
+      {
+        "text": "I\u0027ve had flu type symptoms for ",
+        "userDefined": false
+      },
+      {
+        "text": "12 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00a7685f-e779-4bd2-9190-839447998116",
+    "data": [
+      {
+        "text": "I was showing some symptoms, did my isolation and symptoms seem to be gone. Is there a test to tell if it was covid or flu/cold?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b85f3d4b-fec5-4af3-ab1e-44b002e8939e",
+    "data": [
+      {
+        "text": "pink eye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80886a1f-649c-4b44-9702-33eaaba0279e",
+    "data": [
+      {
+        "text": "My mom is ",
+        "userDefined": false
+      },
+      {
+        "text": "67",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " years old. Woke up this morning with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac9b8709-5bc7-4604-9999-8e82594f88f4",
+    "data": [
+      {
+        "text": "My wife recently ( October ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ) had lung surgery to remove a cancerous growth plus she also has COPD .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "769b3966-40d6-45e7-acb1-da1d9ee7ec7f",
+    "data": [
+      {
+        "text": "My wife had lung surgery recently and has COPD...should she stay inside and should she avoid visitors during the Covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc6c0978-b9e0-46b5-b0a8-61a22e7d2b77",
+    "data": [
+      {
+        "text": "Am I gonna die",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b478fc4-7eba-4a64-8022-c661e1cb1372",
+    "data": [
+      {
+        "text": "I have white splotches on my tonsils. Will this happen when you have corona virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c500cbf8-2815-4965-b4f4-379217e0f4a3",
+    "data": [
+      {
+        "text": "How do I know if I am contagious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "94620268-a955-4d2b-82e2-cc783a1f2f1a",
+    "data": [
+      {
+        "text": "I have mild breathing difficulty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "150fa30b-08c6-403a-af7f-d0cd03a7df51",
+    "data": [
+      {
+        "text": "Can you get dizzy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0607b4d-3118-4c5c-8a25-9171879ced7b",
+    "data": [
+      {
+        "text": "Does covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " make you dizzy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42f63185-8af9-4460-b2f0-d0e420d19445",
+    "data": [
+      {
+        "text": "how could I that I have coronavirus or not ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67fa39a2-f2ed-44ee-a424-6edde9d176ec",
+    "data": [
+      {
+        "text": "what do I do if my fever is not getting better?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6599e635-b7e3-4c84-8963-bbc1c4554976",
+    "data": [
+      {
+        "text": "I can’t smell what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d78e8fc5-9367-42f4-b7fb-4054f7452ce1",
+    "data": [
+      {
+        "text": "I have lost my sense of smell is this COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bba075d2-05f2-401e-89c4-e0757664861e",
+    "data": [
+      {
+        "text": "If I develop the symptoms of COVID-19, should I report that to provincial health services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b23fa870-1241-4860-a22d-15d59e84254a",
+    "data": [
+      {
+        "text": "I am out of breath",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "856ddfc0-300c-4808-80a0-2ed3c2828ebe",
+    "data": [
+      {
+        "text": "what if i have a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1aa6c97-5a61-49ec-b45f-36a24d8bbb0c",
+    "data": [
+      {
+        "text": "how do I know if I am sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9b0ff96-a53a-4022-904d-0d9277e2507f",
+    "data": [
+      {
+        "text": "My partner is in fever, what should we do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78a73831-74e1-4852-9eb6-9dd1611ea860",
+    "data": [
+      {
+        "text": "I have a fever. do i have covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d253671-3f29-4fd1-82dd-8e4b3e89ace5",
+    "data": [
+      {
+        "text": "Could my rash be related?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c94028c8-f398-4d09-86fd-de4e030e70c0",
+    "data": [
+      {
+        "text": "Could my rash be related to covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b247258e-0b12-42ef-90b1-bf725e34d6c5",
+    "data": [
+      {
+        "text": "how do i tell if i\u0027m sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57728e79-305e-4242-a9cd-61b7c6b5cfd5",
+    "data": [
+      {
+        "text": "How many assessments are there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee3ffd1a-9da4-4794-9300-454cc9409274",
+    "data": [
+      {
+        "text": "how do i know if my kid has covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab8b9914-733d-4fc5-a87a-57e1f3d152d3",
+    "data": [
+      {
+        "text": "When do I need to call ",
+        "userDefined": false
+      },
+      {
+        "text": "911",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53e443f4-f104-4be3-b90e-9cd99724040c",
+    "data": [
+      {
+        "text": "I am having mild symptom. What should i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5046ce0-f62e-49c4-b850-9a53c4694f0e",
+    "data": [
+      {
+        "text": "My child touched outside object. What should i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeafaeda-2d86-49ca-b8ee-1da1abcd0792",
+    "data": [
+      {
+        "text": "My husband is working in ",
+        "userDefined": false
+      },
+      {
+        "text": "azerbaijan",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ". Does he have COVID?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83fc41f6-c88f-4b0c-9138-404e1367daa3",
+    "data": [
+      {
+        "text": "i dont feel well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "556ce1e6-fbb4-414f-8354-c0454c9e52a3",
+    "data": [
+      {
+        "text": "who can tell me if I am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bcdfb0d0-59f4-41de-9b58-0fa1931a25d1",
+    "data": [
+      {
+        "text": "I may be sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca5e9fed-1e23-435d-878b-155e9f67b4cc",
+    "data": [
+      {
+        "text": "I think I am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5503414-6220-4292-9d45-a087e0bf08e4",
+    "data": [
+      {
+        "text": "I might have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc53c1ea-a37b-452d-ac5d-6d02139a0221",
+    "data": [
+      {
+        "text": "I might have the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa2c2e1f-7c48-440b-866d-339e09cb95d1",
+    "data": [
+      {
+        "text": "how do I know if I am infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e83d7b67-dd72-44b8-8ccb-e1d4ad451230",
+    "data": [
+      {
+        "text": "I think I have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "608dd3fa-1010-4851-b932-a247a4651d16",
+    "data": [
+      {
+        "text": "my kids have a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0634e2db-4397-42a3-9469-398075780b59",
+    "data": [
+      {
+        "text": "my kids are sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "1afafc9c-9481-4df8-a052-63518d883e29",
+    "data": [
+      {
+        "text": "my kids are sick, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "31a394b0-c225-4dd9-9574-f32e40ebf3a2",
+    "data": [
+      {
+        "text": "i have no symptoms, can I still have COVID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3414ab6e-ae7b-4389-b481-cb2ee2505b43",
+    "data": [
+      {
+        "text": "My mom has a headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67d1d7df-8a73-43c5-9f24-fd46a07cf7d4",
+    "data": [
+      {
+        "text": "how do i know if i have covid 19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ab13a80b-8775-4438-af58-42c9db75efd2",
+    "data": [
+      {
+        "text": "who should i call if i think i have covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "309a2d9a-a24c-4fec-99c4-ac8c8b68004b",
+    "data": [
+      {
+        "text": "so i should call ",
+        "userDefined": false
+      },
+      {
+        "text": "911",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ac79bac5-1376-47fc-b813-592505665ab9",
+    "data": [
+      {
+        "text": "who should self isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd582000-72e3-4c5c-b552-2071ebd94d5b",
+    "data": [
+      {
+        "text": "who should quarantine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "332312d2-7ccd-422e-a8de-378f6ded5fb9",
+    "data": [
+      {
+        "text": "self-test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ac8d2ba-9f83-48d1-a670-aeb29c7281e3",
+    "data": [
+      {
+        "text": "how can i see if i have covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ab9fcaf-b91f-4f1b-9c9e-1450d9f4c5c3",
+    "data": [
+      {
+        "text": "i need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cf302adc-851c-4754-b2fa-29c885d88114",
+    "data": [
+      {
+        "text": "will my shildren get sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ccf38d7-e614-4697-9113-c582bfd48000",
+    "data": [
+      {
+        "text": "will my child get sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e7b2097-c23e-40e1-b560-1a62b347bf60",
+    "data": [
+      {
+        "text": "my family member is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7def74b1-9639-4876-a413-fc4233967912",
+    "data": [
+      {
+        "text": "my aunt is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2eccc24f-7bb8-46d7-a718-ffa4c38f4160",
+    "data": [
+      {
+        "text": "my mother is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "20d8629a-2616-4626-9eb4-0b822e1d93a0",
+    "data": [
+      {
+        "text": "my granma is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b224c13f-637e-4ad1-9ae3-bba0a87411f6",
+    "data": [
+      {
+        "text": "My uncle is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99b2ac0e-a402-478e-a10e-31beb5287307",
+    "data": [
+      {
+        "text": "my grandfather is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "828e557e-9988-4f1f-8d2f-5b7acccdc07d",
+    "data": [
+      {
+        "text": "headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5d7f872-cedd-4c99-a032-c1833af20152",
+    "data": [
+      {
+        "text": "my wife is unwell, what can I do/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "98b3974f-891f-4202-a905-35626b3b9986",
+    "data": [
+      {
+        "text": "confused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8225509-97d5-4ad6-9109-d75000e8b464",
+    "data": [
+      {
+        "text": "I am feeling confused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f8e3c9c-ed3f-4e71-812e-78a2ca0747a7",
+    "data": [
+      {
+        "text": "My wife is unwell, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1eb674c4-52a1-4be9-989f-f4d46ae0a20a",
+    "data": [
+      {
+        "text": "my wife is unwell, what do i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bb10429-beac-45ef-b240-76e8f3c5fd5a",
+    "data": [
+      {
+        "text": "can I do a self assessment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "95fe07fc-2ccf-4de3-adb1-ef48505b0028",
+    "data": [
+      {
+        "text": "my wife is unwell, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d4316097-cdc4-4cfb-8fea-9241cf75aa89",
+    "data": [
+      {
+        "text": "My wife is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ab279e5-1ecb-4612-9e01-9c8fff17dcb8",
+    "data": [
+      {
+        "text": "sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "beb95fb8-f000-440e-9e26-882a9a459f27",
+    "data": [
+      {
+        "text": "cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcf6e667-dd35-4120-8a70-40132856d6a1",
+    "data": [
+      {
+        "text": "I have  fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f38d3035-15ad-4ecf-a609-6da4146f939c",
+    "data": [
+      {
+        "text": "I feel sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3fd9671-dbe6-4601-a82e-4988055c6632",
+    "data": [
+      {
+        "text": "i think i may be sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe1ccbbe-e06a-41ad-bdf9-9894bc3d4f05",
+    "data": [
+      {
+        "text": "my husband is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9596f194-17d6-4bd8-bcca-a9356bf3badf",
+    "data": [
+      {
+        "text": "diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7695759a-6125-4dc7-8df8-c30e1138bf72",
+    "data": [
+      {
+        "text": "fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a4cb291-b75d-49b1-92f4-8f8d1f42851f",
+    "data": [
+      {
+        "text": "sneezing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bf88e64-4b3a-4a91-ac09-d29e277367c8",
+    "data": [
+      {
+        "text": "How can I tell if I have COVID?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "097554be-c017-468d-9a62-5cf8788bc909",
+    "data": [
+      {
+        "text": "Where can I get medical help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe7c1924-c345-47a7-8dcb-bc76bb9ab837",
+    "data": [
+      {
+        "text": "My baby is coughing.  Can babies be tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd78562b-31d4-4109-b501-9dc6ac887851",
+    "data": [
+      {
+        "text": "I feel sick.  Can I get UI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55647acb-34d6-4eb1-bb30-76ab5bcb3463",
+    "data": [
+      {
+        "text": "Am I contagious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bf23833-2518-45c3-aa62-37d809c9dc7b",
+    "data": [
+      {
+        "text": "is a sore throat covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "459ab29a-f53f-4c1a-b6eb-954e04d9828b",
+    "data": [
+      {
+        "text": "what should I do if I think i have COVID symptons?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e9a9cfad-328d-4381-a6cc-247b08bc2e9e",
+    "data": [
+      {
+        "text": "I have a bad stomachache ache, do you think I have covid virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "47919493-6d79-4f6d-9872-06ece1dc6716",
+    "data": [
+      {
+        "text": "My son is not feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8be6474-c1fb-45b6-915f-75e73f316263",
+    "data": [
+      {
+        "text": "I am not well.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c95ff481-f393-44e5-8a99-b34009a61365",
+    "data": [
+      {
+        "text": "im feeling tired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6a46727e-0099-4231-8401-82c5e9f5ac04",
+    "data": [
+      {
+        "text": "It hurts when I breathe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "645a7689-6250-44b9-997d-3380868759f8",
+    "data": [
+      {
+        "text": "My back hurts when I breathe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04db6582-e544-4ae4-8e7e-283303f682ac",
+    "data": [
+      {
+        "text": "My urine is ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8f356d0-e4d7-4d09-862c-65af45dd3cdc",
+    "data": [
+      {
+        "text": "I have trouble urinating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cb2a648-44b9-4d35-8bb2-6f489d7308cb",
+    "data": [
+      {
+        "text": "My heart is racing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfdcbc37-5872-49ba-9aec-ca7b23f623ac",
+    "data": [
+      {
+        "text": "My temperAture is ",
+        "userDefined": false
+      },
+      {
+        "text": "24",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4830d0d6-b21f-4e6c-a139-5182e62b6d33",
+    "data": [
+      {
+        "text": "Does sneezing indicate I might be infected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "795415ef-8043-4a0e-a723-539ffcc15693",
+    "data": [
+      {
+        "text": "Do I have to go for a test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16990d9c-d7a4-4f40-b9a9-bf0c7e92f085",
+    "data": [
+      {
+        "text": "I think I have covid. do i go to the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60f7d167-7a55-48c6-97e2-5c452c77b454",
+    "data": [
+      {
+        "text": "I don\u0027t have a fever. Do I have it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9e30ae8c-45c5-4c90-8b96-7b301d30a049",
+    "data": [
+      {
+        "text": "Is there a phone number I can call to talk to a nurse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "66388924-8291-44d3-b700-cce37a0f2863",
+    "data": [
+      {
+        "text": "Where can I call to talk to a nurse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "aea97b45-97f0-4b1e-8986-20893948ff8a",
+    "data": [
+      {
+        "text": "I have a sore throat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86f694a9-b003-438e-9f84-17855bf8c0cc",
+    "data": [
+      {
+        "text": "i have a runny nose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b33c2da4-3537-4608-a63c-7e604432f8e8",
+    "data": [
+      {
+        "text": "i have a cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08f9d6a7-f57e-4128-9708-da8ee7c06bf3",
+    "data": [
+      {
+        "text": "i have a sore back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a653db7-906d-49ac-9c8a-30637f78a498",
+    "data": [
+      {
+        "text": "Am I at risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "42ea223e-8c18-4f3e-b497-b5aa22de268e",
+    "data": [
+      {
+        "text": "What do i do if i\u0027m pregnant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2a74330c-f12e-4a9d-bda7-ba55bf187ec3",
+    "data": [
+      {
+        "text": "Where do i go if I\u0027m pregnant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c499302-fcd6-4b19-b37e-6778ada7fb40",
+    "data": [
+      {
+        "text": "Who should I see if i\u0027m sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d455ca0e-3b7c-4f18-977a-6f741e2de2ab",
+    "data": [
+      {
+        "text": "My coworker tested positive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de11c1ab-a255-42a6-97e9-d1d06e10b2d5",
+    "data": [
+      {
+        "text": "I am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46f3f39b-0499-49c8-a41d-37da5fb1c48d",
+    "data": [
+      {
+        "text": "Where should I get medical help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5375d5b8-9d62-4f65-8b2a-fdee4730b09c",
+    "data": [
+      {
+        "text": "my child is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b610f7c6-0098-4bb4-892e-ce4d79f4ccc7",
+    "data": [
+      {
+        "text": "do i have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04b8c0bc-0547-454f-88a5-03cc41372eb8",
+    "data": [
+      {
+        "text": "Do I need to get a test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec5ec429-72c2-4c7e-931d-8d307768e28c",
+    "data": [
+      {
+        "text": "my wife hasA fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "65e75269-6051-4fc2-b179-783f09791ac6",
+    "data": [
+      {
+        "text": "how can i determine if i have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b137d625-f4b8-4e64-bb87-4181bc641291",
+    "data": [
+      {
+        "text": "Is there a self assessment tool?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "05c5b45d-ba9c-4835-b323-3108b0357c80",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the instructions given to seniors’ residences?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0993f960-d038-446d-bb41-316457cb067f",
+    "data": [
+      {
+        "text": "I am being told that persons working ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " an assisted living building do not need to wear masks unless they are directly working with a person who has covid19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e9cdafc-c859-4696-8ca3-bade14667c16",
+    "data": [
+      {
+        "text": "long term care clinical decision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2882ae19-ce3b-4556-9619-9de4a73c94e8",
+    "data": [
+      {
+        "text": "Long term care care approacj",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f198c157-9544-44e6-be0a-6b00abddbd27",
+    "data": [
+      {
+        "text": "LTC resident care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c118da8-3068-4132-bb6c-1052bcaa36da",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I care for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " LTC residents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b795056d-6774-4a2b-a911-7a8c6134b0c1",
+    "data": [
+      {
+        "text": "clinical care approach for nursing homes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d69216f-edd2-4239-8fd9-503025b51024",
+    "data": [
+      {
+        "text": "clinical care ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a LTC home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b148b0f-4f56-41ad-bfa8-4a29e44e4ffc",
+    "data": [
+      {
+        "text": "manage care ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a care home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47f2eb78-2e5f-4032-8807-0018a983d3f8",
+    "data": [
+      {
+        "text": "clinical care ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a long term care facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be85fcb0-4728-4a9b-bcd5-a0cdcc8daa3f",
+    "data": [
+      {
+        "text": "manage care long term care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f1e8f10-ee3b-4e07-924a-2939f93ea12b",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I manage care for LTC patients",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24497e01-86cc-4b58-bedb-c548ada8c2fa",
+    "data": [
+      {
+        "text": "clinical decision pathway",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c19f8ae3-e5ee-4825-818d-355dc2288a4d",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a care worker what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the clinical decision pathway",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c30873f-e42e-4798-9fdc-465eda3086bd",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I access the clinical decision pathway",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

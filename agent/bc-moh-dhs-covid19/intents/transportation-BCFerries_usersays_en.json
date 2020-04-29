@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fa7a145c-e2e7-4d7b-b5a1-73138e758011",
+    "data": [
+      {
+        "text": "are the ferries open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2912e632-6768-4620-9e2d-1182607eb71a",
+    "data": [
+      {
+        "text": "are the ferries running",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66e3b242-37d5-456c-baf0-d412094709f7",
+    "data": [
+      {
+        "text": "Are BC Ferries operating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "b8aed909-9019-4197-98ec-63d17a067392",
+  "name": "Common-Q-Is_there_a_treament_",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "There is no specific treatment for disease caused by COVID-19. Many of the symptoms can be managed with home treatment such as drinking plenty of fluids, rest and using a humidifier or hot shower to ease a cough or sore throat. Most people recover from coronaviruses on their own. For people with more serious illness supportive care in or out of hospital may be needed.\n\nFor more information on what you can do if you have symptoms visit:\n\u003cli\u003e \u003ca href\u003d\"https://www.healthlinkbc.ca/health-topics/zx1780\" target\u003d_blank\u003eColds\u003c/a\u003e \u003c/li\u003e\n\u003cli\u003e \u003ca href\u003d\"https://www.healthlinkbc.ca/health-topics/zx1780\" target\u003d_blank\u003eFever and Chills, Age 11 and Under\u003c/a\u003e \u003c/li\u003e\n\u003cli\u003e \u003ca href\u003d\"https://www.healthlinkbc.ca/health-topics/fevr4\" target\u003d_blank\u003eFever and Chills, Age 12 and Over\u003c/a\u003e \u003c/li\u003e\n\u003cli\u003e \u003ca href\u003d\"https://www.healthlinkbc.ca/health-topics/rsp10\" target\u003d_blank\u003eRespiratory Problems, Age 11 and Under\u003c/a\u003e \u003c/li\u003e\n\u003cli\u003e \u003ca href\u003d\"https://www.healthlinkbc.ca/health-topics/rsp11\" target\u003d_blank\u003eRespiratory Problems, Age 12 and Over\u003c/a\u003e \u003c/li\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "b7396359-d29e-4c2c-a0af-433adf27374f",
+    "data": [
+      {
+        "text": "fais-le",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "25b58af3-1fe0-4165-ab12-598e72606429",
+    "data": [
+      {
+        "text": "c\u0027est correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1b9a0a1-d6e2-4bf0-8735-6dc18d991e6b",
+    "data": [
+      {
+        "text": "d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5bd47757-fcd9-4836-8c37-89b4c75339ab",
+    "data": [
+      {
+        "text": "bien sûr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bc9a0d1b-536d-4e48-be8a-d06d34b5bddc",
+    "data": [
+      {
+        "text": "exactement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dd209ea2-c648-4d07-8f53-11e308ad0d4f",
+    "data": [
+      {
+        "text": "confirmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "745895cd-34a8-4b95-a259-e94262917c86",
+    "data": [
+      {
+        "text": "je suis d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2b3a806-b23d-4fa0-b586-037f79908f78",
+    "data": [
+      {
+        "text": "oui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b0ca9f82-d4c8-4df6-9747-90b09b1c0ecd",
+    "data": [
+      {
+        "text": "ça me va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

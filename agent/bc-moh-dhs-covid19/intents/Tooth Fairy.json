@@ -1,0 +1,64 @@
+{
+  "id": "4631968b-8b77-43f2-a94c-839a6afc7a61",
+  "name": "Tooth Fairy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e69ac3b4-357b-412e-9d61-736562f8850d",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Good news! Premier Horgan has issued a \u0027fairy\u0027 special announcement, authorizing the Tooth Fairy as an essential service! Registered fairies only please!",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "Fairy Special Announcement",
+          "image": {
+            "url": "https://pbs.twimg.com/media/EWYvyBoU4AAjI6z?format\u003djpg\u0026name\u003d4096x4096",
+            "accessibilityText": "Tooth Fairy Announcement"
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

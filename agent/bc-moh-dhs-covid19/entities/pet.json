@@ -1,0 +1,9 @@
+{
+  "id": "5e088c39-dae4-4b24-8664-4ee357eff14b",
+  "name": "pet",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

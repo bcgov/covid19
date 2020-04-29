@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ca8fde5d-9475-45bd-9dac-e5fd84275c3c",
+    "data": [
+      {
+        "text": "does the flu shot protect me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f720c84a-c937-47de-abed-01cece25054d",
+    "data": [
+      {
+        "text": "will my flu vaccine help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c74b4f4a-9a9e-47b7-a40f-4df73a2c8656",
+    "data": [
+      {
+        "text": "will the flu vaccine protect me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa00c2d7-23c4-4b7f-a7a6-1f0d7bc0128b",
+    "data": [
+      {
+        "text": "How will my flu vaccine protect me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddd5a840-deaf-4687-9553-b0abc06c1759",
+    "data": [
+      {
+        "text": "How will my flu shot help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b396fbb-2ef6-46e9-a027-e3dd4286b46f",
+    "data": [
+      {
+        "text": "Will my flu shot keep me safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fd817ce-5b97-477f-8943-ada15725ac3e",
+    "data": [
+      {
+        "text": "Does my flu shot keep me safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bb0ae5e-4f16-4c39-8f85-47f7eaf4315a",
+    "data": [
+      {
+        "text": "Am I vaccinated for this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c36e198-4e9b-465e-b159-e96c32dbf923",
+    "data": [
+      {
+        "text": "Will this year\u0027s flu vaccine protect me from COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

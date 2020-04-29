@@ -1,0 +1,216 @@
+[
+  {
+    "id": "9b35f03f-f1ad-452a-be43-47e1019d46c3",
+    "data": [
+      {
+        "text": "care for myself and others",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a995d39-329c-4c55-8a53-c891b4a5a926",
+    "data": [
+      {
+        "text": "What should I do when I get home from work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e7e0c5-ce71-47b7-a317-cb5c65142ee3",
+    "data": [
+      {
+        "text": "I just wanted to know if a Alcohol based mouthwash and gargle would help ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef5f141c-8d16-41c2-87e2-51811d7f052b",
+    "data": [
+      {
+        "text": "When he returns. How will the ",
+        "userDefined": false
+      },
+      {
+        "text": "14 day",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " quarantine apply to my husband and I?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48fc5679-cf03-4fd2-afee-6f93aee57fb8",
+    "data": [
+      {
+        "text": "I need quarantine requirements for other people in the household",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "965e430e-7771-4d86-8637-526342e53a53",
+    "data": [
+      {
+        "text": "How does this apply to others in the household. Do I have to quarantine as well?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1de43ed6-9ef7-42c7-a2a7-c3267179bcac",
+    "data": [
+      {
+        "text": "I am a 68 year old woman and had pneumonia and bronchitis october/November 2019. I do smoke, not s lot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "389f7385-4727-419e-9dac-b2bb1158117c",
+    "data": [
+      {
+        "text": "how can I stay safe with room mates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a49e3144-d9fb-410e-ad0e-1e8465081ebc",
+    "data": [
+      {
+        "text": "how do I keep my family safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6194145-8150-4b4f-9922-ec41c1a6a58b",
+    "data": [
+      {
+        "text": "how do I keep my kids safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65bca91e-a3f8-4680-a8d4-129aaf7efcf5",
+    "data": [
+      {
+        "text": "how do I protect my room mates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5b459a5-1906-403b-b32f-9691b53a3729",
+    "data": [
+      {
+        "text": "how do I clean away the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "280c9779-8cce-4b78-b900-9c695599bfd2",
+    "data": [
+      {
+        "text": "How do I protect my household",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "731b1c06-93d0-41e3-a198-98757821d2c1",
+    "data": [
+      {
+        "text": "what if a family member works at a grocery store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7d8c3141-4bcd-47ca-ab2a-1d621e43e576",
+    "data": [
+      {
+        "text": "is there a risk if a family member works at a grocery store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d76ea50b-8ca1-4a90-bf5a-790ed1e97393",
+    "data": [
+      {
+        "text": "my husband is sick, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1bd1b58-dde7-4a05-9c78-dade06d0aa7d",
+    "data": [
+      {
+        "text": "How do I protect my family?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

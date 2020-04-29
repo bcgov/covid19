@@ -1,0 +1,822 @@
+[
+  {
+    "id": "2f426a87-5f25-430e-b6d8-1766d05672b7",
+    "data": [
+      {
+        "text": "latest address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a6e5616-f8a8-401e-99ae-4a4e65840969",
+    "data": [
+      {
+        "text": "Bonnie ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry\u0027s",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " latest address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "191f8bcf-48a3-479e-89fb-ada648bf2c78",
+    "data": [
+      {
+        "text": "Where is Bonnie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df693f08-8f3d-45af-8cbc-d4932cf01877",
+    "data": [
+      {
+        "text": "where can I watch ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " presentation on Modeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83ba4228-8e0c-405a-a825-7325036eecc6",
+    "data": [
+      {
+        "text": "I would like to hear Bonnie ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry\u0027s",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " daily address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abe7d5e9-0253-4b37-ac3a-a3b5bb20f5a3",
+    "data": [
+      {
+        "text": "News Conference",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef49c40f-98ff-41b6-8bc8-c67f081b9519",
+    "data": [
+      {
+        "text": "I would like to read the daily summary from the health officer, Bonnie ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ", please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "975e7916-9b14-448e-a0d3-c78d453577ba",
+    "data": [
+      {
+        "text": "This website is excellent, but it\u0027s a pity that the broadcast text is unavailable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "138a148f-6264-4a51-8fc6-1333aa887bb3",
+    "data": [
+      {
+        "text": "where are transcripts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c40bb02-2cba-440b-a3a3-844e073c7624",
+    "data": [
+      {
+        "text": "Sorry I don’t see the scheduled times posted anywhere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61e73216-9f59-4305-8c8b-60d316a4fd07",
+    "data": [
+      {
+        "text": "Bc government statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b5e1270-1b56-4e5b-abef-a1edc78447a2",
+    "data": [
+      {
+        "text": "When is update coming.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c7cb55a-e352-45b0-893d-b92f72d43d77",
+    "data": [
+      {
+        "text": "Thanks. I\u0027m looking for the live daily update with Dr Henry and ",
+        "userDefined": false
+      },
+      {
+        "text": "Adrian",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " Dix",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333412b1-585c-4f17-8827-0ce6d12c2f07",
+    "data": [
+      {
+        "text": "April 18",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " top of the page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a6511c8-f5b0-42e3-b0c3-b7892713c6a3",
+    "data": [
+      {
+        "text": "April",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 18 is there, not April ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ".  Where is ",
+        "userDefined": false
+      },
+      {
+        "text": "April 20",
+        "alias": "date-time2",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1348b0ba-1051-4dab-92c9-dd9d34372fa2",
+    "data": [
+      {
+        "text": "where can i find ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6298c64-c27e-4f45-894e-8dd058d2b1be",
+    "data": [
+      {
+        "text": "video press conference of daily covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4565666-fc37-4659-8a7b-f04400c7783b",
+    "data": [
+      {
+        "text": "Latest news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a63e36-8d93-4680-8c68-f96fc427155c",
+    "data": [
+      {
+        "text": "Where can I access daily BC COVID-19 briefings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16c64af0-8810-4865-bed4-e5c528e03c83",
+    "data": [
+      {
+        "text": "live streaming data slides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "925c686c-ac06-40f0-84ac-a3c81350e5fd",
+    "data": [
+      {
+        "text": "livestream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c25a6576-3912-4c4d-a635-b8516eee69d6",
+    "data": [
+      {
+        "text": "what time ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " is the live broadcast of the provincial health report on covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3f793b3-d453-4384-834d-b03fb87831f4",
+    "data": [
+      {
+        "text": "Dr. Henry update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c354fc9-4853-4e31-8176-9361292ecd0c",
+    "data": [
+      {
+        "text": "where are daily briefing notices?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dd93514-2cb1-4632-99fa-09a9d364fc32",
+    "data": [
+      {
+        "text": "what did Bonnie ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " say ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb6e7de8-5747-4303-ba16-fc5cfaf52747",
+    "data": [
+      {
+        "text": "what did the PHO say ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0473892-2222-434d-8826-cbf8e840cdd2",
+    "data": [
+      {
+        "text": "media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "611618d8-fbb5-4d57-a74e-bee30e3b1dde",
+    "data": [
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I download the last press briefing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48873df3-3712-44c5-afd0-3228919f5e97",
+    "data": [
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " there a link ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " press statements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e3e024d-5050-47aa-b677-c3394ac18615",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I get ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the press release",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d395bd2-d7ff-494c-a4fd-4fd254264e6a",
+    "data": [
+      {
+        "text": "press statements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "074573c1-8bf5-4e66-9a00-f3aa85b3c721",
+    "data": [
+      {
+        "text": "last statement from dr ",
+        "userDefined": false
+      },
+      {
+        "text": "henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d41994aa-141e-4fc7-8e26-ef231b8fdefc",
+    "data": [
+      {
+        "text": "last statement from the government",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeb76c7a-a182-4e07-88ec-181096be7f17",
+    "data": [
+      {
+        "text": "briefing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cc35586-f660-472b-9935-928e1458c7fa",
+    "data": [
+      {
+        "text": "press release",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc3995ed-2b34-4284-a14e-8272831599d0",
+    "data": [
+      {
+        "text": "Where ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the press releases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1daf729d-c63a-433f-9c20-e876b3168c1d",
+    "data": [
+      {
+        "text": "Can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I see Dr ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry\u0027s",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " las statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e29e4f49-6a52-4506-9ff4-7b4c35d3d284",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the releases from dix ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e26d715b-d7c7-415a-ac76-bf0ac347a6ef",
+    "data": [
+      {
+        "text": "Where ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the latest briefings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb5f9ef6-9109-4e39-9982-a634fb20e0bd",
+    "data": [
+      {
+        "text": "Can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I see the latest briefing from the government",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c8d430d-4ad2-47fd-ae24-b241ab391e30",
+    "data": [
+      {
+        "text": "Can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I access the latest press release",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28f5b99b-a77f-4976-beb6-53162318e35a",
+    "data": [
+      {
+        "text": "I would like ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " see press releases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e7f9084-297f-4677-9256-b8b8331cb2e0",
+    "data": [
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I see the latest press release",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae8a5ad5-c4b2-4fc6-9b6c-0dde9df8ed55",
+    "data": [
+      {
+        "text": "where did the press releases go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0aab6fea-f4c0-4794-ac93-d143d28d6e62",
+    "data": [
+      {
+        "text": "Where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I see the press release",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

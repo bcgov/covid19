@@ -1,0 +1,65 @@
+{
+  "id": "2ac51da1-2778-4582-8ffb-a3cbe998840b",
+  "name": "fear-anxiety",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d29f4686-f196-42a4-9d46-17d587882c08",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9eb41866-0eb9-4161-8a8d-817049357403",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Your can refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/mental-well-being-during-covid-19\" target\u003d_blank\u003eMental Well-Being During COVID-19\u003c/a\u003e for tips on looking after your mental health during this time.\n\u003cbr\u003e\u003cbr\u003e\nYou can also access a \u003ca href\u003d\"https://cmhabc.force.com/MentalHealthCheckIn/s/\" target\u003d_blank\u003eMental Health Check In Tool\u003c/a\u003e on the COVID-19 public site.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

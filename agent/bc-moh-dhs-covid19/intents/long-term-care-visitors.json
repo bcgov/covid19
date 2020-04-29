@@ -1,0 +1,103 @@
+{
+  "id": "9089e74c-07fd-4a76-bd14-ce05fceba271",
+  "name": "long-term-care-visitors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9d58535a-2b56-44f1-8077-1236dd109a7a",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "49a40c5b-2a90-458a-a079-7f45ad395528",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f64c7594-da30-4de3-ba51-23108d961f80",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code2",
+          "value": "$geo-country-code2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "135829f1-adc8-4dce-a020-698f1ac5655f",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f29cf2f1-d622-46c5-8c3a-f3a6faa4c131",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Long-Term Care Facilities are currently advised to restrict visitors to essential visits only. Restricting visitors will minimize the risk of the introduction of COVID-19 into facilities and allow staff to focus on caring for residents, rather than monitoring and screening visitors. Examples of essential visits include, but are not limited to:\n\u003cul\u003e\n\u003cli\u003evisits for compassionate care (end of life and critical illness)\n\u003cli\u003evisits considered paramount to resident care and well being, such as assistance with feeding or mobility\n\u003cli\u003eexisting registered volunteers providing services as described above only \n\u003c/ul\u003e\nFor more information visit \u003ca href\u003d\"http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/clinical-care/long-term-care-facilities-assisted-living\" target\u003d_blank\u003eLong Term Care Facilities and Assisted Living\u003c/a\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

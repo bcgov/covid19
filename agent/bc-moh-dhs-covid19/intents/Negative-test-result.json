@@ -1,0 +1,31 @@
+{
+  "id": "3e32540f-8d44-442d-9e6d-7be22e8d4e82",
+  "name": "Negative-test-result",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you test negative for Covid-19, BCCDC recommends that you continue to isolate in the following instances:  \n\n•Returning travelers to BC from outside Canada: continue to isolate for 14 days from the day you landed back in Canada.\n•Those who have been exposed to someone who tested positive for covid-19: must continue to self-isolate for 14 days from the last time you were in contact with the person who tested positive.\n•Symptomatic: continue to isolate for 10 days from when you first started experiencing systems or until your symptoms resolve  (if more than 10 days).\n\nHealth care providers should check with their employer about isolation periods following a negative test. Each workplace may have different return to work policies."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

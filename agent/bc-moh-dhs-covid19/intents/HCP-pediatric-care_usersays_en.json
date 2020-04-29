@@ -1,0 +1,212 @@
+[
+  {
+    "id": "83bcc343-2d23-46f5-8421-9f4be000428f",
+    "data": [
+      {
+        "text": "I was to get my MMR booster vaccine ",
+        "userDefined": false
+      },
+      {
+        "text": "last month",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " but did not know how to access. Can I get it ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d4aad4c-27d6-4845-94a5-e0b48f047ca0",
+    "data": [
+      {
+        "text": "Does my ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " month old need to have her 18 month vaccination right ",
+        "userDefined": false
+      },
+      {
+        "text": "at 18",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " months",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "66e965ce-7916-4df1-8a6e-77a4cb0d89f1",
+    "data": [
+      {
+        "text": "newborn care and  mothers with covd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "665004e7-39bd-464d-b2bb-f628fc68025f",
+    "data": [
+      {
+        "text": "neonatal patients and covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4629e39-3fcf-4b58-afe0-59bc3d10349f",
+    "data": [
+      {
+        "text": "newborns and covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40752181-beac-464d-9858-99c19a9c08c2",
+    "data": [
+      {
+        "text": "how do I care for an infant with covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a27ad8a3-63a2-406f-9c1b-acc13a9b7264",
+    "data": [
+      {
+        "text": "pediatrics and coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e80ce87b-1876-4dbc-8db0-e66e967b841a",
+    "data": [
+      {
+        "text": "children and covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "064dec24-47e4-4ec4-b44a-718af9707699",
+    "data": [
+      {
+        "text": "caring for children with covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98d03d86-65de-4090-aac9-99ace6d86f6f",
+    "data": [
+      {
+        "text": "caring for infants with covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e452d7f6-0d47-4568-ba3f-4e5704db956a",
+    "data": [
+      {
+        "text": "pediatric patients and covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "20948d46-6ffc-4fc0-a571-dd69314ea58d",
+    "data": [
+      {
+        "text": "pediatric care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca3ac2fb-6526-4d8f-ba84-47fc6a5ff8c0",
+    "data": [
+      {
+        "text": "as a caregiver is there different care requirements for pediatrics and children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78eb5623-fb22-465f-b1b4-7eacbf932146",
+    "data": [
+      {
+        "text": "as a clinician how do I care for pediatric patients with covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8bc096c-7cb3-4f17-b142-4213cd4c8ac0",
+    "data": [
+      {
+        "text": "As a nurse how do I care for a pediatric patient?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

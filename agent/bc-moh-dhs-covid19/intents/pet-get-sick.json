@@ -1,0 +1,67 @@
+{
+  "id": "bc0d0ab1-7e8b-482b-87c8-82851240ba24",
+  "name": "pet-get-sick",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51a8dd62-75e4-46ef-b01e-25cd78aba292",
+          "required": false,
+          "dataType": "@pet",
+          "name": "pet",
+          "value": "$pet",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e87f2829-ae7b-4551-92e0-e8f84b14cf9c",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "There have been reports of cats (domestic cats and a tiger) that have become sick with the COVID-19 virus after close contact with an infected individual. Two pet dogs in Hong Kong have also tested positive for the virus but did not show any signs of illness. These animals were also from households with a person infected with COVID-19. Experimental studies have shown that cats, ferrets and hamsters are susceptible to infection and disease. At this time, there have been no reports of livestock being infected by COVID-19. This situation is being monitored very closely and any new information on the ability of the virus to cause illness in pets or other domestic animals will be updated as it becomes available.\n\u003cbr\u003e\u003cbr\u003e\nFor more information on pets and COVID-19 please refer to: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/pets",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

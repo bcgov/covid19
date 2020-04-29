@@ -1,0 +1,895 @@
+[
+  {
+    "id": "82d9bda1-0666-4e40-ba70-9effd4d717b3",
+    "data": [
+      {
+        "text": "Quarantine if you cross provinces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e2fec96-873a-4f60-99d8-ae8e733c2b9a",
+    "data": [
+      {
+        "text": "People traveling for non essential",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecdee06e-5b35-4ee2-acdf-8237d5ebb615",
+    "data": [
+      {
+        "text": "Is there a ban on families travelling within BC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c23ae45-1fc1-40d5-8304-4fa49f1a5742",
+    "data": [
+      {
+        "text": "Within BC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c611a54-60be-4cf9-8ee0-c16784e5da27",
+    "data": [
+      {
+        "text": "If somebody does come from Ontario need to isolate for ",
+        "userDefined": false
+      },
+      {
+        "text": "two week",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": "??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "846af651-6289-4369-996d-449a2030f78d",
+    "data": [
+      {
+        "text": "I mean with in ",
+        "userDefined": false
+      },
+      {
+        "text": "canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ead7201-252b-40f3-84c8-4acef711a289",
+    "data": [
+      {
+        "text": "Back country travel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee844e25-3937-4767-b1f6-17c0055b790b",
+    "data": [
+      {
+        "text": "Can I move back to the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1163f73-6da3-4b8d-aed1-c8ec4c4b3911",
+    "data": [
+      {
+        "text": "Can someone who works at Kearl lake camp go to bc now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34064287-1e32-4e9b-adcc-4e6e0aac5e17",
+    "data": [
+      {
+        "text": "I live in the southern interior but am currently in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dawson",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " Creek. Am okay to drive home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e796ef8-9623-4b7e-81c4-348f8898dd26",
+    "data": [
+      {
+        "text": "Out of province travelers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a86ffc98-360a-4019-8db7-6e78e5f4978e",
+    "data": [
+      {
+        "text": "Planting season and how are communities going to be protected by covid 19 coming into bc and alta, from workers from ",
+        "userDefined": false
+      },
+      {
+        "text": "Ontario",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and Quebec?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a813eee4-e023-47f1-84a2-1456bc0e8171",
+    "data": [
+      {
+        "text": "What are the orders regarding travelling interprovincially",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "770531e6-b23d-4d1d-a982-7833bbfbcfc4",
+    "data": [
+      {
+        "text": "When can we look at traveling again once the outbreaks diminish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbbd9cbd-ba20-452f-8df2-c37d1dc469e7",
+    "data": [
+      {
+        "text": "Do I need to self isolate from Toronto to ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db30bc21-d65b-4811-97a5-e576445119fd",
+    "data": [
+      {
+        "text": "Can you travel to ",
+        "userDefined": false
+      },
+      {
+        "text": "ottawa",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " if ",
+        "userDefined": false
+      },
+      {
+        "text": "one 91",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " year old parent is in the hospital and their 90 year old spouse is home alone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d89a1c0-a336-4687-aacc-773b4cca53b3",
+    "data": [
+      {
+        "text": "I feel silly asking but is it possible my husband and I could take our regular vacation ",
+        "userDefined": false
+      },
+      {
+        "text": "this fall",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88fd479e-0b11-4053-9592-dbbaf7e9cb76",
+    "data": [
+      {
+        "text": "vacation possible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a75571ee-d55e-45b8-9946-85773424e0df",
+    "data": [
+      {
+        "text": "Can I drive from Kelowna to ",
+        "userDefined": false
+      },
+      {
+        "text": "Calgary",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60192b53-f701-4242-b0af-2c4926aa8422",
+    "data": [
+      {
+        "text": "I want to drive. No plane. Kelowna is in ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " as well as ",
+        "userDefined": false
+      },
+      {
+        "text": "Calgary",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ".  Everything on every site refers to air travel.  Where do I find information on driving in ",
+        "userDefined": false
+      },
+      {
+        "text": "canada",
+        "alias": "geo-country1",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6ab271c-f55b-426e-b789-cb14dc97683e",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " close to UK nationals on the 20th ",
+        "userDefined": false
+      },
+      {
+        "text": "June",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f41513d0-36ba-4c1b-a063-a9906b053bfb",
+    "data": [
+      {
+        "text": "I will transit at ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " airport to head to ",
+        "userDefined": false
+      },
+      {
+        "text": "Toronto",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "- Montréal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65ae41ef-9b6a-43b4-835f-b033668804f0",
+    "data": [
+      {
+        "text": "Can I go by boat from Washington to Alaska",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a04d39a-fa7b-4e67-85fd-f4fa1555e590",
+    "data": [
+      {
+        "text": "What is the advice for people that must take domestic flights",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06b78f18-681f-4a0b-9814-a96af641a71d",
+    "data": [
+      {
+        "text": "can i travel and stay in my rv in ",
+        "userDefined": false
+      },
+      {
+        "text": "Victoria",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " while my wife has medical appointments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91a43db5-14aa-4976-a465-5ddcadc046e6",
+    "data": [
+      {
+        "text": "border crossing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f50a204e-72bd-4bb7-b37d-f6e5e5aa1d16",
+    "data": [
+      {
+        "text": "hello, I have been planning to move to BC for a new job will I need to isolate for ",
+        "userDefined": false
+      },
+      {
+        "text": "2 weeks",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " when I get there? I will leave from Montrealmoving to BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f86917ea-3b3e-4998-9e0e-07b6467d358d",
+    "data": [
+      {
+        "text": "Traveling from Winnipeg to ",
+        "userDefined": false
+      },
+      {
+        "text": "Nanaimo",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " by air. any restrictions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e455b81-be15-4817-b9c9-bf74d6b9f906",
+    "data": [
+      {
+        "text": "Airplanes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8901a0d-d524-44b4-8aa5-bf4ab9befc4d",
+    "data": [
+      {
+        "text": "I\u0027m planning on moving from alberta to bc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acb8b3d5-bc80-4ef2-b17a-85837177407c",
+    "data": [
+      {
+        "text": "USA",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc267e42-1f29-4dac-af4c-bcd82ac61424",
+    "data": [
+      {
+        "text": "Traveling between provinces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70439cb1-0e56-4507-8e8e-5bf34c18afdf",
+    "data": [
+      {
+        "text": "What should I do if I’m traveling within peovinces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5e4147e-7895-4af9-8e57-2f5b3ab5f013",
+    "data": [
+      {
+        "text": "Hi there. Is it safe to go visit relatives in Alberta ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "243fe698-060e-4c5d-a813-627d5c67de20",
+    "data": [
+      {
+        "text": "Can i travel outside of ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41074912-e5ec-40df-a047-0bd9cb0186d0",
+    "data": [
+      {
+        "text": "Can I travel to Europe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5334e39-5547-4832-beef-2984327dd651",
+    "data": [
+      {
+        "text": "can I go on vacation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d290de94-9b82-44fc-9ff7-bf6a539d2051",
+    "data": [
+      {
+        "text": "can I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "italy",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "213547cb-451d-4272-969f-219a3a993cfd",
+    "data": [
+      {
+        "text": "can i take a cruise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7398f95f-b872-466e-9a37-a4bbe95673b4",
+    "data": [
+      {
+        "text": "Will I be quarantined if I travelled to ",
+        "userDefined": false
+      },
+      {
+        "text": "quebec",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a345aa4-d45e-42fa-b74d-933c26ce46bd",
+    "data": [
+      {
+        "text": "Can I visit ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4c5a470-6e9c-4e0f-9780-34840385c7cb",
+    "data": [
+      {
+        "text": "Am I allowed to travel yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "868254be-03a6-4f20-951f-8d7133137bbd",
+    "data": [
+      {
+        "text": "Can I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "space",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cb87a137-dea9-4490-b501-4084bb7fa549",
+    "data": [
+      {
+        "text": "Can I go to ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddb2d5bb-b2b8-43d0-afe5-59530973a2a3",
+    "data": [
+      {
+        "text": "Can I visit my family in Alberta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bde1da1b-15c0-48a5-a4c0-037ceb5412f1",
+    "data": [
+      {
+        "text": "Can I fly within ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a56f9c2-a04c-42d7-be83-c183e77bf7d7",
+    "data": [
+      {
+        "text": "Can I book a vacation for the ",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4c69e515-e772-465a-9317-47782f193a89",
+    "data": [
+      {
+        "text": "Can I travel by car across the US Canada Border?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a6978af-be1a-4445-887a-71c4cc52fabd",
+    "data": [
+      {
+        "text": "Are rest areas open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a9103da-c6c1-4516-8062-18448ab9505b",
+    "data": [
+      {
+        "text": "What is the impact on our highways?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aee159ac-c9b0-45b3-b225-48c371103a6b",
+    "data": [
+      {
+        "text": "What is the impact on travel by car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53d2bf97-55ad-44f3-8997-9cfa6eaa92fb",
+    "data": [
+      {
+        "text": "Are there any restrictions on travel on highways?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

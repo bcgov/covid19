@@ -1,0 +1,23 @@
+[
+  {
+    "value": "dog",
+    "synonyms": [
+      "dog",
+      "puppy"
+    ]
+  },
+  {
+    "value": "cat",
+    "synonyms": [
+      "cat",
+      "kitten"
+    ]
+  },
+  {
+    "value": "bird",
+    "synonyms": [
+      "bird",
+      "parrot"
+    ]
+  }
+]

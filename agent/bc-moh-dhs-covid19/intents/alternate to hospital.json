@@ -1,0 +1,42 @@
+{
+  "id": "47f5d066-2a76-41c9-baa6-2c6c597cae8a",
+  "name": "alternate to hospital",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "At this time we are asking patients to go to the emergency department for emergencies only. Access to a COVID-19 test is not an emergency.\n\u003cbr\u003e\u003cbr\u003e\nAsk me to walk you through the Self Assessment questions to help determine if you need further assessment or testing for COVID-19.  You can complete this assessment for yourself, or on behalf of someone else, if they are unable to. \n\u003cbr\u003e\u003cbr\u003e\nIf you have COVID-19 compatible symptoms avoid contact with others and self-isolate at home for at least 10 days. \n\u003cbr\u003e\u003cbr\u003e\nYou can head over to the \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/if-you-are-sick\" target\u003d_blank\u003e\"BCCDC If You are Sick\" \u003c/a\u003e page for details on how to stop the spread of germs, what to do if your symptoms get worse and ending self-isolation.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

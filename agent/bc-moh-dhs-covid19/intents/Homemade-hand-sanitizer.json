@@ -1,0 +1,79 @@
+{
+  "id": "d437c49b-50f1-4eb3-ae1b-8171c9742293",
+  "name": "Homemade-hand-sanitizer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bdf93d79-3fa9-49ae-8211-86b861e1680e",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "21b24c66-8505-4293-8dc9-94f391dbfad0",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fa9428c1-7063-4918-b730-5e5de194d093",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Health Canada cautions that people should only use products that are on their approved or interim list of hand sanitizers. https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/hand-sanitizer.html \n\u003cbr\u003e\u003cbr\u003e\nThere are serious problems such as burns, poisoning, lung problems and allergic reactions that can occur if people use non-approved products. Non-approved products may also not be effective for COVID-19 and give people a false sense of security.\n\u003cbr\u003e\u003cbr\u003e\nIf you can\u0027t buy hand sanitizer, wash your hands! Washing your hands with soap and hot water for the appropriate length of time is the most effective strategy for reducing risk.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,103 @@
+{
+  "id": "90b7fbf3-0f65-4f73-bd43-3effdb77ca64",
+  "name": "Common-Q-If I am sick in a hotel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9fd211c7-145f-4138-971a-ebf6d74d5c77",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "27fb7090-eeba-47f9-bbf6-a88d96fe1fb3",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8a338536-c2bb-4fba-9106-c9bac67cf10a",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code2",
+          "value": "$geo-country-code2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "b2190baa-99ec-4008-ae01-ffa86366415a",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code3",
+          "value": "$geo-country-code3",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "408a4d15-5d32-4582-a828-95ea2f9a7f6e",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Many Canadians become ill and require medical assistance when they are outside of Canada. If you get sick when you are travelling, here’s how to get help:\n\u003cul\u003e\n\u003cli\u003eMost major tourist hotels have in-house doctors who can provide medical care. Hotels can also arrange appointments with local physicians.\u003c/li\u003e\n\u003cli\u003eIf you have travel insurance, contact the local number you may have been given or the assistance centres in Canada and ask for a referral.\u003c/li\u003e\n\u003cli\u003eIf you need urgent care, the best option is often the nearest hospital. In some countries, ambulances may not be common. Use whatever form of transportation you have to get to a hospital.\u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "a827408c-a79f-4867-a1c0-bf32d02b3789",
+  "name": "HCP-lab-testing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "46de6160-062b-4042-8cf6-b05c84fa8d4d",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Testing is available for all patients who need it, but not everyone needs a test.  Testing is not required if a patient has no symptoms, even if they are a contact of a confirmed case or a returning traveller.\n\u003cbr\u003e \u003cbr\u003e\nAt this time, any physician or nurse practitioner can order a test for a patient with cold, influenza or COVID-19-like symptoms based on their clinical judgment. Testing is especially important for groups that are more vulnerable to complications due to COVID-19, people who care for these individuals, and for people for whom a diagnosis will change the public health management or care they receive. \n\u003cbr\u003e\u003cbr\u003e\nYou can access more information on vulnerable people requiring testing as well as  the  \u003ca href\u003d\"http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/lab-testing\" target\u003d_blank\u003eCollection Centre Locator\u003c/a\u003e. \n\u003cbr\u003e\u003cbr\u003e\nYou can also ask the Digital Assistant to walk through the Self Assessment Questions and provide advice on who should be tested or treated.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

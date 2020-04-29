@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1502cae7-3041-4355-8574-408dad01995f",
+    "data": [
+      {
+        "text": "Financial help for small businesses that are a partnership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dad4e404-f5be-4e5b-8e8e-73f28c994099",
+    "data": [
+      {
+        "text": "Is there funding or support for business owners?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a04e90b4-e2c0-4978-b6c1-d0dcafdb9b25",
+    "data": [
+      {
+        "text": "Where can I get information on funding for businesses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5c225493-e06e-4c05-923a-99f658ed1da8",
+    "data": [
+      {
+        "text": "I am a business owner what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

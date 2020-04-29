@@ -1,0 +1,42 @@
+{
+  "id": "f78acff8-8483-4085-9b33-d200914aa837",
+  "name": "ibuprofen-make-covid-worse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "There is no current evidence that ibuprofen makes COVID-19 worse. \n\u003cul\u003e\n\u003cli\u003eIbuprofen is part of a group of medicines called NSAIDs and includes brand names like Advil and Motrin.\u003c/li\u003e\n\u003cli\u003eThese medicines help with pain, fever or inflammation. \u003c/li\u003e\n\u003cli\u003eAcetaminophen, which includes brand names like Tylenol, also helps with fever.\u003c/li\u003e\n\u003cli\u003eIf you take ibuprofen to treat another condition, you should continue taking it. \u003c/li\u003e\n\u003cli\u003eTo treat symptoms like fever, we recommend first using acetaminophen. If it isn’t available, you can use ibuprofen as an alternative.\u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

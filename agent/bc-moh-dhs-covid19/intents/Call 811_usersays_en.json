@@ -1,0 +1,1880 @@
+[
+  {
+    "id": "288cd4b5-8aa3-4690-a5df-d874b178cda0",
+    "data": [
+      {
+        "text": "Sti test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f96939c0-8d62-4e6e-bdae-e65d317ef510",
+    "data": [
+      {
+        "text": "How do I get tested for sti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adbd213d-f7b9-4576-8503-1273c9bd16cc",
+    "data": [
+      {
+        "text": "No I want to check the patient already inside the ICU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ba78bc5-4aa8-406f-830d-24d7479b63f8",
+    "data": [
+      {
+        "text": "No Iam not the COVID ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " PATIENT, I JUST CHECK MY FREIND INSIDE THE COVID ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " PATIENT INSIDE STAYING AT THE ICU.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e211d78d-f045-4793-8142-1c9d442145c7",
+    "data": [
+      {
+        "text": "Home support for home caregivers for seniors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4e3ae34-51c8-4158-839f-48cdd63e2f11",
+    "data": [
+      {
+        "text": "How does my elderly father, who resides in an independent living residence, access necessary diabetic foot care?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fdc4fd6-acf1-4bfc-87b9-63b17dc6151e",
+    "data": [
+      {
+        "text": "I need dental information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18504b27-4167-4b33-b4f7-fced8fcf0c36",
+    "data": [
+      {
+        "text": "I am a breast cancer survivor. I have to take my mom who is end stage of cancer to see the oncologist. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92c3b406-bf06-43bb-ac65-9c9f63c32e55",
+    "data": [
+      {
+        "text": "How do you do social distance with a disabled person that needs assistance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9d5deea-ad52-4831-b9c5-bc9f954a0136",
+    "data": [
+      {
+        "text": "Funding for air purifier for child with disabilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "176cbab2-c240-435c-b126-1541d37ab30c",
+    "data": [
+      {
+        "text": "I have a stress test scheduled, will it still happen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3820fe75-b7f1-43e8-9af6-7f5313bebd3b",
+    "data": [
+      {
+        "text": "I need to know what the procedure is for transporting someone who presents COVID-19 symptoms in Northern BC, and needs transport back to Metro ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86a28144-87fa-4aac-bb99-ddaa374ab072",
+    "data": [
+      {
+        "text": "How do I get home if I get sick somewhere else in BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1499d4d0-e8c0-453f-a2f5-9bf5e3fc425a",
+    "data": [
+      {
+        "text": "Can I talk to a nurse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "914584fe-4836-4231-a693-2ce6bb555a38",
+    "data": [
+      {
+        "text": "Call a nurse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "946f2c42-4684-4414-a488-e550719f7c66",
+    "data": [
+      {
+        "text": "I want to talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of the nurses!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d470d2d7-1d2a-46a9-b515-f24a6d7f4874",
+    "data": [
+      {
+        "text": "Medical help phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "522e8017-2f00-4aea-ae81-c10f3bd7f034",
+    "data": [
+      {
+        "text": "Question about my health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c391f520-f412-40bb-982c-da2e36344dfa",
+    "data": [
+      {
+        "text": "No health care questions!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21fdf17c-bac1-43c0-9b1a-dff85302754e",
+    "data": [
+      {
+        "text": "Report outbreak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ced28c1a-4f51-4844-bd56-07c8e0ec0b3a",
+    "data": [
+      {
+        "text": "Is it still contagious after ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "nd COVID-19 test came negative? He was tested positive before.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "884221eb-d334-47b8-93a2-b32dfb0bc342",
+    "data": [
+      {
+        "text": "chest pains, but not severe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92d1dcc7-0e8e-426c-a81a-1d6cf6d56d41",
+    "data": [
+      {
+        "text": "Do you have references about how to restart medical care post covid ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6c3f15ab-03a0-4e56-b02d-4339258d6133",
+    "data": [
+      {
+        "text": "I\u0027m looking for information for cancer patients",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82407932-3440-40c5-8911-eacd2ba556f7",
+    "data": [
+      {
+        "text": "When can I fin if my surgery will go ahead in May?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68837f15-4055-48a0-96fc-1575975dc9a6",
+    "data": [
+      {
+        "text": "Asthma and covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd53d58e-4ca8-46f9-a9d0-071086a710e6",
+    "data": [
+      {
+        "text": "Home fucking support for seniors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3caccb5-c947-4cb1-941e-d880693c0818",
+    "data": [
+      {
+        "text": "How do you consider someone recovered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90e09ad3-e4e4-430b-a1a7-af65b733ff87",
+    "data": [
+      {
+        "text": "I have mental disabilities and my staff is taking me to unknown people homes . What should I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96d9dcbf-5ec7-4d80-b0cb-ee658b38f71f",
+    "data": [
+      {
+        "text": "I am quarantining and would like to speak to an agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8611bd5d-336c-4f19-a42a-666a5568aee0",
+    "data": [
+      {
+        "text": "Where to get ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "nd shingles vaccine ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5df14b1e-ccbd-446e-bba5-d02e6a5884e8",
+    "data": [
+      {
+        "text": "emergency physiotherapist appointments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dda3a7b-8ce4-4023-a860-05dccbc86dab",
+    "data": [
+      {
+        "text": "physio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61be62d7-37ed-4710-ac68-07e11a78d727",
+    "data": [
+      {
+        "text": "reinfection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c93737a4-ba98-426e-9cc7-8907932aac98",
+    "data": [
+      {
+        "text": "I have a non urgent thing I need to discuss with my doctor.... should I wait until after COVID  to schedule an appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0cd4e06-ed40-4d53-80a5-b83f52ffe0c8",
+    "data": [
+      {
+        "text": "when can I visit my family doctor again for non urgent matters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d71bd2f0-0eff-46ef-8790-520591dda635",
+    "data": [
+      {
+        "text": "Hi.  My husband is undergoing chemo for Multiple Myeloma.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cc1db19-2311-455f-b464-14c295e3a932",
+    "data": [
+      {
+        "text": "what are my home health monitoring options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7fe4887-c3d6-4fb5-b883-15caa4c42094",
+    "data": [
+      {
+        "text": "i am recovering alcoholic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e13771ab-2b23-4ab8-bb4c-79ba026c08e0",
+    "data": [
+      {
+        "text": "Can you tell me if it is safe to breastfeed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "617373ba-ded0-4eb4-b067-fe4a4b8754a3",
+    "data": [
+      {
+        "text": "Is breastfeeding safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4acc380a-0e6b-4f3b-b133-035607b24ce2",
+    "data": [
+      {
+        "text": "pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3eaa4fe3-bd8b-4890-8ae2-23301e961d4f",
+    "data": [
+      {
+        "text": "can i get more than ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " day supply of medications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03ccc1bb-761b-4e21-9108-15fd09e4c42f",
+    "data": [
+      {
+        "text": "What are the recommendations with newborn babies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "089a50ce-2ad6-4dfb-88b5-4de2b4de8ed5",
+    "data": [
+      {
+        "text": "Want to visit a hospital, do I need to self isolate after",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b8eab74-aa12-4b6a-80f6-a89ef4c09221",
+    "data": [
+      {
+        "text": "Hi, I had a kidney transplant ",
+        "userDefined": false
+      },
+      {
+        "text": "a year ago",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " and take immunosuppressant medications. Am I in a high risk group?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3627d44e-8a7e-4dcc-b9b8-43a1773b7a97",
+    "data": [
+      {
+        "text": "Have had covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " since March ",
+        "userDefined": false
+      },
+      {
+        "text": "29",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " at what point am I considered non contagious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb318740-b97c-437b-9e19-26868e462bf5",
+    "data": [
+      {
+        "text": "Tick bite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6146a76-f1bc-4142-9535-15b3139ae2e7",
+    "data": [
+      {
+        "text": "Dispensing fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c393549f-c8d0-43da-8006-962422492ec3",
+    "data": [
+      {
+        "text": "To whom at the hospital/residence can I give my mother\u0027s personal effect and be sure she gets them ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9e93352-8d4c-494f-8a6f-acca44e62275",
+    "data": [
+      {
+        "text": "Can I catch Coronavirus more than once?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e3499c8-deb3-4441-b192-77c262125f03",
+    "data": [
+      {
+        "text": "Is it dangerous to take a taxi to the screening clinic if I have symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cb3fcbc-b62e-4d5b-9033-70bac55e0d09",
+    "data": [
+      {
+        "text": "how about upper back pains?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "159671e5-9954-4a40-bfc4-93a9243c8346",
+    "data": [
+      {
+        "text": "I did before, hence stayed home for ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " days.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72703e59-3c92-4fa9-ad4d-ab97ac748e8c",
+    "data": [
+      {
+        "text": "My last travel was to the ",
+        "userDefined": false
+      },
+      {
+        "text": "UK",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ", way back in ",
+        "userDefined": false
+      },
+      {
+        "text": "February",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": ". I was at work till March ",
+        "userDefined": false
+      },
+      {
+        "text": "31",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ". I did the self assessment on April ",
+        "userDefined": false
+      },
+      {
+        "text": "1st",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ". Self isolated till today. Do I need to do the assessment again as my cough has not gone away.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcc9ed1c-9b70-408a-87c0-051eb3a5d176",
+    "data": [
+      {
+        "text": "Flu deaths non covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fb4b4b7-6d35-433d-a340-cc07e4a74330",
+    "data": [
+      {
+        "text": "Flu cases not covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c30aac0-d8e1-4173-a285-03d4ac4727fe",
+    "data": [
+      {
+        "text": "The behavioural Interventionist from my son works in a senior home at Fir and 14 street. ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " people are contagious with vhoronaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c536e0d3-bd75-499f-ac17-e5a2761bfdc4",
+    "data": [
+      {
+        "text": "My daughter is going to give birth at BC Women\u0027s around June ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ". Her husband will be in attendance.  I am her mother and I am immuno-suppressed. How long will I need to wait before seeing the baby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45a60731-7499-4f99-aaf5-0efd8321979e",
+    "data": [
+      {
+        "text": "How many people can visit in the post natal ward?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a4ef926-4ee3-4644-86a2-5151094cf300",
+    "data": [
+      {
+        "text": "How can I find out if someone I know has been hospitalized or passed away from this? I cannot get a hold of him at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9b36530-13a4-448c-9bd2-4a710e0be5f0",
+    "data": [
+      {
+        "text": "I need information on someone not information about the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5503f55-3a90-4993-a9ed-51c446a68636",
+    "data": [
+      {
+        "text": "Hi, it\u0027s great to have your support. I\u0027m just wondering for new PR who just landed in BC, do they need to purchase insurance for the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " three months? I see on website that the three months waiting period has been waived, correct?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3adbb51-e5cd-45fd-b2e5-89cd9cb04c3a",
+    "data": [
+      {
+        "text": "Labs that are open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2b3223f-eb30-470b-98c7-7712e62434c8",
+    "data": [
+      {
+        "text": "Can you connect me with HealthLink BC, now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b5bae3f-8f20-458c-b6de-feac1eda8685",
+    "data": [
+      {
+        "text": "Thanks!  How do I connect to HealthLink BC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce3c2b61-872e-4f84-b914-2436a2a3cdae",
+    "data": [
+      {
+        "text": "OK.  How do I contact HealthLink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e89d403-6f5f-4e12-b795-8665416d72c7",
+    "data": [
+      {
+        "text": "Already did",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a738e558-4f8f-44af-b323-ee85e7a59340",
+    "data": [
+      {
+        "text": "have their been relapses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5edf54ee-bdff-4b91-be53-d34fdc9ef04e",
+    "data": [
+      {
+        "text": "I have taken it before but don’t recall seeing hives mentioned",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e602e074-c77c-4a51-9b32-7c1234c93c21",
+    "data": [
+      {
+        "text": "I usually go to the lab and get tested for A1C every 3 months and is due now should I go or not bother at this time and wait till july  I do test every day and keep records of my numbers and insulin intake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38c2bd2c-a9de-4848-b317-c6d1d1969a3d",
+    "data": [
+      {
+        "text": "Is using a nebulizer with hydrogen peroxide safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddd96f75-68a3-4b7d-99d0-48bbcfbfb1f1",
+    "data": [
+      {
+        "text": "I NEED TO SPEAK WITH SOMEONE REAGARDING EVERGREEN HALL IN ",
+        "userDefined": false
+      },
+      {
+        "text": "CHILLIWACK",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d89f272a-9205-4661-bd76-ffdcec0ab9f4",
+    "data": [
+      {
+        "text": "Can we get infection by COVID",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " from a dead person who just have died from Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e8776d7-697f-4c86-ac8e-82f41f3e16c6",
+    "data": [
+      {
+        "text": "Can I visit my dad who is terminally ill in hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1e9c80aa-dbf9-417e-a0ee-7f99509af722",
+    "data": [
+      {
+        "text": "Can I visit my terminally ill das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc915945-1a0d-4e49-90ea-db590d1b3075",
+    "data": [
+      {
+        "text": "Can I visit my father in hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bb223d5-f7cd-4ca7-9820-edaf8fa62cfe",
+    "data": [
+      {
+        "text": "Does having survived COVID-19 confer immunity?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e533359f-91e1-4664-b827-eb8cd14256d3",
+    "data": [
+      {
+        "text": "Being a cancer patient survivor and just taking my maintenance, can I still work part time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36283656-1364-4c7d-ab7b-f15dc6edf1da",
+    "data": [
+      {
+        "text": "Is elective surgery risky for exposure to COVID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4afcb54-8983-47f2-a5ef-7a00ac99d4ed",
+    "data": [
+      {
+        "text": "Who do I call for a check up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5859924-8895-496c-b0c7-119b200f1ff7",
+    "data": [
+      {
+        "text": "Can you get the virus back if you recovered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55ab6239-3bd7-4d74-b635-e110cf9ffafb",
+    "data": [
+      {
+        "text": "Time from symptoms to recovery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c766099f-f662-4831-a162-fb10589ce826",
+    "data": [
+      {
+        "text": "recovery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19be5919-cd47-48ff-8628-61dec3803293",
+    "data": [
+      {
+        "text": "Giving blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33c2d64d-527a-49ae-9836-575e96cc88fe",
+    "data": [
+      {
+        "text": "Can u get it twice or do u built up resistance to it ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "777c059a-362c-4cf6-885c-5ade69309928",
+    "data": [
+      {
+        "text": "If u get the virus once can u get it twice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ff9f131b-3317-455f-92e1-289e968041b3",
+    "data": [
+      {
+        "text": "Can I get osteopathy treatments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45bae949-fd33-49f4-a611-69cd36c6f3d8",
+    "data": [
+      {
+        "text": "No, I mean general health not covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ". Vulnerable elderly still need healthcare services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67fe5532-66b5-44cf-b846-5101d6c6027b",
+    "data": [
+      {
+        "text": "Not helpful for asthma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f29fb0f-990f-4281-9dce-348d81280741",
+    "data": [
+      {
+        "text": "I might know of an outbreak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68a7d55f-5326-4a9d-a3e4-1c33fa0b1b8c",
+    "data": [
+      {
+        "text": "thermometer selection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "345db556-0a64-405d-b432-c1b74d00b285",
+    "data": [
+      {
+        "text": "if you get covid, are you immune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c969d491-640f-43b2-8f58-57796ee9a835",
+    "data": [
+      {
+        "text": "can you get covid twice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0826c8da-15eb-4b85-b0c1-6c02702c4e93",
+    "data": [
+      {
+        "text": "why can`t i get my b",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " shot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2720d694-2fae-431d-813a-dcd537dafc7d",
+    "data": [
+      {
+        "text": "Can you recover from covid and still get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a42dd32d-8975-4160-9a23-ca074941d0b5",
+    "data": [
+      {
+        "text": "Can you recover from covid and still get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8444774b-9950-447a-b66f-8d55fd9fd9c6",
+    "data": [
+      {
+        "text": "Help with planters wart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "095d8867-1b7d-47fa-895b-0719d6b4316c",
+    "data": [
+      {
+        "text": "How long do you need to be exposed to someone who tested positive with COVID ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " for someone to get it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3be952f9-7b2a-42fa-98b7-0359d8e0e29d",
+    "data": [
+      {
+        "text": "What are the odds of me surviving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c73a9ac-39e8-483f-93e9-fb7286458495",
+    "data": [
+      {
+        "text": "Trump is touting hydroxychloroquine. Should i take it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d95f9b1e-0c3d-4ecc-a7f8-a1f69c2dee40",
+    "data": [
+      {
+        "text": "Interior Health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11614ef0-7a6c-412a-950d-169bd5472246",
+    "data": [
+      {
+        "text": "is blood vessel impairment a result of COVID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12336f4a-df34-47dd-a192-c5a08da9b320",
+    "data": [
+      {
+        "text": "is there a COVID biobank?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3be91c01-7c4b-4731-a2e4-5f28edbeb994",
+    "data": [
+      {
+        "text": "Who is healthlink?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18e5712b-d0ec-46ef-bb55-793913348505",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "811",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6d0e86d-a5b8-4d60-9c4f-3af7701b746b",
+    "data": [
+      {
+        "text": "i can\u0027t read english",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65e53fed-913c-413c-9def-5631f0bad62d",
+    "data": [
+      {
+        "text": "i am not able to read english",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f13b0550-a750-4043-b998-01c43dd66eed",
+    "data": [
+      {
+        "text": "my kids are sick, should I call ",
+        "userDefined": false
+      },
+      {
+        "text": "811",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56e8351a-1929-4fc3-b49c-98ef2907607a",
+    "data": [
+      {
+        "text": "how can I see my loved ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " with covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eef75280-3365-4f66-a84d-ca5bb08c131b",
+    "data": [
+      {
+        "text": "what times are hospitals open to visit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05d34661-7698-4245-bbc6-815e4302066a",
+    "data": [
+      {
+        "text": "what can I do about my prescription?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e611289-39f2-4b4a-81ad-295539b042ba",
+    "data": [
+      {
+        "text": "I want to talk to a nurse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dfccdce-f340-412c-b834-dc5cd080bd5f",
+    "data": [
+      {
+        "text": "I want to talk to a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b7ce2e0-5be6-4494-b77b-1f9ed6a2b684",
+    "data": [
+      {
+        "text": "I am a senior who needs help with my drugs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21fbf791-ae2c-46fe-ad37-4d133307674c",
+    "data": [
+      {
+        "text": "where can I get help with a medical question?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b75bc7d-5af8-42c1-9f16-12f3226d1afa",
+    "data": [
+      {
+        "text": "I am a senior and need my prescription filled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3ccd857-09ed-43c0-85c3-624cae818527",
+    "data": [
+      {
+        "text": "I need my prescription filled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb25a254-58f0-4d06-bf3c-a64eaebfda63",
+    "data": [
+      {
+        "text": "I need to talk to a medical person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4516c78c-17b2-4805-91b1-06d3e3cd3535",
+    "data": [
+      {
+        "text": "I cant get through my doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "776f93e0-ecfb-4240-9eb8-865c3c8620e5",
+    "data": [
+      {
+        "text": "Can I talk to a doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24180eac-2e85-41da-a1c4-17cefe71a913",
+    "data": [
+      {
+        "text": "I can\u0027t see my doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd648788-a268-43a0-8e36-7022cd796cd7",
+    "data": [
+      {
+        "text": "Where do I get information on diet and health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9f30e42-66c3-4b99-b782-0ffc31f98705",
+    "data": [
+      {
+        "text": "Where do I get nursing advice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d218b895-a3be-4913-8588-3d2038f271e2",
+    "data": [
+      {
+        "text": "Where can I talk to a nurse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a4f9762-adea-4eab-98b2-12f1fe54881d",
+    "data": [
+      {
+        "text": "What is the 811 line for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "589c2be8-1dbb-4b50-b698-1f81860179c0",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "811",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5681351a-ff64-4a07-b463-251bd4628dba",
+    "data": [
+      {
+        "text": "Should I call 811?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cad5ff6-f195-4fa4-a8be-f54bfc7b6cc6",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "811",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9224bfaa-912e-4daa-83c8-119ebdc5c0f0",
+    "data": [
+      {
+        "text": "how do I reach the health link nurses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b380ec6c-2eea-4a51-bdb3-e61f7e904476",
+    "data": [
+      {
+        "text": "Who can I call for health advice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "92e4dab0-d823-4520-9039-2f52e6996e2e",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "811",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4722ebf1-242e-4048-a8b2-66c77c11facd",
+    "data": [
+      {
+        "text": "When do I call 811",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

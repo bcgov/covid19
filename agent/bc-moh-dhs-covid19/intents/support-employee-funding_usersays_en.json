@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ffd9e320-c131-4c5b-9ad6-53146f54c845",
+    "data": [
+      {
+        "text": "Will I get paid sick leave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4834ce7f-ddb9-4d0e-bfa2-b8fde14b7d08",
+    "data": [
+      {
+        "text": "What funding is available for workers out of work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0d1f3ba-dee0-4a61-a523-1d0d1925bb4c",
+    "data": [
+      {
+        "text": "How do I access funding while I am out of work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cc1bc51-b1e8-4d70-94e7-aed0d049bacd",
+    "data": [
+      {
+        "text": "Is there funding while I am out of work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

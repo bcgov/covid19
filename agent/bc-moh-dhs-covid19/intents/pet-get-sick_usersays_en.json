@@ -1,0 +1,346 @@
+[
+  {
+    "id": "4ebe2d6b-f779-411b-9ded-457a6f9f217f",
+    "data": [
+      {
+        "text": "Is it possible for a person to pass the ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " to their ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fb6137c-78e3-4f09-beb7-a59a40ff4e9f",
+    "data": [
+      {
+        "text": "Dogs",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " and covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af8bb138-9ba7-43be-a026-e742b91b7363",
+    "data": [
+      {
+        "text": "What are the current ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " Rules pertaining to veterinary care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98a71c2b-83e7-4db0-ad70-140cd75ecbba",
+    "data": [
+      {
+        "text": "My horse is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aef77c5c-67cf-47c4-b6fb-7066e10ea7d9",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from a ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "323771f0-9c86-4324-8083-9f1fbaa27d15",
+    "data": [
+      {
+        "text": "Do I need to self-isolate my ",
+        "userDefined": false
+      },
+      {
+        "text": "animals",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4867d916-2335-474a-a14b-e494440f648e",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "animals",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2a60387f-cc9d-4a99-af1e-f804b5215ae6",
+    "data": [
+      {
+        "text": "can my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9e66399-5204-45d2-9300-38e7c5813545",
+    "data": [
+      {
+        "text": "Do ",
+        "userDefined": false
+      },
+      {
+        "text": "pets",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "861ee8cf-8c0e-4a4c-8fa6-8717a3df0c8f",
+    "data": [
+      {
+        "text": "do ",
+        "userDefined": false
+      },
+      {
+        "text": "dogs",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8d7d7c0e-778c-4547-92d8-eb1db44c58a1",
+    "data": [
+      {
+        "text": "Can my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d816d576-1cea-41e1-889b-119693b5722c",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " is sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b44d4cf4-7930-482f-8497-5b1e6bff883d",
+    "data": [
+      {
+        "text": "Can my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": true
+      },
+      {
+        "text": " get sick with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

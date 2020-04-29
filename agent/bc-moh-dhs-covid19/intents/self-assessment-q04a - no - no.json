@@ -1,0 +1,74 @@
+{
+  "id": "dacc7ae5-54a5-42ad-8d96-65bb8ed8a3d4",
+  "name": "self-assessment-q04a - no - no",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-yes.self-assessment-q03-yes-no.self-assessment-q03a-no-no.self-assessment-q04a-no-no",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-exit",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "self-assessment-q04a-no-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Did you provide care or have close contact with a person with confirmed COVID-19?\n\nNote: This means you would have been contacted by your health authority’s public health team."
+        },
+        {
+          "type": 0,
+          "lang": "fr-ca",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

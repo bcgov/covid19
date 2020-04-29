@@ -1,0 +1,42 @@
+{
+  "id": "18ee4f6f-2d08-42ed-8354-c8463a3ba3a1",
+  "name": "Common-Q-homemade_masks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "The use of a homemade mask should only be considered by members of the public who are symptomatic or caring for someone who is symptomatic as an interim measure if commercial masks are not available.\n\u003cbr\u003e\u003cbr\u003e\nIf you are making a mask under these circumstances, here is some information to improve the effectiveness of homemade masks:\n\u003cul\u003e\n\u003cli\u003eSome materials are better than others. Use clean and stretchy 100% cotton t-shirts or pillowcases.\u003c/li\u003e\n\u003cli\u003eEnsure the mask fits tightly around the nose and mouth; material that allows droplets to pass through will not work.\u003c/li\u003e\n\u003cli\u003eThe mask should be comfortable, or you won’t want to wear it consistently.\u003c/li\u003e\n\u003cli\u003eIf the mask makes it a lot harder to breathe, then the seal will not be as good, and the mask will be less effective.\u003c/li\u003e\n\u003cli\u003eClean or change the mask often.\u003c/li\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "274d55a0-0bcb-42d6-aaa7-cc6ca8488a3f",
+    "data": [
+      {
+        "text": "will snow help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c155dbb-28a6-4074-bbb0-9284c40e5a01",
+    "data": [
+      {
+        "text": "will warmer weather help ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b714a7a-966b-4637-9fa5-f91ddb8619a4",
+    "data": [
+      {
+        "text": "Is it going to rain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69f25a38-fa8a-4534-848a-2bb31415713c",
+    "data": [
+      {
+        "text": "what is the weather like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2b37954-1aa7-4842-b37e-22f9c6899c80",
+    "data": [
+      {
+        "text": "will the weather affect ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98ce04cd-dd67-45f3-be9b-9dc39cad1ef8",
+    "data": [
+      {
+        "text": "What is the weather?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b742019-9c08-4b17-aa4c-a9100f050c59",
+    "data": [
+      {
+        "text": "will it rain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

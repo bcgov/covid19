@@ -1,0 +1,128 @@
+[
+  {
+    "id": "6c8d1d4f-6d0b-4838-8b6a-7a9b282be03a",
+    "data": [
+      {
+        "text": "will we see the easter bunny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90a465ed-109c-4cbb-bb51-3eccaeeedcac",
+    "data": [
+      {
+        "text": "what about the easter bunny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebeedee9-e303-4019-b2e4-32a030132efc",
+    "data": [
+      {
+        "text": "easter bunny?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7841b02b-d53f-463d-942d-cdad321850d7",
+    "data": [
+      {
+        "text": "easter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62f6617e-3388-4e71-a23a-e45a51a709db",
+    "data": [
+      {
+        "text": "will the easter bunny come on ",
+        "userDefined": false
+      },
+      {
+        "text": "sunday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4717d93-672b-45da-969e-4f57628d012b",
+    "data": [
+      {
+        "text": "will the easter bunny leave eggs ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3ce5743-4fe0-4ecf-9c47-3a257c7f3a7a",
+    "data": [
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the easter bunny coming ",
+        "userDefined": false
+      },
+      {
+        "text": "this weekend",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e57bccc-5b7c-4987-a0ac-c8a5af4acb3e",
+    "data": [
+      {
+        "text": "will the easter bunny come ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "id": "a90d8d69-13bb-44bd-bbb4-502e33771161",
+  "name": "Common-Q-how-to-clean-electronics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aedf3de1-cdfb-42df-ad05-89399492ba3e",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dd8560da-5e81-4e8a-8f0f-3dc43d40e893",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "05d7eb44-e7c3-4482-a3f6-1947261dd65c",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Mobile phones or other high touch electronics (keyboards, touch screens) are frequently handled items where germs can live and spread to others. Before cleaning or disinfecting your electronics, read the manufacturer\u0027s instructions to ensure there are no warnings or products that should not be used. You can clean your phone and other electronics by using disinfectant wipes or sprays with at least 70% alcohol at least daily. Dry your device thoroughly right after and never immerse it in any liquid."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

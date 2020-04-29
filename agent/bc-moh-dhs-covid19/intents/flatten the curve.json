@@ -1,0 +1,31 @@
+{
+  "id": "b271adc3-ab9e-4b97-ab92-2d8e8a60d5d1",
+  "name": "flatten the curve",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Flattening the curve means transmission is slowing, we are delaying spread, and there are fewer numbers of cases. The goal is to keep the number of new cases from rising too fast. A flattened curve is about keeping the number of cases low, to a number that our healthcare systems can effectively manage. Every person has a job to do to delay the spread of COVID-19. If we all play our role, the curve will flatten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

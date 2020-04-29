@@ -1,0 +1,67 @@
+{
+  "id": "3ecc6f12-c867-4bdc-9f33-5521731581d8",
+  "name": "HCP-steps-to-put-on-ppe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e6dc9ee1-63e2-46b7-8c67-e55605a772a9",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7863c930-d25c-46d9-8df2-5fa2902e7edf",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eHealth Professionals\u003c/b\u003e: the steps for putting on Person Protective Equipment (PPE) : \n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e1.Hand hygiene – Clean all surfaces of hands and wrists.\u003c/li\u003e\n\u003cli\u003e2.Gown – Cover torso and wrap around back, fasten in back of neck and waist.\u003c/li\u003e\n\u003cli\u003e3.Surgical/procedure mask – Secure ties in middle of head and neck, fit nose band to your nose and pull on bottom down to completely cover chin.\u003c/li\u003e\n\u003cli\u003e4.Eye protection – Place googles or face shield over face and eyes and adjust to fit.\u003c/li\u003e\n\u003cli\u003e5.Gloves – Extend to cover wrist of gown\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr\u003e\u003cbr\u003e\n For more information on PPE allocation and guidelines visit : http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/infection-control/personal-protective-equipment",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

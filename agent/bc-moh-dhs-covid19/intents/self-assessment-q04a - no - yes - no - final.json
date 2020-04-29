@@ -1,0 +1,56 @@
+{
+  "id": "94bebc84-6e9e-467e-a041-24bc86deb22d",
+  "parentId": "b3de2006-9414-4aac-8b8f-e78ff144ce8d",
+  "rootParentId": "ac67c934-7232-43e3-9e89-864d9b130b92",
+  "name": "self-assessment-q04a - no - yes - no - final",
+  "auto": true,
+  "contexts": [
+    "self-assessment-exit",
+    "self-assessment-q04a-no-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-yes.self-assessment-q03-yes-no.self-assessment-q03a-no-no.self-assessment-q04a-no-yes.self-assessment-q04a-no-yes-no",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-exit",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Call 811"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

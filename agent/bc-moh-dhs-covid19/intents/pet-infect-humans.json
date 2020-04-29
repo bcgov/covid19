@@ -1,0 +1,67 @@
+{
+  "id": "668db0d1-5a52-4c9c-a4eb-984086dba260",
+  "name": "pet-infect-humans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b934164-2495-463d-9a65-02581886fac8",
+          "required": false,
+          "dataType": "@pet",
+          "name": "pet",
+          "value": "$pet",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fad60e6d-1b43-466f-84ec-fa5e4242c340",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "It is unlikely that a pet could infect a human.  There is no evidence that pets or other domestic animals can spread the virus that causes COVID-19 to people. The virus that causes COVID-19 most likely originated from an animal source in China, however, it is now spreading from person-to-person when there is direct contact (through droplets from coughing and sneezing or through direct contact with the virus on hands or surfaces) and not from contact with animals. \n\u003cbr\u003e\u003cbr\u003e\nFor more information on pets and COVID-19 please refer to: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/pets",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

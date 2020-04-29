@@ -1,0 +1,91 @@
+{
+  "id": "14e86e8b-6d5a-4d89-933c-db1a0e59a4c5",
+  "name": "vulnerable populations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6451f141-4f04-4268-a749-e4aafe9c98b0",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4587c0f5-4a27-4705-92ee-2ba14b210306",
+          "required": false,
+          "dataType": "@sys.age",
+          "name": "age",
+          "value": "$age",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3e8995ae-3b06-43a4-9102-01411079f31d",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8098b94a-2e7f-4711-b994-ed74cb2681da",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Most people with COVID-19 recover; however, some people are more vulnerable to developing severe illness or complications from COVID-19 including older people and those with chronic health conditions. Other patients may have questions about how their health may be impacted by COVID-19.\n\u003cbr\u003e\u003cbr\u003e\nFor more details please refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/priority-populations\" target\u003d_blank\u003ePriority Populations\u003c/a\u003e \n\u003cbr\u003e\u003cbr\u003e\nHere you can find information for:\n\u003cul\u003e\n\u003cli\u003ePeople with chronic health conditions\u003c/li\u003e\n\u003cli\u003eChildren with immune suppression\u003c/li\u003e\n\u003cli\u003eChildren with medical complexity\u003c/li\u003e\n\u003cli\u003ePeople living  with kidney disease\u003c/li\u003e\n\u003cli\u003ePatients receiving cancer treatment\u003c/li\u003e\n\u003cli\u003ePeople who may be or are experiencing violence\u003c/li\u003e\n\u003cli\u003ePeople who are unsheltered\u003c/li\u003e\n\u003cli\u003ePeople who use substances\u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

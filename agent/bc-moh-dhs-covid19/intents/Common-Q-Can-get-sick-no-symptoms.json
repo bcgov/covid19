@@ -1,0 +1,44 @@
+{
+  "id": "f2eab0c6-17ba-4d68-a101-d8a6c3c75750",
+  "name": "Common-Q-Can-get-sick-no-symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fb73c5aa-616d-48fe-a203-a48ffbbdaf68",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is still a lot we don\u0027t know about COVID-19 and there are studies underway to better understand it.There have been a few instances of transmission before the person became sick or the symptoms were so mild that the person did not know they were sick. Those are exceptions as most people became ill from being in close contact with someone who showed symptoms such as coughing and sneezing, therefore transmitting the virus through droplets. This is why B.C. health officials are focused on putting protection around people who are ill and showing symptoms, in order to decrease the spread to others."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

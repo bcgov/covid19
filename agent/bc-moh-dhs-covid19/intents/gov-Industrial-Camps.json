@@ -1,0 +1,91 @@
+{
+  "id": "fc0f95a2-5b9d-47c6-899f-a0ed25ccb8ea",
+  "name": "gov-Industrial-Camps",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "36a6cf44-da94-4dd1-9918-3db48ba4560e",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e6f619bc-0d27-4cbc-9977-23b2abf53130",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cd2aa3f7-dba9-455c-ad28-1f943bd8f176",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code2",
+          "value": "$geo-country-code2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "9645f1d6-f9bc-428b-a5b4-d2537f6383ce",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code3",
+          "value": "$geo-country-code3",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Guidance for workers who are engaged at Industrial Camps related to COVID-19 can be found at \u003ca href\u003d\"https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/office-of-the-provincial-health-officer\"/current-health-topics/covid-19-novel-coronavirus \" target\u003d_blank\u003eIndustrial Camp Order and Delegation\u003c/a\u003e.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "23e0246d-9126-439e-bead-59bfffc0c162",
+  "name": "get-supplies-when-sick",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7a16330-1deb-4378-8050-673fb43466e6",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c25393e9-bd91-4987-9af1-96d85b2432ed",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "2b3b4537-b361-48eb-9462-01303a9e641e",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you need supplies or medications, use a grocery or pharmacy delivery service or ask a friend or family to pick up and bring them to your home. Find a person who can be your \"buddy\" so that if you get sick, they can go to the pharmacy or store for you.\n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e Use technology such as phone and video calls to keep in touch with friends and family when you are ill.\u003c/li\u003e\n\u003cli\u003eYour \"buddies\"  are considered contacts and should avoid visiting others\u003c/li\u003e\n\u003cli\u003eKeep emergency phone numbers and self-care instructions in a place where everyone in the household can find them\u003c/li\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

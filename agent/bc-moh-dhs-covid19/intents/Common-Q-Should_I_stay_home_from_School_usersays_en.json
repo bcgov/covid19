@@ -1,0 +1,312 @@
+[
+  {
+    "id": "0a5d290a-48a5-47e2-899d-1c54cc744e0c",
+    "data": [
+      {
+        "text": "Will colleges and universities be open in the ",
+        "userDefined": false
+      },
+      {
+        "text": "fall of 2020",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " since there is no information about it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3b00ffa-ca06-4940-b41f-a4d1e8002f89",
+    "data": [
+      {
+        "text": "Will college an univerisities have online or in-person instruction in the ",
+        "userDefined": false
+      },
+      {
+        "text": "fall 2020",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f2fbd10-0ed9-4bf0-815c-0577a6f05119",
+    "data": [
+      {
+        "text": "yes..thanku for your reply. i just wanna know about the coming exam dates for my certification of qualification exam.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "042734fb-af3e-426a-8fa2-ccf79275909e",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "next month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " is it going to be okk for everything in BC or not because i really need to give my exam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3c52d8c-1dc8-4710-a017-565e473fb03a",
+    "data": [
+      {
+        "text": "COVID 19 make us hlose schools but i am working  i am a single mom and i have ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children under ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "  how can i go work full time and help them learn onlije",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ffb4754-836f-4623-acf5-46ba96777d24",
+    "data": [
+      {
+        "text": "I need online courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d08fa7b-fac9-4987-90b3-4a7ba47d88de",
+    "data": [
+      {
+        "text": "can I go back to school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebd7670a-4edc-4833-88ca-7608db603c6c",
+    "data": [
+      {
+        "text": "how will this affect me at school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c56a612-a85c-4a7e-aa9f-03c4ee827d0b",
+    "data": [
+      {
+        "text": "will everyone graduate ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbe3e6c2-e502-4055-8de0-4938a2f7a007",
+    "data": [
+      {
+        "text": "will everyone pass school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7836469e-e4d8-4dc7-8063-ce57da22844c",
+    "data": [
+      {
+        "text": "will I graduate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e4e9439-a139-4dbb-97a1-586ef22bda00",
+    "data": [
+      {
+        "text": "will I pass ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "961cd159-b240-4d69-8bd4-0020c2e89644",
+    "data": [
+      {
+        "text": "how do I go to school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bca7f80-fe29-4a13-b0d6-059d448e2fe6",
+    "data": [
+      {
+        "text": "is ubc closed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf7dd951-6a5c-4503-bd04-ae2215018615",
+    "data": [
+      {
+        "text": "is the university closed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5bef77-3347-493d-9085-a04f07e171b1",
+    "data": [
+      {
+        "text": "will I graduate this year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5688ea8-0b37-45de-8f40-51f2e01b16f0",
+    "data": [
+      {
+        "text": "will i graduate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b00066e-fe51-42f3-98d6-8815fc633441",
+    "data": [
+      {
+        "text": "I am a secondary student. Will I graduate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1692ea87-1023-4d38-8699-dddcc84e25c5",
+    "data": [
+      {
+        "text": "Should my child go to school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "54613245-fd8f-4911-a179-b0589bcb30a6",
+    "data": [
+      {
+        "text": "Should I go to school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "595ffa06-a082-4e55-a230-e9ada28bae45",
+    "data": [
+      {
+        "text": "Should I stay home from school?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

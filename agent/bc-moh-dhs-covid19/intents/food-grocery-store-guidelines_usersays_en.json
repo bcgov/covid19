@@ -1,0 +1,168 @@
+[
+  {
+    "id": "bfc2c819-15ae-40b4-b3f5-5955de8448bb",
+    "data": [
+      {
+        "text": "covid-19 guidelines for retail food and grocery stores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cdf6799-0fd0-48ba-8dca-9838cac932fb",
+    "data": [
+      {
+        "text": "what should food store owners be doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb29246f-7c0a-4789-97c6-b5bbdb78fe5f",
+    "data": [
+      {
+        "text": "what guidelines are there for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " retail food store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7725e241-08ea-4b8d-af2a-0032b9895bd8",
+    "data": [
+      {
+        "text": "guidelines for retail and gocery food stores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c304ba6-5d85-449f-a262-ad88eb75cca7",
+    "data": [
+      {
+        "text": "food store owner rules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2f253d9-afee-4c00-a313-92e85e1b8168",
+    "data": [
+      {
+        "text": "retail food store rules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb215aa4-d33e-4dd3-a4c0-e9ea3271dbb6",
+    "data": [
+      {
+        "text": "food store owner guidelines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5731b198-d1cd-4f72-9701-a56690144300",
+    "data": [
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " there guidelines for grocery store owners",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e56d1e5-d5e7-4ae9-9dd8-5272b5fb32ed",
+    "data": [
+      {
+        "text": "What should food stores ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " doing ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " stay safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df50333c-3115-44af-b328-41060134a294",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the guidelines for grocery stores?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

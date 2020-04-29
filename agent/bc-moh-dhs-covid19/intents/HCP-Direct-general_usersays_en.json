@@ -1,0 +1,480 @@
+[
+  {
+    "id": "66e2ebb4-e36d-49b0-9791-42eaf8519db9",
+    "data": [
+      {
+        "text": "Registered nurse ; was retired reregistered now; jobs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f85e2c8f-bc99-46d2-9ed3-2c081993f022",
+    "data": [
+      {
+        "text": "for professionals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2550d8e-040a-4d2b-9c0d-d5a3305cb959",
+    "data": [
+      {
+        "text": "Is there mandatory isolation in place for interprovincial travel if you are a support worker?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f68ae932-ec2c-4e1d-92f8-27c930643603",
+    "data": [
+      {
+        "text": "Acute care outbreak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b81860ee-4d9c-48cf-a283-eda8713de2c3",
+    "data": [
+      {
+        "text": "Home Support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3c9c7e5-5c5f-439e-8f57-b34e39f4b6f3",
+    "data": [
+      {
+        "text": "Home Support seniors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3843f632-28dc-4986-85f7-75667391ba65",
+    "data": [
+      {
+        "text": "Resources for mental health caretakers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "910e3bc9-f709-437f-8966-0e9992e97ae3",
+    "data": [
+      {
+        "text": "Resources for special needs adult caretakeers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f904e06-9abf-4283-a375-ee6b6bf97dc6",
+    "data": [
+      {
+        "text": "Special Needs Adults",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a43fd952-0a7e-4e51-b5eb-f32550a4c0a2",
+    "data": [
+      {
+        "text": "Are residential support workers to be working ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " more than ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf17b925-248d-49bc-93a9-14412017e670",
+    "data": [
+      {
+        "text": "I work for Canadian Blood Services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c67a9ab9-020b-41c8-9af0-ab37cd3a6172",
+    "data": [
+      {
+        "text": "ppe for non health care workers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f6964a91-a973-42f9-a14d-f0eafcf21ada",
+    "data": [
+      {
+        "text": "should all long term care workers wear a mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e09c1e65-e196-47d1-bb29-370e682693d8",
+    "data": [
+      {
+        "text": "The implementation of the quarantine act in ",
+        "userDefined": false
+      },
+      {
+        "text": "BC",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " makes mention of people arriving into BC from other provinces, does that include health care workers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27f666d5-55ca-4d8b-a0de-714193ae880f",
+    "data": [
+      {
+        "text": "When can a health professional return to work after testing positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35c92796-a15c-441e-a34c-6584eedbb1b1",
+    "data": [
+      {
+        "text": "I am a health care worker. I have returned from travel ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Peru",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": ". I am currently in quarantine. Do i need to get Covid testing before going back to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d17f1932-ffc8-4431-b550-35f9aa54095e",
+    "data": [
+      {
+        "text": "I am a family doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df62e617-f735-416d-bbe7-1eea7151746f",
+    "data": [
+      {
+        "text": "I have some concerns regarding spread of disease of COVID-19 patients .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fad607ea-adec-4935-9256-760c45f23cae",
+    "data": [
+      {
+        "text": "I work in a group home and one of our clients was sent to the hospital to be checked for Covid-19.  Should i get checked seeing I work closely to this individual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a103b686-86b3-4b87-9b02-7686ba56200d",
+    "data": [
+      {
+        "text": "Did they put an order in for one site facility for health care workers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bcec60b-1c4f-4aae-9155-a4a11c9276f9",
+    "data": [
+      {
+        "text": "Can u work in one long term care and  work in community support at the same time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1a585c1-05e4-4a9e-91b9-19affcc36e9d",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I get information for healthcare professionals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b849959d-7d2a-4289-b0d7-cd3fe10eec93",
+    "data": [
+      {
+        "text": "what information for healthcare providers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b750db0-7934-43bb-8336-b32dad8b4992",
+    "data": [
+      {
+        "text": "what advice ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " you give clincal staff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "452ecb36-5b22-4729-9020-c6e6c17f7706",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the guidelines for clinical workers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86966d4c-7be7-4a9e-b82c-12addc5b5bc3",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the guidelines for nurses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49cab8fb-6cd2-4724-a7ad-853e9e776c53",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a nurse where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I get information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ca170c7-851b-4d87-8d2e-bd769a120633",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a healthcare provider",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da43ce19-a5fd-447e-9312-1bc070101d1f",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "am",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a healthcare worker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

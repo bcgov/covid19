@@ -1,0 +1,67 @@
+{
+  "id": "066db1be-1822-4543-aca4-5212e73ae4d2",
+  "name": "food-grocery-store-etiquette",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1c1a9674-269e-42c2-a00d-d0ee3da70328",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5143e9ae-0b9c-424b-b7cf-34f69b5bd4a2",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "The way we purchase groceries has changed during the COVID-19 pandemic. Stores selling food are an essential service. Physical distancing and good hygienic practices must be in place to prevent the spread of COVID-19 among customers. Customers can protect themselves and others by following these practices when shopping:\n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003eDo not shop if you are ill.\u003c/li\u003e\n\u003cli\u003eShop alone to limit COVID-19 exposures to other family members.\u003c/li\u003e\n\u003cli\u003eKeep a 2 metre distance from other customers while waiting in line outside the store and while shopping inside the store\u003c/li\u003e\n\u003cli\u003eBe quick - limit time in the store only to selecting your items and paying for your purchases\u003c/li\u003e\n\u003cli\u003eRespect designated store hours for the elderly, immunocompromised or disabled people, and for hospital workers and first responders \u003c/li\u003e\n\u003cli\u003eFollow store policies and follow signs instructing you how to move through-out the store \u003c/li\u003e\n\u003cli\u003eTouch only the fresh fruits and vegetables that you plan to purchase \u003c/li\u003e\n\u003cli\u003eTake only the groceries that you need \u003c/li\u003e\n\u003cli\u003eWash your reusable grocery bags or avoid using them for now. \u003c/li\u003e\n\u003cli\u003ePack your groceries into your bags yourself if you are able. \u003c/li\u003e\n\u003cli\u003eUse tap purchase to avoid handling cash \u003c/li\u003e\n\u003cli\u003eUse alcohol based hand rubs in the store for your hands and disinfectant wipes on grocery store cart handles ,/li\u003e\n\u003cli\u003e Wash your hands after shopping and after putting away groceries\u003c/li\u003e\n\u003c/ul\u003e\nFor more details, refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/food-safety\" target\u003d_blank\u003e food safety\u003c/a\u003e.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

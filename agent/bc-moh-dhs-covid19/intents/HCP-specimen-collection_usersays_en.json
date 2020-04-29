@@ -1,0 +1,176 @@
+[
+  {
+    "id": "602f654e-04d4-4bcb-82f2-6b732665d309",
+    "data": [
+      {
+        "text": "swab collection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a6ef3b1-595e-4d9e-942b-e3bd6949a6ab",
+    "data": [
+      {
+        "text": "lab test specimen collection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c69449f8-a996-4e1d-ad20-04cd4ba5c1a7",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the swab technique needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6c5084f-f04e-42d9-b7cb-f4d5960e3e16",
+    "data": [
+      {
+        "text": "swab technique",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13db2e4f-0401-4e03-8d40-316d9d635a14",
+    "data": [
+      {
+        "text": "Nasopharyngeal (NP) Swab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29064548-1f77-443f-ac38-a710da133206",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I collect specimens for testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5801bb4a-9fee-4998-852f-dcbcb2a51cf2",
+    "data": [
+      {
+        "text": "lab specimen collection process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a4144ca-e094-4c67-9c55-ad66dcec12dc",
+    "data": [
+      {
+        "text": "collection procedures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "555eca98-0486-45d2-8e7d-4d202c3d282e",
+    "data": [
+      {
+        "text": "specimen collection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb01f7ed-fcac-46f5-830b-743d530d1ba4",
+    "data": [
+      {
+        "text": "lab test specimens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a207bf-9504-4ef7-a885-385673897d35",
+    "data": [
+      {
+        "text": "specimens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd9e2c41-073a-4347-b32e-25a5971386b0",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I collect specimens for lab testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

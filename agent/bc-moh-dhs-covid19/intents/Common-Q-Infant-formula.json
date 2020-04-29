@@ -1,0 +1,67 @@
+{
+  "id": "f5af9796-d868-4784-a142-b47cd5dd01f9",
+  "name": "Common-Q-Infant-formula",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cfa988f3-6e38-405d-8d22-d3d6d97c7fcb",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7acaadfc-69ca-4606-a790-5cfbe4fbe997",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "You should have enough formula on hand to last for 14 days (two weeks). Infant formula is available in retail and online stores. There is an adequate supply of infant formula in the province. However, some retailers cannot restock fast enough due to people purchasing more than they usually do. \n\u003cbr\u003e\u003cbr\u003e\nIf you can’t find the formula you normally use:\n\u003cul\u003e\n\u003cli\u003eIf you are combining breastfeeding and formula feeding, consider breastfeeding more often to increase your milk supply. If you have recently stopped, it may be possible to restart. Find out more here. \n\u003cli\u003eTry a different brand or type of formula (ready-to-feed, liquid concentrate or powder). Any formula labelled for use from 0 to 12 months is safe for your baby, unless your baby is on a special formula. If so, contact your health care provider.\n\u003cli\u003eCAUTION: Do not dilute formula with extra water to make your supply last longer. This will not provide your baby with the nutrition needed for healthy growth. \n\u003c/ul\u003e\nIf you have run out of infant formula and need advice on acceptable short-term alternatives, call 8-1-1. \n\u003cbr\u003e\u003cbr\u003e\nCOVID-19 has not been detected in human milk. Human milk has antibodies and immune factors that protect the health of an infant. See \u003ca href\u003d\"http://www.bccdc.ca/Health-Professionals-Site/Documents/COVID19_LactationInfographic.pdf\" target\u003d_blank\u003e Poster\u003c/a\u003e  for more information.  \n\u003cbr\u003e\u003cbr\u003e\nYou can also call 8-1-1 for breastfeeding support.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

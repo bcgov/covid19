@@ -1,0 +1,79 @@
+{
+  "id": "91bab1b7-aa88-4f85-b190-1b3ee4cc4630",
+  "name": "Should_I_get_tested",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "22affe58-78fe-4580-a8c0-87aca933cdaf",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c6391d31-e3c4-45e9-a436-6b4814c17154",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "80565b12-af7d-4888-90b6-773137088313",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If an individual has no symptoms, they do not require a test. A healthcare provider may also decide whether a person requires testing. Testing is recommended for anyone with cold, influenza or COVID-19-like symptoms, even mild ones. \u003cbr\u003e\u003cbr\u003eSymptoms include:\n\u003cli\u003eFever\n\u003cli\u003eChills\n\u003cli\u003eCough\n\u003cli\u003eShortness of breath\n\u003cli\u003eSore throat and painful swallowing\n\u003cli\u003eStuffy or runny nose\n\u003cli\u003eLoss of sense of smell\n\u003cli\u003eHeadache\n\u003cli\u003eMuscle aches\n\u003cli\u003eFatigue\n\u003cli\u003eLoss of appetite\n\u003cBR\u003e\u003cBR\u003eIt is especially important for people who develop cold, influenza or COVID-19-like symptoms to be tested if they are:\n\u003cul\u003e\n\u003cli\u003eHealthcare workers\u003c/li\u003e\n\u003cli\u003eResidents of remote, isolated or Indigenous communities\u003c/li\u003e\n\u003cli\u003ePeople living and working in communal settings such as work-camps, correctional facilities, shelters, group homes, assisted living and seniors’ residences\u003c/li\u003e\n\u003cli\u003ePeople who are homeless or have unstable housing \u003c/li\u003e\n\u003cli\u003eEssential service providers (e.g. first responders)\u003c/li\u003e\n\u003cli\u003eReturning travellers identified at a point of entry to Canada\u003c/li\u003e\n\u003c/ul\u003e\n\nVisit \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing\" target\u003d_blank\u003eTesting\u003c/a\u003e for information on testing or ask me to walk through the Self Assessment questions for direction.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
