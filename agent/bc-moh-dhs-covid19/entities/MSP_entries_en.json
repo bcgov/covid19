@@ -1,0 +1,31 @@
+[
+  {
+    "value": "MSP",
+    "synonyms": [
+      "MSP",
+      "Medical Services Plan",
+      "Health Insurance",
+      "BC Health Insurance",
+      "Provincial Health Insurance"
+    ]
+  },
+  {
+    "value": "Insurance",
+    "synonyms": [
+      "Insurance"
+    ]
+  },
+  {
+    "value": "Coverage",
+    "synonyms": [
+      "Coverage"
+    ]
+  },
+  {
+    "value": "CareCard",
+    "synonyms": [
+      "CareCard",
+      "BC Services Card"
+    ]
+  }
+]

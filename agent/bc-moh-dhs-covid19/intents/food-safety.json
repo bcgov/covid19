@@ -1,0 +1,67 @@
+{
+  "id": "f8f44749-27ca-429a-953c-11c95f22215c",
+  "name": "food-safety",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ab9f8cbd-303e-43fb-9638-958164883f87",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "277976e5-52ef-4215-951b-aea1d16def35",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid1",
+          "value": "$covid1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "COVID-19 doesn\u0027t appear to be transmitted by eating food contaminated with the virus, however, it is important to wash your hands before preparing or eating food. \n\u003cbr\u003e\u003cbr\u003e\nNormal cooking temperatures for foods will kill COVID-19 and other microbes in food. As with other microbes our advice is to always use a thermometer to check that the internal temperature of the food has reached 74°C.\n\u003cbr\u003e\u003cbr\u003e\nThere is no evidence that COVID-19 is spread through food made by infected people. COVID-19 is spread from person-to-person through respiratory droplets. There is a theoretical risk that a person infected with COVID-19 could spread the virus by sneezing on food or by directly touching food with their hands. However, there have been no cases reported of such transmission with COVID-19. To be safe, if you are sick with COVID-19, do not prepare or handle food for others.\n\u003cbr\u003e\u003cbr\u003e\nFor more details, refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/food-safety\" target\u003d_blank\u003e food safety\u003c/a\u003e.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

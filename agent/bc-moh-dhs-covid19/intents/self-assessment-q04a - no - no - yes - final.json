@@ -1,0 +1,65 @@
+{
+  "id": "bd2c1ab1-3a18-458b-b3fe-414fe85de6fa",
+  "parentId": "dacc7ae5-54a5-42ad-8d96-65bb8ed8a3d4",
+  "rootParentId": "dacc7ae5-54a5-42ad-8d96-65bb8ed8a3d4",
+  "name": "self-assessment-q04a - no - no - yes - final",
+  "auto": true,
+  "contexts": [
+    "self-assessment-exit",
+    "self-assessment-q04a-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-yes.self-assessment-q03-yes-no.self-assessment-q03a-no-no.self-assessment-q04a-no-no.self-assessment-q04a-no-no-yes",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-exit",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003ePlease get assessed for a COVID-19 test and self-isolate for 14 days.\u003c/b\u003e\n\u003cbr\u003e\u003cbr\u003e\nTesting Instructions:\nTesting is recommended for anyone with cold, flu or COVID-19-like symptoms, even mild ones. They can now be assessed for COVID-19 testing by a healthcare provider or at a local community collection centre. For a list of collection centres in the province to find one near you go to:  \u003ca href\u003d\"http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/lab-testing\" target\u003d_blank\u003eCollection Centre Locator\u003c/a\u003e.\n\u003cbr\u003e\u003cbr\u003e\nYou can also call 8-1-1 to find the nearest centre.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

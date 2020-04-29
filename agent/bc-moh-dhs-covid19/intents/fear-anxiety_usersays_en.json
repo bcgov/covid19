@@ -1,0 +1,448 @@
+[
+  {
+    "id": "38d52fc3-468a-4586-b12d-3d947e552e5e",
+    "data": [
+      {
+        "text": "mental health check in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a33a17c-bd6e-4ccf-95f9-d0ab08ce6b0a",
+    "data": [
+      {
+        "text": "mental health tool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "357fed50-8cf0-4ff6-93d3-8120a097851d",
+    "data": [
+      {
+        "text": "mental health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7b6f84f-ec14-4f00-ad4c-5bc30e19622b",
+    "data": [
+      {
+        "text": "tool for mental health assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "96138c46-d36b-4e79-9be2-f91279adea04",
+    "data": [
+      {
+        "text": "mental health check in tool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7977048a-fff8-4565-ab36-5e24d12bc051",
+    "data": [
+      {
+        "text": "I don\u0027t feel this is safe.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0cb2787-6a43-4cbd-9dd2-bdd1090c758c",
+    "data": [
+      {
+        "text": "mental health support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dfae4dd-1565-4afd-b45e-daf537ef36f4",
+    "data": [
+      {
+        "text": "where can I get mental health support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba263bdc-a20b-4913-9f11-8ef08ada0dcc",
+    "data": [
+      {
+        "text": "I am having anxiery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c378cd49-9dd5-4e0a-964c-69f12200e5a6",
+    "data": [
+      {
+        "text": "I am worried",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "615a51c7-51f1-4711-bf85-b2e4928462ac",
+    "data": [
+      {
+        "text": "my wife is obsessing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e08ef23c-ca8b-496d-a4b8-bb72c27b42c2",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "wife",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " is depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57b3fef7-e8cb-49a1-9878-7a262138d554",
+    "data": [
+      {
+        "text": "I am fearful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a90fefd8-9be1-43cd-8f81-6a5c874015de",
+    "data": [
+      {
+        "text": "fearful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d934bc2-ea38-4fc1-bf8d-17a1b226b3ec",
+    "data": [
+      {
+        "text": "angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "000d7662-4d94-484b-8d0c-797866a7f057",
+    "data": [
+      {
+        "text": "anxiety",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9e49268-aad0-4e23-8317-dc1b733c4850",
+    "data": [
+      {
+        "text": "depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac3fb81b-813e-4e8f-a459-72aae8e196d3",
+    "data": [
+      {
+        "text": "mental health resource",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59ed6bdf-754c-48fe-8c8f-8d1f9ddff7ba",
+    "data": [
+      {
+        "text": "resources for mental health during isolation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dc2a7ec-bd28-4428-b676-126f321c9118",
+    "data": [
+      {
+        "text": "I’m looking for some face-to-face counselling or online counselling for a gay man who has suicidal ideation, anxiety, PTSD, cannabis use, and has been suffering from over a prescription of different medications. In Vancouver BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea4e9a0a-1418-4d1e-a21b-01ae2a7d3e66",
+    "data": [
+      {
+        "text": "I have a mental illness and I don’t feel like I have support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e27f21c-d203-4fa7-90ed-b7c9541a3b18",
+    "data": [
+      {
+        "text": "Mental illness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a13825e0-4b7c-45f3-9101-73e9b749569e",
+    "data": [
+      {
+        "text": "Should I kill myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bc2569d4-df0a-4904-8c7e-c2e331aef635",
+    "data": [
+      {
+        "text": "I am lonely.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f26146e-d9dd-422e-a13b-202cba5c9762",
+    "data": [
+      {
+        "text": "I might need counseling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c156f13-47b1-4ca6-bedc-d49e2166a18b",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " on 1 mental health support during covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d0cc406-76ca-4174-9b7b-9b1dafd51b9c",
+    "data": [
+      {
+        "text": "I am scared",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a3c4041-9309-4120-b9c2-ce75a1a845c3",
+    "data": [
+      {
+        "text": "I feel depressed, who should I contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56fd83c5-e1a5-41f6-9a93-f63553aff0f1",
+    "data": [
+      {
+        "text": "I feel anxious and I need to talk to someone.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c2c00c9-0629-441b-b4d8-b351856c9258",
+    "data": [
+      {
+        "text": "where can i get help for my anxiety?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ba79628-a536-4dea-8777-4a1b93375312",
+    "data": [
+      {
+        "text": "Where can i get help for my mental health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "651ea0fc-87b1-4a41-bde0-fcc5dc3567f6",
+    "data": [
+      {
+        "text": "I am worried.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4a34320-ddbe-4769-88a8-6d9fc93d63b5",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "husband",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": true
+      },
+      {
+        "text": " is afraid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "aecd1337-4b8d-4d74-b2ca-14721ac3b52b",
+    "data": [
+      {
+        "text": "I am anxious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42348772-7387-441b-939a-936d98d3fbb5",
+    "data": [
+      {
+        "text": "I am afraid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

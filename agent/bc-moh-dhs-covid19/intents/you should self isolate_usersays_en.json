@@ -1,0 +1,478 @@
+[
+  {
+    "id": "1013bdac-a0f6-48ca-8396-712a8ba49643",
+    "data": [
+      {
+        "text": "No no no how long do you have to self isolate for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "012716a7-1aa3-4a4e-ac48-6d210d4c06ef",
+    "data": [
+      {
+        "text": "how do i get medication in isolation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "225dad2b-b165-4397-a5d9-54a99d0c9295",
+    "data": [
+      {
+        "text": "Is quarantine mandatory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2820910c-b853-49d8-8dbc-175e9c544cf9",
+    "data": [
+      {
+        "text": "Do I need to self-isolate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77fa881e-c759-4e27-be2d-e098477d0d38",
+    "data": [
+      {
+        "text": "how long to self-isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d60edc06-ffe0-4886-8933-c67c77786b37",
+    "data": [
+      {
+        "text": "How long will isolation last?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "359a75db-3010-47f0-81c2-0e9ae05bda9e",
+    "data": [
+      {
+        "text": "how long do I self isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b48d655d-9d7e-47dd-a012-2c0d6b2eccd4",
+    "data": [
+      {
+        "text": "how long should I self isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "493488a0-4751-4e11-beb2-0f0ff119cde0",
+    "data": [
+      {
+        "text": "When can I stop self-isolating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "738702b0-6734-4a02-b2ac-571388a51979",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "family member",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " is suspected of having ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a689d98-249d-4081-98b5-ec803aeed14d",
+    "data": [
+      {
+        "text": "I was on a cruise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e24fb29d-be69-41de-81b6-5a33c8da11c0",
+    "data": [
+      {
+        "text": "I was in close contact with someone sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55aa1dee-5222-4e3e-83f4-e022ad339a2b",
+    "data": [
+      {
+        "text": "I was on a plane and someone was coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d96210f-56f1-43ba-9f34-93d2a0e76c6b",
+    "data": [
+      {
+        "text": "I was on a plane and someone was sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afd76f7d-5085-49a0-a5a1-215e0328c9d2",
+    "data": [
+      {
+        "text": "I have presumptive ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "631e21e5-69b3-423b-a48b-1de303047e40",
+    "data": [
+      {
+        "text": "I was sneezed on by someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "248a16be-f246-4cee-886b-3a8bd85c3b3b",
+    "data": [
+      {
+        "text": "I was coughed on by someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09a75600-c6ec-43d6-82b0-d7d74c079163",
+    "data": [
+      {
+        "text": "I had unprotected contact with someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32d69821-3a80-4716-bdbd-d662ef9e1460",
+    "data": [
+      {
+        "text": "I had intimate contact with someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b620827f-98b2-4f75-861f-302a2c4f517d",
+    "data": [
+      {
+        "text": "I had sexual contact with someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e20e6586-bbdf-4d2b-a2c3-3810c8815dc9",
+    "data": [
+      {
+        "text": "I had close contact with someone with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3101220d-062d-4af1-851a-7f3c6aaabef1",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "family member",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " without consistent protection from ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " patient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1581dd37-443e-4926-be19-5fa62c1db527",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "family member",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " who had contact with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e684fa01-679d-4dfe-8835-6c8271440fe7",
+    "data": [
+      {
+        "text": "I am a care aid without consistent protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb1c2b5a-2f4d-4448-ad8f-b7bdac93289c",
+    "data": [
+      {
+        "text": "I work in homecare without consistent protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d479de2a-73b6-441d-8beb-242903df6653",
+    "data": [
+      {
+        "text": "I am a nurse without consistent protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "766937b7-fc12-4814-9577-baaa45ab742d",
+    "data": [
+      {
+        "text": "I am a health care worker without consistent protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ece3a1bf-cdb5-4b53-9408-dd1335224713",
+    "data": [
+      {
+        "text": "I am a doctor without consistent protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44cd9149-43d7-4ae0-a19e-ac5b21ad6ca2",
+    "data": [
+      {
+        "text": "I am a nurse and had unprotected contact with a patient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7915a134-687a-4f38-9df3-3a34870eb67b",
+    "data": [
+      {
+        "text": "I work in heathcare and had unprotected contact with a ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " patient",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f1b745-3d7f-43ee-8ae9-3a27d4bf1cd2",
+    "data": [
+      {
+        "text": "I am a health care worker who cared for a patient without protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "id": "428762ac-a010-46ef-ad15-944133960a19",
+  "name": "Test Results",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f287e1bd-c4e3-466a-bb91-06a0c02ca805",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "7f126c05-c1c1-4256-b2df-075ca01295e7",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "ef989781-5514-4d54-a85a-353a222b4a4c",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fd74b189-fc74-445b-9510-aa805c2c5a84",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eYou are now able to get your results by phone, text or my eHealth.\u003c/b\u003e\n\u003cbr\u003e\u003cbr\u003e\n‎The time until test results are available may vary depending on testing location. Throughout B.C., there are many labs running tests seven days a week to get test results back as soon as possible. \n\u003cbr\u003e\u003cbr\u003e\nThe BCCDC COVID-19 Negative Results line (1-833-707-2792) is open from 8:30 AM to 4:30 PM, seven days a week. It may be easier to get through to someone on the line in the afternoon when the call volume is generally lower.\n\u003cbr\u003e\u003cbr\u003e\nIf you live in the \u003cb\u003e Island Health Region\u003c/b\u003e, you can call the Laboratory Call Centre toll-free at 1-866-370-8355. The call centre is open Monday to Friday 7:00 AM to 6 PM and weekends (Saturday, Sunday) from 8:00 AM to 4:00 PM.\n\u003cbr\u003e\u003cbr\u003e\nIf you live in the \u003cb\u003eInterior Health Region\u003c/b\u003e, you can check your results online on \u003ca href\u003d\"https://www.interiorhealth.ca/YourHealth/MyHealthPortal/Pages/default.aspx\" target\u003d_blank\u003e My Health Portal\u003c/a\u003e. My Health Portal support is available Monday to Friday, 7 a.m. to 7 p.m. (PST). For login assistance or for information on how to get access to the portal, call 1-844-870-4756. \n\u003cbr\u003e\u003cbr\u003e\nPlease note that the time until test results are available may vary depending on testing location. \n\u003cbr\u003e\u003cbr\u003e\nIf someone tests positive, public health will contact them. However, while you wait for your test result, you should follow the advice of your doctor or testing provider to self-isolate.\n\u003cbr\u003e\u003cbr\u003e\nFor access to the form to request your results by text or via the my eHealth please refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing/test-results\" target\u003d_blank\u003e Test Results\u003c/a\u003e.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

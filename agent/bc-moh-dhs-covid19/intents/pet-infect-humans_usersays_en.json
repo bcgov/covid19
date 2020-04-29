@@ -1,0 +1,202 @@
+[
+  {
+    "id": "d1a23b8d-835b-43c2-bbc1-b80ea3b0148f",
+    "data": [
+      {
+        "text": "Can I catch it from my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "562db8b2-ef90-40c0-afd8-df38d1e67edb",
+    "data": [
+      {
+        "text": "Can the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " be transferred from a dogs fur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c96e1b3e-6d9f-43f7-9528-12d789cb8735",
+    "data": [
+      {
+        "text": "Can my groomer pass ",
+        "userDefined": false
+      },
+      {
+        "text": "covid 19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " to my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " and then to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ae3ae83-bc27-4f0a-9302-527e52b6a165",
+    "data": [
+      {
+        "text": "If a ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " can have the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " can they then spread it to a human?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96cacb32-ad60-41b7-a65a-465e562e9543",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "animals",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " spread ",
+        "userDefined": false
+      },
+      {
+        "text": "covid virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3881baac-9290-412e-980c-bc06997c9c45",
+    "data": [
+      {
+        "text": "Can I catch ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc87d884-1b94-4470-82b7-0d1ae9d56dce",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "pets",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " infect humans with ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

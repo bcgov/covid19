@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ce077905-8878-4f06-9720-b6bf20fb4fde",
+    "data": [
+      {
+        "text": "Francais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aab80d7c-11f7-4c46-93fc-b6e2ecc790c7",
+    "data": [
+      {
+        "text": "French",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3b5d7508-5ad1-4e95-b461-fe92441bd9fe",
+    "data": [
+      {
+        "text": "Speak French?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74645287-6329-49cd-9498-43908564e82a",
+    "data": [
+      {
+        "text": "Parlez vous Francais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

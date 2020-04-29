@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "04d93bd7-157f-4137-b442-43b950f735e0",
+    "data": [
+      {
+        "text": "I became a grandmother ",
+        "userDefined": false
+      },
+      {
+        "text": "last Wednesday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I hold my grandson while wearing a mask and gloves?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6bde695-18c7-417b-9921-14b27a9f0b97",
+    "data": [
+      {
+        "text": "Can people come over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d49a0c4c-04ed-4f8b-a172-5365e7f0ead3",
+    "data": [
+      {
+        "text": "I can have a few people in my home if they are not sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4745b438-25e1-471b-80a5-46bc5e25aac1",
+    "data": [
+      {
+        "text": "Can teenage have sleepovers during covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d809b7d2-ce12-4892-b62c-5ae25c51f7f5",
+    "data": [
+      {
+        "text": "Can kids still have sleepovers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d2d39d4-52d3-4031-8366-e04b823607d0",
+    "data": [
+      {
+        "text": "Can child go for sleepovers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ba70331-1bf6-4729-9710-43dab96c9efa",
+    "data": [
+      {
+        "text": "Social restrictions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c8a53e4-3673-4d05-977a-649a87cce429",
+    "data": [
+      {
+        "text": "Can my sister visit me during these days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3870d129-22f3-4f66-a452-36e91f87b808",
+    "data": [
+      {
+        "text": "Can I meet outside with friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b23be767-6baa-4dea-aec7-862e3e74f46d",
+    "data": [
+      {
+        "text": "can i visit my mom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d49e4a9-92cd-4c1f-9199-443eaafa4721",
+    "data": [
+      {
+        "text": "I am not sick, nor have I been sick can I go out in public now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aacd52ef-493d-4063-b11e-2d74cd35e338",
+    "data": [
+      {
+        "text": "Can I go visit my daughter\u0027s home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "167386c0-7a15-4c58-b4c9-90812cbdbcf2",
+    "data": [
+      {
+        "text": "Carpool restriction in BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30dd4e2a-4af0-4b35-b420-ad013870af1f",
+    "data": [
+      {
+        "text": "Visit families",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc303a49-614e-47a5-9304-ee45b1ed4ed9",
+    "data": [
+      {
+        "text": "Should you be having your grandchildren over if its ouside?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0976307b-c199-4dc3-9750-b8c5c7a7851d",
+    "data": [
+      {
+        "text": "will my football season be canceled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfb39e5e-de04-4af8-8252-8e40875cec14",
+    "data": [
+      {
+        "text": "can i spend time with someone outside of my household who has been self isolating also for the the past ",
+        "userDefined": false
+      },
+      {
+        "text": "3 weeks",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e74c867-63ad-4e2a-af00-595af36b7137",
+    "data": [
+      {
+        "text": "What is the social distancing requirements for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kids from different households going for a bike ride?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d8d081b-766b-4770-930c-594166de9973",
+    "data": [
+      {
+        "text": "Can I see my boyfriend who doesn\u0027t live with if I come home and shower and change clothes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a936c4a1-1d4b-406e-b818-e6066d2773c5",
+    "data": [
+      {
+        "text": "Should I see relatives?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a6f9e64-579b-4868-aeba-0476cd22c274",
+    "data": [
+      {
+        "text": "can I visit people?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c80243b9-482b-4199-949b-2407f63c5803",
+    "data": [
+      {
+        "text": "How many passengers can I gave in my car to travel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12400699-474f-477e-9942-a42ea7231a43",
+    "data": [
+      {
+        "text": "Can we socialise with neighbor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ae80d75-3d9d-4973-9c79-ae017362bc21",
+    "data": [
+      {
+        "text": "How many employees can travel together in ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " vehicle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85138f84-be6d-4f79-82b3-f9d6010f1f1e",
+    "data": [
+      {
+        "text": "Can I go into her house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44511d1b-f01d-42c4-9bee-b0d8f65005ad",
+    "data": [
+      {
+        "text": "My wife and I have been self isolating for ",
+        "userDefined": false
+      },
+      {
+        "text": "3 weeks",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": ". When would it be safe to visit family members that have also been self isolating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ac7f944-58ec-4198-9417-f0074fbdfaaa",
+    "data": [
+      {
+        "text": "Hi! Should people socialize with they do not live with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45adf01e-868f-4fb6-8fb1-2c496f2b0c7e",
+    "data": [
+      {
+        "text": "If I have been quarantined for ",
+        "userDefined": false
+      },
+      {
+        "text": "a month",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " and so has my family. Can I go stay with them ",
+        "userDefined": false
+      },
+      {
+        "text": "for a few weeks",
+        "alias": "duration1",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a4267ee-5248-4287-b0a5-cc9bad61059a",
+    "data": [
+      {
+        "text": "I just wanted to ask. Can I visit my mother who I don\u0027t live with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b2c30a8-e53b-4cd1-8c2a-43382ca61ceb",
+    "data": [
+      {
+        "text": "my daugther is a nurse      she is having time off      can i see her",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "738ad829-e477-4079-a96d-037aa4e387bb",
+    "data": [
+      {
+        "text": "What are the guidelines involving visitors to your home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05c06d55-2a7e-4549-a4ce-0877b84ff76d",
+    "data": [
+      {
+        "text": "Current guidelines about having guests to your home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "327760ad-1cf2-478d-89f1-44828f175408",
+    "data": [
+      {
+        "text": "Guidelines for non symptomatic visitors to your private home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8285786f-0bf0-4735-8fff-b723c4e830cf",
+    "data": [
+      {
+        "text": "Is it safe to have people over to your home right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4a4fdf5-4939-44a4-af60-f9650343e8fd",
+    "data": [
+      {
+        "text": "Do I have to stay away from my boyfriend even if we are both completely healthy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "631f876f-66b2-4dfa-a57e-792fb966021b",
+    "data": [
+      {
+        "text": "Can multiple people drive together?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb520b90-328e-4d26-a296-f5b052d17a8d",
+    "data": [
+      {
+        "text": "Driving?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16591d39-0119-4b21-817b-68e3f1a908ca",
+    "data": [
+      {
+        "text": "If i am successfully self isolating and symptom free is it okay for me to drop off meals or food to neighbours and family?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de2c2afa-f1f9-4337-8f3a-f8b650c5c899",
+    "data": [
+      {
+        "text": "Is staying home if possible recommended?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09cbe24d-f60e-435c-9240-1f23ef936f2e",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "35",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " year old son is not sick and is following best practise during this pandemic. My husband and I have invited him for burgers. We will practise safe distancing. Is this ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c01fcae-b3ad-49ff-b671-a06a7881dc1b",
+    "data": [
+      {
+        "text": "can a person get together with a friend while practicing social distancing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ac3d9df-4a26-44fc-86ca-924b63eb5632",
+    "data": [
+      {
+        "text": "I\u0027m coming out of ",
+        "userDefined": false
+      },
+      {
+        "text": "14 day",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " quarantine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f232205-654d-4df2-a1f4-5b86c8c737a3",
+    "data": [
+      {
+        "text": "im looking for the page about limiting interactions with your household",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "75d79833-e43c-4957-b3ae-c31cfc189142",
+    "data": [
+      {
+        "text": "Can your family come to visit you out side the apartment building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "378340c8-a8e6-4a5a-955d-24bf10e0e339",
+    "data": [
+      {
+        "text": "Can family that doesn\u0027t live with you visit you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e720f2f1-e85e-43ed-853e-666191ee4681",
+    "data": [
+      {
+        "text": "Is carpooling to essential service job allowed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f893304f-3b96-4e70-8603-93ea88e6f7ee",
+    "data": [
+      {
+        "text": "I work in Essential service job can I carpool to work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "710ba3ba-cfef-4a04-967b-370b6e8e78c3",
+    "data": [
+      {
+        "text": "My wife and I are ",
+        "userDefined": false
+      },
+      {
+        "text": "81",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and in good health. My daughter and grand-daughter bring us our goceries every ",
+        "userDefined": false
+      },
+      {
+        "text": "few days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": ". Is it ok for them to join us for a meal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8c801e2-abe9-4bec-bea8-9f3939d2c758",
+    "data": [
+      {
+        "text": "So if it is an important gathering and we take measures to social distance are we following the law of the land?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cf3f3f8-5f60-49d3-abde-ebdc55d09a98",
+    "data": [
+      {
+        "text": "can i kiss my grandson?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2e7a620-a963-4947-b71c-4bca61ebb359",
+    "data": [
+      {
+        "text": "can i hug my granddaughter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dbbb301a-e751-483a-b276-8db05f2eb479",
+    "data": [
+      {
+        "text": "can I hug my grandson",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8efbd47e-5c6f-438e-b097-cfcbf31c8225",
+    "data": [
+      {
+        "text": "If ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " people who do not live together,  cannot see each other inside the other person home. Is this correct?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "738b72ae-b90c-449e-aad9-13d868d64f80",
+    "data": [
+      {
+        "text": "Visiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ee59c77-00f7-4a8d-95b4-4d09b69e1e88",
+    "data": [
+      {
+        "text": "Grandparents babysitting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6d22e39-7b71-47ed-a3a8-fed4feb7b71d",
+    "data": [
+      {
+        "text": "Is it safe from grandparents to banysit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a9ab8d8-0c88-4ac4-a818-eff61877f01f",
+    "data": [
+      {
+        "text": "Can grandparents babysit children I’m home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e0d74c-3929-4a99-81bf-c5d11d8f1eb3",
+    "data": [
+      {
+        "text": "Can my parents come to my house and babysit my child",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "249b571e-fd73-41aa-a97d-25543cca417f",
+    "data": [
+      {
+        "text": "I have questions about whether it\u0027s safe to visit a boyfriend when both of ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " live alone and don\u0027t have any interaction with others",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a505932-6e05-48a9-8664-75db9f1e5ded",
+    "data": [
+      {
+        "text": "Wondering what is considered \"close contact\"?  If you were in a meeting with a group of people and now one person has tested positive.  is that close contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a40142b7-8ff3-48cc-a2c6-7a6e59464043",
+    "data": [
+      {
+        "text": "How many people in one car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8381e2f4-3890-4000-b1db-67affb4074de",
+    "data": [
+      {
+        "text": "Are we not allowed  to do carpool with co workers or friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9e6fe38-52e4-4ea1-8f30-19d3fc87d714",
+    "data": [
+      {
+        "text": "Visit neighbours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4650699d-21c5-4d32-a6cb-522ff14a2b5a",
+    "data": [
+      {
+        "text": "My long term girlfriend and I live in separate houses.  Is it ok to see each other?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f4ddf4b-060f-4762-82f0-5a8883e6a03a",
+    "data": [
+      {
+        "text": "CAN MY DAUGHTER COME OVER TO MY HOUSE FOR DINNER.  SHE IS CURRENTLY WORKING AND WE ARE RETIRED AT OVER 70",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d11c66a-f369-49a0-a9e8-61cef30757a4",
+    "data": [
+      {
+        "text": "WE DO NOT HAVE ANY SYMPTOMS.  CAN MY DAUGHTER COME OVER FOR DINNER",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7d7a84f-3e26-4e96-98b3-12238bd37448",
+    "data": [
+      {
+        "text": "Can I hang out in a small group?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77f57ff1-cad4-404d-91cf-502fb713fac2",
+    "data": [
+      {
+        "text": "Can I visit with healthy people if I\u0027m healthy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c917b22-8354-4c40-b65d-62c31462d0f0",
+    "data": [
+      {
+        "text": "Am I aloud to carpool with my coworker to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3e50c7e-5e35-40db-a73c-0ac06413455a",
+    "data": [
+      {
+        "text": "how close can i get to someone with a cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "944ab078-ed98-4bf1-b834-a0ddb6acb1f2",
+    "data": [
+      {
+        "text": "Can I get near others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86a51b14-a17f-456c-a9fe-5374154da65a",
+    "data": [
+      {
+        "text": "how near people can we get",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f956580b-5f44-4c96-9e1f-05a439791163",
+    "data": [
+      {
+        "text": "how close to people can I go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b9e3e30-16d8-4851-ad32-5ddc777c75e8",
+    "data": [
+      {
+        "text": "what is a safe distance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dac4bc44-7054-4ebe-af26-05051cf6ca3a",
+    "data": [
+      {
+        "text": "how far apart is safe from people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ef4e5fa-563d-4d60-a5dc-e2306bd30133",
+    "data": [
+      {
+        "text": "how far apart should we be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f9825ca-6a41-4459-9c19-a3597173096b",
+    "data": [
+      {
+        "text": "how do I social distance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a58abd8-74e7-4316-8134-b22cd44c0ab6",
+    "data": [
+      {
+        "text": "what is social distance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5212413-d9d3-4abe-82f3-b3868f01a9f6",
+    "data": [
+      {
+        "text": "Can I visit my friends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24981987-b1c7-4894-92b4-f4a104f64cd0",
+    "data": [
+      {
+        "text": "Is it safe to see my parents on the ",
+        "userDefined": false
+      },
+      {
+        "text": "weekend",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f29feaa-4ad2-4b37-9221-cdb450318c33",
+    "data": [
+      {
+        "text": "how far a part is ",
+        "userDefined": false
+      },
+      {
+        "text": "2 meters",
+        "alias": "unit-length",
+        "meta": "@sys.unit-length",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3726500-2f40-43b7-94a6-29d64f380760",
+    "data": [
+      {
+        "text": "how many feet apart do i need to be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ffd1117-0cd1-4279-ac6c-ad15fcaeb406",
+    "data": [
+      {
+        "text": "how do we social distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dd77863-4434-45b2-aeec-ea599f6953df",
+    "data": [
+      {
+        "text": "how do I distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d913175-3ff2-47bc-b4b8-229a69a7a3d6",
+    "data": [
+      {
+        "text": "is physical distance and social distance the same thing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2b5922d-fc04-4f8b-bfa9-485e4c1fbc44",
+    "data": [
+      {
+        "text": "Is physical distancing and social distancing the same?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daf1498c-ddd2-4fdf-803d-6adab9b45a30",
+    "data": [
+      {
+        "text": "Is physical and social distance the same thing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e52806c-71ce-48e5-8b0c-b65f4f52b06e",
+    "data": [
+      {
+        "text": "how do I social distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60d750ac-e1c3-49ba-ac56-909015d85902",
+    "data": [
+      {
+        "text": "What is social distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28b5d84c-d7ea-4d80-a525-5ae82caee4d2",
+    "data": [
+      {
+        "text": "What does it mean to social distance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "702a4939-72f2-4e48-9fae-fca46dfa7fda",
+    "data": [
+      {
+        "text": "What is physical distancing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

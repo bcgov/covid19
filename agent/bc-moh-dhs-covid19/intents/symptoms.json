@@ -1,0 +1,67 @@
+{
+  "id": "4b1d480e-fb50-4c44-9237-4cc0133331c5",
+  "name": "symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a5383bfb-1e4a-4763-b9c2-05692497dac8",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bcfc8101-ba79-4e45-a4a0-0303f94e1959",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Symptoms of COVID-19 include cough, sneezing, fever, sore throat and difficulty breathing. Other symptoms may include: \n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003eFever\n\u003cli\u003eChills\n\u003cli\u003eCough\n\u003cli\u003eShortness of breath\n\u003cli\u003eSore throat and painful swallowing\n\u003cli\u003eStuffy or runny nose\n\u003cli\u003eLoss of sense of smell\n\u003cli\u003e Headache\n\u003cli\u003e Muscle aches\n\u003cli\u003e Fatigue\n\u003cli\u003e Loss of appetite\n\u003c/ul\u003e\n If you have symptoms you can ask me to walk through the COVID-19 Self-Assessment to determine if you need further assessment and testing. \n\u003cbr\u003e \u003cbr\u003e\nYou can find more details on COVID-19 symptoms here:\nhttp://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/symptoms",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

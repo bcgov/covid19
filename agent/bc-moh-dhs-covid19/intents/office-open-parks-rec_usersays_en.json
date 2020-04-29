@@ -1,0 +1,110 @@
+[
+  {
+    "id": "df98ca4a-30b7-4cfc-af5b-193931002870",
+    "data": [
+      {
+        "text": "Where can I find information on use or restrictions of use of crown land for hiking and hunting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14172204-5414-42aa-8a17-902fb990fb85",
+    "data": [
+      {
+        "text": "Can I camp in an RV by myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d5f15a2-5e56-4911-9d8b-36cfc4f17652",
+    "data": [
+      {
+        "text": "When will Laird River Campground be open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26062bd7-2a30-4d2b-8eda-34eca21a43d7",
+    "data": [
+      {
+        "text": "What about open camp fires",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5ae075be-bde0-4890-8ac0-75fa17a0948e",
+    "data": [
+      {
+        "text": "Are trails open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3afe2ce-64f0-4237-b1d7-d4ab86334f8b",
+    "data": [
+      {
+        "text": "Are parks open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5081b546-f7b6-467f-a69c-fc582cc4ec46",
+    "data": [
+      {
+        "text": "Can I visit a park?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adeb9ef0-e3ad-4c78-8b77-a1e5f1c1da8a",
+    "data": [
+      {
+        "text": "Can I go to a park?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f119d839-79da-4940-8519-0e14e5203fc6",
+    "data": [
+      {
+        "text": "Can I visit recreation sites and trails in BC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

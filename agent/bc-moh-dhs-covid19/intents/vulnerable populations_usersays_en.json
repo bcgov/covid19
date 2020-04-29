@@ -1,0 +1,634 @@
+[
+  {
+    "id": "b164270b-5bc5-4868-a5ee-43a38f8c548c",
+    "data": [
+      {
+        "text": "COVID 19 kidney impact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "047db661-5a8d-4e84-bdfd-a2a889a8ead5",
+    "data": [
+      {
+        "text": "vulnerable populations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba144751-38b7-454a-8923-ca3e222b89d1",
+    "data": [
+      {
+        "text": "old people and sickness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c0e86aa-78d4-440b-918b-a72c9c923086",
+    "data": [
+      {
+        "text": "chemo and covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0b8d217-3d92-469c-9acc-7d5e98088ac7",
+    "data": [
+      {
+        "text": "Hiv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff97a6da-f968-4c50-906e-0e8794aa73e7",
+    "data": [
+      {
+        "text": "Children risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33267d6e-fb88-47c0-ba05-c110b85f6c2c",
+    "data": [
+      {
+        "text": "most at risk groups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fe3d5d4-541b-49f7-8c3b-289d2677e96c",
+    "data": [
+      {
+        "text": "What should people who have heart disease do to stay safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc45c2fe-6793-4ae2-8c90-f008fefd3b25",
+    "data": [
+      {
+        "text": "Fibromyalgia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cb94a70-93d7-40c1-ba74-5ea6e3150253",
+    "data": [
+      {
+        "text": "Autoimmune disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d3d8713-1e9d-40f9-9846-ecdb6b856d19",
+    "data": [
+      {
+        "text": "will covid make my cancer worse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7eddf910-cb55-4de1-b4f2-e81fc1906bc9",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "32",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " I had pneumonia all of ",
+        "userDefined": false
+      },
+      {
+        "text": "january",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " and feburary, if I contract covid-19 will I die",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef8ac22d-45c6-4c6a-ac08-c4412988ba0f",
+    "data": [
+      {
+        "text": "Pregnant women studies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f905f91-2b5c-4cb0-b402-e08e851d205d",
+    "data": [
+      {
+        "text": "How does this affect pregnant women",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5b2001e-78db-40d4-be51-f057551bb256",
+    "data": [
+      {
+        "text": "seniors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3524811b-8e78-4818-bbce-f435298894cd",
+    "data": [
+      {
+        "text": "what pre-existing conditions are likely to cause covid to become more serious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ce22752-b99c-4844-85f8-e3c187a177d2",
+    "data": [
+      {
+        "text": "Covid and children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "113875ab-b4b2-457c-9f64-fcb4a7e314b6",
+    "data": [
+      {
+        "text": "Who is vulnerable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3faf72c1-3327-4bab-af70-ddf75ef1d907",
+    "data": [
+      {
+        "text": "Why are young people getting it and is it killing young people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3569c68a-6572-46a4-b73d-c383eefb9b9f",
+    "data": [
+      {
+        "text": "Is it allowed to take food for people living in home care fry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33f957c7-b945-4b1c-b914-9a6c0427079b",
+    "data": [
+      {
+        "text": "what if I have had lung disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5edbc7a6-da12-4b2a-8010-9702908be1da",
+    "data": [
+      {
+        "text": "how to take care of my grandma during this time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40ad811e-a3f6-4a06-a462-eb850002458b",
+    "data": [
+      {
+        "text": "can i visit my grandfather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "34fffd29-fa96-482c-a898-cd774e63e189",
+    "data": [
+      {
+        "text": "can I visit my grandmother",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d087743c-39a1-4270-b200-0597d3c7ecb4",
+    "data": [
+      {
+        "text": "Can I visit my elderly parents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eda2b801-9410-41f0-acee-b35cbfd91ebd",
+    "data": [
+      {
+        "text": "Are children at risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1707ab2d-3b73-46de-9e09-54791b22bd5c",
+    "data": [
+      {
+        "text": "Im 60 years old, am I vulnerable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74cfdd19-e89b-477f-9277-9b5ea6c1366b",
+    "data": [
+      {
+        "text": "I\u0027m fifteen, am I vulnerable ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ff6d27b1-70f4-4a61-9b56-229f169b0897",
+    "data": [
+      {
+        "text": "Im ",
+        "userDefined": false
+      },
+      {
+        "text": "60 years old",
+        "alias": "age",
+        "meta": "@sys.age",
+        "userDefined": false
+      },
+      {
+        "text": ", am I vulnerable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d1fe39a-b814-493b-b5c0-7653f5b18c01",
+    "data": [
+      {
+        "text": "I have a compromised immune system.  What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ef326065-4ca1-414f-a865-8add0d42b445",
+    "data": [
+      {
+        "text": "where can i find information about pregnancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7ca46625-fb50-498c-8f04-3b3de9fd2e9d",
+    "data": [
+      {
+        "text": "who will die?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c66abdf-ccf9-4a4e-a962-4707a19f7d4f",
+    "data": [
+      {
+        "text": "will I die?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb376080-d4d2-495a-bdc5-a03a90c76530",
+    "data": [
+      {
+        "text": "asthma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7768f0f-368c-4157-80a5-3fc4226213b5",
+    "data": [
+      {
+        "text": "Mom mom is old - should I visit her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dad9c735-84a7-4226-b991-85d7aee4e41e",
+    "data": [
+      {
+        "text": "Should I visit relatives who are old?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61bb5555-ae94-485c-b198-1633a86d8d7a",
+    "data": [
+      {
+        "text": "I diabetic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba03a41f-61e8-49e9-81ce-48b521e3a774",
+    "data": [
+      {
+        "text": "will young people die from ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4c3ff7d-d014-469d-8a12-d0d772ec1c57",
+    "data": [
+      {
+        "text": "can babies die from ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4016cccc-9f23-4789-92f3-dd947f187f7c",
+    "data": [
+      {
+        "text": "who might die from ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8d18a88-c31a-4c96-9e3c-b59870688d7f",
+    "data": [
+      {
+        "text": "Will old people die from ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3f37c7b-7296-4baa-a20b-ea2504ecdb95",
+    "data": [
+      {
+        "text": "Who can die from ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5212892b-4ecb-4337-ba72-6c2fce462b4f",
+    "data": [
+      {
+        "text": "Are old people likely to catch ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a471db1-e2ae-449c-8733-a2ef1807563f",
+    "data": [
+      {
+        "text": "Who is more likely to catch ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d403d71f-9838-4b24-8d36-96d40da54936",
+    "data": [
+      {
+        "text": "Are older people at risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33286a19-f263-44d1-822b-4ec25e4623c9",
+    "data": [
+      {
+        "text": "Who is at risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "4172cb11-09cb-4032-a761-c378193fca71",
+  "name": "self-assessment-final",
+  "auto": true,
+  "contexts": [
+    "self-assessment-final-3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-yes.self-assessment-q03a-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please self-isolate for 10 days. If your symptoms worsen, please check back in.\nBecause you have (or had) symptoms, you should self-isolate for 10 days. That means not going to any public places, staying at home, and not having any visitors. Don’t share personal items like dishes, utensils, or towels, and wash your hands often.\nPlease do not go to an emergency department, family doctor or walk-in clinic unless your symptoms worsen. If you do need to visit an emergency department, family doctor, or walk-in clinic, please call ahead and tell them your symptoms, any international travel within 14 days, and whether you have had close contact with a suspected or confirmed case of COVID-19.\nIf you need more information go to BCCDC\u0027s COVID-19 website.\nIf your symptoms worsen, or if you are concerned, you can return to this self-assessment at any time; or, call 8-1-1 any time of the day or night."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

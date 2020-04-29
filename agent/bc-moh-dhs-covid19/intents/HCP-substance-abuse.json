@@ -1,0 +1,42 @@
+{
+  "id": "af46e7e8-8a93-4a16-99d7-7a7c2cc60171",
+  "name": "HCP-substance-abuse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "BC is responding to two public health emergencies: the spread of COVID-19 and the ongoing opioid overdose crisis. \n\u003cbr\u003e\u003cbr\u003e\nGuidance has been created to support caring for people who have a history of substance use, including opioids, stimulants, alcohol, benzodiazepines or tobacco, and who are at risk of COVID-19 infection.\n\u003cbr\u003e\u003cbr\u003e\nTo reduce the risk of transmission, the guidance outlines steps that prescribers, pharmacists and care teams can take to support the provision of medications – including safe prescription alternatives to the illegal drug supply – to be delivered directly to patients, along with telemedicine for clinical assessments.\n\u003cbr\u003e\u003cbr\u003e\nFor more information refer to \u003ca href\u003d\"http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/clinical-care/people-who-use-substances\" target\u003d_blank\u003e Clinical Care: People who use substances \u003c/a\u003e. You can also access additional resources on mental health and substance abuse at \u003ca href\u003d\"https://careforcaregivers.ca/\" target\u003d_blank\u003e Care for Caregivers \u003c/a\u003e.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

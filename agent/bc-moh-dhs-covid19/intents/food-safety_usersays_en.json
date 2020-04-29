@@ -1,0 +1,638 @@
+[
+  {
+    "id": "3a66ab34-9f16-45ad-9a5c-00133d460029",
+    "data": [
+      {
+        "text": "Info sheet on \"Illness-Causing bacteria, parasites, and vuruses ion meat\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e27ac47c-cb13-48ae-be5e-68dcd36b7079",
+    "data": [
+      {
+        "text": "can you get ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from olives?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f07a9254-42cc-43d6-97fd-1085a9a8708e",
+    "data": [
+      {
+        "text": "Information for food businesses please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63b5e64f-1b5e-4ec2-a084-e1b78d1a00f0",
+    "data": [
+      {
+        "text": "how do I wash my potatos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb005bf1-0221-4740-a7f1-0aa9512a84cf",
+    "data": [
+      {
+        "text": "foodwash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bcedb4b-73cc-481f-a741-723271c89c89",
+    "data": [
+      {
+        "text": "how do I wash fruit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0aa73121-9bd2-4c38-9851-467d19251829",
+    "data": [
+      {
+        "text": "What do I do with grocery bags after shopping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2dddcbb-856f-4d31-8f33-daae65c4925e",
+    "data": [
+      {
+        "text": "Is take out safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "446818b3-2352-497a-8be9-e4ee1d200c0d",
+    "data": [
+      {
+        "text": "Is it safe for neighbours to share home baked goods, with no contact delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37fc9fe8-5de5-4b88-977f-5a807bcb6d39",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " be transmitted through baked goods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6598263-60ad-41e3-b25b-9ee7aa9c53cb",
+    "data": [
+      {
+        "text": "Should I clean products that I purchase before bringing them into my home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afd8092e-a00a-4652-9733-207cde8d8e1e",
+    "data": [
+      {
+        "text": "No, that is not the question I asked. What about cleaning products that I purchase when I bring them home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c18695c-d52a-41d8-94f0-6ebf0c592687",
+    "data": [
+      {
+        "text": "kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6b63b0b-0163-4606-9657-579723a4cf9f",
+    "data": [
+      {
+        "text": "Hello, is it safe to get takeout from a restaurant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ca1d0dc-555d-454b-8c60-59a86a2496c7",
+    "data": [
+      {
+        "text": "is it safe to go order takeout?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "126354a3-a50c-4cfd-a800-8d507dbf3894",
+    "data": [
+      {
+        "text": "does freezing in my freezer kill the covid-19 virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4244b415-e8ae-4ac4-8891-2d1b5123feb1",
+    "data": [
+      {
+        "text": "What about baby poultry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0069fad8-362b-4007-bcc7-6e18cbdfb79b",
+    "data": [
+      {
+        "text": "In town there are many outlets where you can refill 20liter water containers are these outlets required to sanitize their facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1062df95-0dbb-493a-abcd-8272fb223b88",
+    "data": [
+      {
+        "text": "Can microwave destroy the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b4ecd2a-47a7-4a2a-922f-374dcc054c2d",
+    "data": [
+      {
+        "text": "Do I need to disinfect milk jugs, ice cream and frozen containers before storage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "088b03f5-f78d-404a-85fb-39bdb3c875ff",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from grocery packages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca707d9c-2991-4734-84f6-fac74201de7d",
+    "data": [
+      {
+        "text": "Do I need to wash my groceries to prevent getting transmission?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f309ef71-3c8f-48b8-9e6c-67540752622f",
+    "data": [
+      {
+        "text": "do I wash apples",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2709bc33-67ad-4866-93ee-cf1f1fb52912",
+    "data": [
+      {
+        "text": "do i wash my vegetables?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bccfcd2-0b74-41d2-8a2f-945019afe289",
+    "data": [
+      {
+        "text": "will i get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from vegetables?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "177a4655-87f8-42f4-97ee-bb9d61a51a48",
+    "data": [
+      {
+        "text": "will i get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from handling fruits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3f07ed0-3530-4f5d-b8c7-1db2e9913df9",
+    "data": [
+      {
+        "text": "What temperature kills the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " that causes ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid1",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ed57230-da71-43b1-8ef5-c0fbb5605ad0",
+    "data": [
+      {
+        "text": "Do I need to boil my drinking water?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "151038b4-adae-4921-a6d3-030373399c17",
+    "data": [
+      {
+        "text": "I ate half-cooked bat. What should I do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eff22600-31a6-4851-adf8-878ba9853f83",
+    "data": [
+      {
+        "text": "can ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " be passed on food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e6163b3-a874-483e-b2ba-c266dd7bf795",
+    "data": [
+      {
+        "text": "Can I get it from touching groceries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38a1d942-7e83-45db-8c99-51127cbd9809",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " be passed on food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84584b5f-61a4-47bb-a0fb-98ed10d694dc",
+    "data": [
+      {
+        "text": "Can the ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19 virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " be passed on by eating or touching ready to eat foods made by others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b1a8237-f51e-4b66-bfc5-22e4f140add8",
+    "data": [
+      {
+        "text": "Should I be concerned about storing foods in my cupboard, fridge, or freezer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "042a6951-a7d2-431c-8cdd-7d8def3f4377",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " grow on food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31df556d-7a89-4e0d-ac94-7785fc5494f3",
+    "data": [
+      {
+        "text": "Do I wash food differently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7250ead3-a9dd-4400-a233-8932240caffd",
+    "data": [
+      {
+        "text": "How can I cook safely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1704e12-4caf-4ce2-aaf6-7b1291015b9f",
+    "data": [
+      {
+        "text": "How can cooking kill the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "848446df-5fce-4dc5-95c4-df0ad8475028",
+    "data": [
+      {
+        "text": "Can cooking kill the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bb54e66-41bb-40fd-9877-44bebf51726d",
+    "data": [
+      {
+        "text": "How do I clean my food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21e4dcb2-7914-41f7-86fa-08c50191d079",
+    "data": [
+      {
+        "text": "How do I keep food safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46af64b7-2179-42fb-9efd-b0a81171c8b7",
+    "data": [
+      {
+        "text": "Do I need to clean my groceries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

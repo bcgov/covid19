@@ -1,0 +1,42 @@
+{
+  "id": "45d6a075-e203-46c3-894a-27ede362899c",
+  "name": "info.hand-washing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "To help reduce your risk of infection:\n\u003cul\u003e\n\u003cli\u003eWash your hands often with soap and water for at least 20 seconds. Using soap and water is the single most effective way of reducing the spread of infection.\u003c/li\u003e\n\u003cli\u003eIf soap and water are not available, alcohol based hand rubs (ABHR) can be used to clean your hands as long as they are not visibly soiled. If they are visibly soiled, use a wipe and then ABHR to effectively clean them.\u003c/li\u003e\n\u003cli\u003eDo not touch your face, eyes, nose or mouth with unwashed hands.\u003c/li\u003e\n\u003cli\u003eCover your mouth and nose with a disposable tissue or the crease of your elbow when you sneeze or cough.\u003c/li\u003e\n\u003cli\u003eRegularly clean and disinfect frequently touched surfaces.\u003c/li\u003e\n\u003cli\u003eDo not share food, drinks, utensils, etc.\u003c/li\u003e\n\u003c/ul\u003e\nFor First Nations and other communities under Boil Water Advisory (BWA) , it\u0027s safe to wash your hands with soap if you are living in a community with a Boil Water Advisory (BWA) or a Do Not Consume (DNC) advisory. However, if you are living with a Do Not Use (DNU) advisory you should wash with bottled water. \n\u003cbr\u003e\u003cbr\u003e\nHead over to the \u003ca href\u003d\"https://www.fnha.ca/what-we-do/environmental-health/drinking-water-advisories\" target\u003d_blank\u003eFirst Nations Health Authority’s drinking advisories\u003c/a\u003e  for details.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "advisories"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

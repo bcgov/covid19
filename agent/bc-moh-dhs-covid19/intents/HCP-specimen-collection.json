@@ -1,0 +1,55 @@
+{
+  "id": "2c0424ac-a040-4db6-ac6c-297aea8d34ca",
+  "name": "HCP-specimen-collection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "df40832e-7b41-456d-8772-bca69caaf318",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eHealth Care Providers\u003c/b\u003e: In the outpatient setting, collect a Nasopharyngeal (NP) Swab using the procedure described by the New England Journal of Medicine: Collection of Nasopharyngeal Specimens with the Swab Technique. (https://www.youtube.com/watch?v\u003dDVJNWefmHjE )\n\u003cbr\u003e\u003cbr\u003e\nUse the swab/collection device provided by your institution.  The most common swab types used are the Copan Universal Transport Medium (UTM) System and BD™ Universal Viral Transport System.\n\u003cbr\u003e\u003cbr\u003e\nFor hospitalized patients and/or patients with evidence of lower respiratory tract disease, collect a lower respiratory tract sample (e.g., sputum, endotracheal aspirate, bronchoalveolar lavage, etc.) in a sterile screw-top container in addition to a nasopharyngeal swab.\n\u003cbr\u003e\u003cbr\u003e\nPlease submit each specimen in an individual, sealed biohazard bag.  Include a paper requisition which clearly states the patient information, the ordering physician, and the test requested (COVID-19 NAT).",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

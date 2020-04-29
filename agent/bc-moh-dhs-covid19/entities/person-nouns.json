@@ -1,0 +1,9 @@
+{
+  "id": "dfd74697-9052-40e0-979e-9865c67f0a1d",
+  "name": "person-nouns",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

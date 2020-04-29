@@ -1,0 +1,474 @@
+[
+  {
+    "id": "212f061d-b75a-4f48-945f-b46f4ab888ca",
+    "data": [
+      {
+        "text": "For someone who had presumptive case of Covid 19 and has had 14 isolation about ",
+        "userDefined": false
+      },
+      {
+        "text": "a month",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " ago, can she or he be tested now? And will she or he show positive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cf449fa-d9f3-4bfd-b83f-6fee7772ce13",
+    "data": [
+      {
+        "text": "Northern Health told me it would only test if I was gasping for breath and ready to be admitted to hospital.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34fb44b6-b45f-4e71-9aab-2247bfec07cd",
+    "data": [
+      {
+        "text": "I have been told by my doctor to book a covid test.  I\u0027ve asked for ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " due to health issues.  How do I do this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5898a621-4e07-4821-81ab-1b046806adfc",
+    "data": [
+      {
+        "text": "Hello i did online  covid -19 test .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aab2d766-fb79-43a8-9ea5-84aad45857ae",
+    "data": [
+      {
+        "text": "Hi I am hoping with the covid-19 random testing acros the province of BC will go into care homes an retirement homes an start testing in these places. As I live in a Independent Living Retirement home with RCA workers that come in our build daily.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "336ec251-b7c1-464c-88c1-aa1ec6a49b9a",
+    "data": [
+      {
+        "text": "how to get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d86ffa00-0bfc-47ad-b403-788f51c8116f",
+    "data": [
+      {
+        "text": "I’ve been told to self quarantine because I was working at a production facility that has reported cases of covid 19 and also recommended that I get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39e41eb2-9da2-4b08-96a5-72e8725290d6",
+    "data": [
+      {
+        "text": "Who is now qualified for the Covid test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72f7acf3-1443-459b-978d-a9d37adfc33f",
+    "data": [
+      {
+        "text": "From a local government and for our staff information - I am looking for information on the new testing protocols...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae8c253b-acc9-4c77-bddc-3d1532595353",
+    "data": [
+      {
+        "text": "is there a need for referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12ad0512-31e6-43b5-aa2b-cbc1ef46ba33",
+    "data": [
+      {
+        "text": "is there a need to get a referral from doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69dab708-8a20-4016-bb64-d86428804c61",
+    "data": [
+      {
+        "text": "Do I need to make an appt at the collection Center for testing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f7a70f0-534f-4e55-a473-32a1a037f876",
+    "data": [
+      {
+        "text": "Where can I find Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Bonnie",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " Henry\u0027s testing guidelines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f00cff19-82ee-4d09-9afc-3c3e431ad450",
+    "data": [
+      {
+        "text": "Retired RN recently reregistered in response to covid 19 appeal; live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "; who should I contact re jobs; for eaxample testing? 811?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ab95afc-3a4f-44f1-a842-f305ce472864",
+    "data": [
+      {
+        "text": "If it tells me to isolate, do i need to make an appointment for Covid19 test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d96d310e-a1a9-4d15-8ea6-af8de480b73a",
+    "data": [
+      {
+        "text": "If you have symptoms should you get testing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaad9fca-acea-4dc9-bed2-076066a31855",
+    "data": [
+      {
+        "text": "How can one get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2327a858-40d2-429e-8208-93880cfcfc07",
+    "data": [
+      {
+        "text": "How do I get tested for covid 19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b74c84a9-656d-4dcf-a1c4-70efaea44b6f",
+    "data": [
+      {
+        "text": "How do I get tested for covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8024e8c4-104e-41f2-9c89-4a7525b7778a",
+    "data": [
+      {
+        "text": "What is the exact criteria to put someone on the confirmed case list or resolved list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "732ee287-4b4e-43a9-a78c-66c5c782da90",
+    "data": [
+      {
+        "text": "Is there testing to see if I had covid19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5309f6cb-1757-4d84-95ce-8a425d76bdee",
+    "data": [
+      {
+        "text": "do i need to be tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ed362eb-f4b0-46e6-974f-f35260678303",
+    "data": [
+      {
+        "text": "how do i know if i need testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1df4a715-4185-445f-bef2-f7df28d36c24",
+    "data": [
+      {
+        "text": "Did you stop tests?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e4f1a30-9105-4d5e-96bb-eaf772150611",
+    "data": [
+      {
+        "text": "When will tests be available for people who stay at home and are sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d20a6ee-a628-47c1-b576-e2441ead4949",
+    "data": [
+      {
+        "text": "Do I have to pay for a test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71c7fcd2-32a9-4e7d-9583-f5e733aab56b",
+    "data": [
+      {
+        "text": "should my brother get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "196a64f0-9979-47f5-a800-de95022063db",
+    "data": [
+      {
+        "text": "Should I get a test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b7afe76-c7df-4497-965b-6f9140093de1",
+    "data": [
+      {
+        "text": "should my mother get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3710f9e8-6d0a-4a9d-87f6-89bdc04a3be3",
+    "data": [
+      {
+        "text": "Can my child get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82bae31b-b077-445c-9b16-67c7cd22f8ce",
+    "data": [
+      {
+        "text": "Can my family get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c30f255-8d53-4434-923b-d080d5e51ca3",
+    "data": [
+      {
+        "text": "Can my mother get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "377c00ba-0fd1-424b-9c98-cbf26ddc4101",
+    "data": [
+      {
+        "text": "Good. Can I take the covid test?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bdda52a-147b-4469-a0a1-db246fb12ad0",
+    "data": [
+      {
+        "text": "I want to be tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12cfa49d-e442-4481-a610-37109543049d",
+    "data": [
+      {
+        "text": "Can I get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56e06c90-d09d-4a4e-85e9-882ba49607dc",
+    "data": [
+      {
+        "text": "Should I get tested for COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

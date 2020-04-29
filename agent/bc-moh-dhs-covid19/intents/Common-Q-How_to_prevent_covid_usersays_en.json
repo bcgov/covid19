@@ -1,0 +1,228 @@
+[
+  {
+    "id": "1ca2c57a-b9ee-4454-8527-24f7c1a45f24",
+    "data": [
+      {
+        "text": "transmission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dd88d7e-f3be-40cb-bad8-c23cbd4cbccf",
+    "data": [
+      {
+        "text": "avoid getting covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84d8735a-7a92-4a5f-ad8e-c001b6ade7f9",
+    "data": [
+      {
+        "text": "My husband works on a job site... what should he be doing as soon as he gets home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a5c1d56-d5ed-4464-a47e-7287832b5129",
+    "data": [
+      {
+        "text": "How to boost up immunity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8c06d22-95d5-463e-aace-1afd72ed3d54",
+    "data": [
+      {
+        "text": "Can i get this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59a9fa75-562e-445b-9623-3a7281c1c003",
+    "data": [
+      {
+        "text": "We are both over ",
+        "userDefined": false
+      },
+      {
+        "text": "60",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and our son lives with us.  He is an essential health worker.  What do we do to try and all keep healthy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d2eb435-b24c-44eb-8a27-b44b2dc790da",
+    "data": [
+      {
+        "text": "I f I am under radiation therapy treatment, how can I protect myself because I have to go to the hospital every day and it scares me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95db8ed9-e79e-494d-b4a1-3f41b81aaca1",
+    "data": [
+      {
+        "text": "How can I reinforced/improve my immune system?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ccf0664-f625-4ff4-a571-01cddb2b002b",
+    "data": [
+      {
+        "text": "should I be worried about COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f221e509-9eed-49f3-b90b-09fdd64eda89",
+    "data": [
+      {
+        "text": "i\u0027m afraid to get corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e333f6b-82d2-4b47-b092-42469f92c748",
+    "data": [
+      {
+        "text": "What can I do to protect myself?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5e75188-95da-4f78-9f57-0a61e2aa15f0",
+    "data": [
+      {
+        "text": "What is the best way to prevent Covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8825eafa-0e0b-4b72-b902-2c16183a0f2d",
+    "data": [
+      {
+        "text": "how do i isolate from my room mate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a4e19c0-3e93-4dbd-9591-3d46823552f9",
+    "data": [
+      {
+        "text": "what precaustions do i need to take when caring for a sick person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f4eacb1-72c0-40cc-9864-b79a4754fa19",
+    "data": [
+      {
+        "text": "My husband is quarantined what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "031c8814-4dcb-47bc-bbc9-b284fca86394",
+    "data": [
+      {
+        "text": "How can I prevent getting coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59c1a555-fee3-4828-a476-005f75088516",
+    "data": [
+      {
+        "text": "How can I prevent getting infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "074058de-e284-4baa-9593-03422225b433",
+    "data": [
+      {
+        "text": "How can I prevent getting covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,886 @@
+[
+  {
+    "id": "599d9794-a0a2-47de-99e9-9c6815b6645f",
+    "data": [
+      {
+        "text": "where can i find the rural and remote framework that was released by the premier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e7d94b4-c05a-4adb-9da8-1212b490e0c5",
+    "data": [
+      {
+        "text": "it is not there. the actual framework",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d109082-f171-4450-8218-185ab6fd4376",
+    "data": [
+      {
+        "text": "My wedding is planned for ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". What are the predictions for Social distancing and gathering restrictions for ",
+        "userDefined": false
+      },
+      {
+        "text": "August",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5ed2e34-8d2a-40df-b2e2-f7d230e8d8b9",
+    "data": [
+      {
+        "text": "Will there be a ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " wave hitting b.c.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50414857-5109-4b19-9762-cd0723b13cfa",
+    "data": [
+      {
+        "text": "Is coronavirus going to affect us a ",
+        "userDefined": false
+      },
+      {
+        "text": "second time",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71a0d847-85de-45a2-86b1-8c8f46e5d2e1",
+    "data": [
+      {
+        "text": "Show me the modelling from ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1a4df47-149e-4074-bfe2-7a3ce3486219",
+    "data": [
+      {
+        "text": "I like to see the model",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e982170-f933-44cb-806b-4fccd86ffa78",
+    "data": [
+      {
+        "text": "Where do I find the modelling report that came out ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88143f9d-81bb-4cf5-a9ee-ae310938e09d",
+    "data": [
+      {
+        "text": "joint statement re ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid 19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " cases April ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe91e7d-9317-4190-a4f7-d50e222b73e5",
+    "data": [
+      {
+        "text": "Today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "’s report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b37bbdaf-5307-48ad-aa65-2c5cfc7bcdcb",
+    "data": [
+      {
+        "text": "today\u0027s graphics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad77c615-433a-470c-b67b-0a5a0debbec5",
+    "data": [
+      {
+        "text": "May I have ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s Dr Henry statistics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7a7f8ce-8f29-4840-8ca6-b12e5bb29a30",
+    "data": [
+      {
+        "text": "Your link does not provide a connection to what I am looking for I am",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5274dac4-6ab5-4c4e-8e5e-7a86d7d52b82",
+    "data": [
+      {
+        "text": "Is the curve flattening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48f925b8-e289-4bc4-9988-bdb59d07742e",
+    "data": [
+      {
+        "text": "where\u0027s the powerpoint for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebc5bdb5-387b-4f13-a147-9e99b28782fb",
+    "data": [
+      {
+        "text": "modelling results?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4d42f7b-bc55-49b0-8e55-200ddcad5f78",
+    "data": [
+      {
+        "text": ",where are the graghs presented by Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Henry",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e155d06a-c3b4-4b5c-b62a-717ea0d2e149",
+    "data": [
+      {
+        "text": "Im looking for the slideshow from Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Bonnie",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a9f42d3-1b81-4a5a-81d8-a8c3ef5a4e6f",
+    "data": [
+      {
+        "text": "what is the R",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e02cbf43-def9-40e4-a4e0-b81e5e74c58d",
+    "data": [
+      {
+        "text": "model R",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "febb21ef-d082-4949-ab7e-cee93a6fff34",
+    "data": [
+      {
+        "text": "where is the newest modeling report?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98b0695f-0bce-476b-93ee-105e369d5da1",
+    "data": [
+      {
+        "text": "What is current Ro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5423d02-a49a-4175-bad1-076fc93c025b",
+    "data": [
+      {
+        "text": "Ro infection rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8d20fcc-eead-4da7-9a9f-40dcd397730c",
+    "data": [
+      {
+        "text": "slides from tv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb109082-0218-46fe-91e5-5a503edafbd5",
+    "data": [
+      {
+        "text": "todays",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " slides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "130f42fc-8519-4100-82bb-ede3fee15a61",
+    "data": [
+      {
+        "text": "models to predict",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0cff8c-b8f2-4f3f-b2cc-775db1b32e2d",
+    "data": [
+      {
+        "text": "predictions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f78b53c4-5147-4c5d-907e-27f4506a4b0a",
+    "data": [
+      {
+        "text": "models",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af1f06de-8fba-4c83-bdfb-7f128684fa9f",
+    "data": [
+      {
+        "text": "modeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4833ef9-4ab5-4d5d-ac8f-b8dd637a4be7",
+    "data": [
+      {
+        "text": "projection slides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ab9b8c9-9579-4e71-8bc9-ab3f06ec2d74",
+    "data": [
+      {
+        "text": "epidemic slides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15bcc848-9c69-47cc-8a6b-3e107ab451f3",
+    "data": [
+      {
+        "text": "dr henry slides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fee47087-df5f-4682-9b04-08f44bf1d9f5",
+    "data": [
+      {
+        "text": "slide presentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44dc66cf-c9fa-47ad-9f7c-3b71848fdae8",
+    "data": [
+      {
+        "text": "modeling slides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6df516f2-7357-4bc9-9241-56d3f550e41c",
+    "data": [
+      {
+        "text": "looking for slides from ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " presentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d140995d-c914-4551-b355-bc990fc09afe",
+    "data": [
+      {
+        "text": "Looking for dr Henry’s briefing slides",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c336c80-d433-4d93-b52f-dde5fa6d4cb4",
+    "data": [
+      {
+        "text": "Can you show me ",
+        "userDefined": false
+      },
+      {
+        "text": "April 17, 2020",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " Dr. Henry update please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "367e034b-4c8d-4c0e-8b8d-6845560059ee",
+    "data": [
+      {
+        "text": "modelling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "756eea1d-3851-4bb7-9b68-372603777226",
+    "data": [
+      {
+        "text": "Forecast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3978b8fa-653e-4ef1-a857-247cb59b1084",
+    "data": [
+      {
+        "text": "How many days of data points until we know BC has reached its maximum and declining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2228931e-d7a4-461d-945e-e04504417db3",
+    "data": [
+      {
+        "text": "When will this madness end?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97c06029-8482-47f8-a55f-c83357e57be7",
+    "data": [
+      {
+        "text": "I just want to know in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "covid 19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " cases are less that prediction?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f819646-3400-48d6-83d8-fcd4d35c0674",
+    "data": [
+      {
+        "text": "How long will this last",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "905af80d-3254-4726-ba52-4dc51df1d14c",
+    "data": [
+      {
+        "text": "Will this outbreak get worse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b80b2e1a-be39-48b1-a3fe-269ccbeeaeab",
+    "data": [
+      {
+        "text": "If there is no cure then eventually everyone will have to be exposed to the COVID-19 and recover",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2df904d-3ae7-4dea-96d0-0837485501ed",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the projected curve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b031d130-e6d7-4589-ba9f-0c14c0998d51",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the projections for ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67fe266a-4a70-4233-8757-f64ce6c8642e",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the projections",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65e6d219-69d5-4e9e-a01a-6c9856f01664",
+    "data": [
+      {
+        "text": "when will ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " level out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c02cfec6-4d1d-4eda-85a5-f8ddf7e03005",
+    "data": [
+      {
+        "text": "when will this peak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e1fc663-81c5-448f-8811-9ef2801ef18e",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " a graph of the modeling for cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e2d4106-3ccd-403b-90a5-bee7d026b68b",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the predicted cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9f2160a-c653-40e9-84c1-0db2027ec04c",
+    "data": [
+      {
+        "text": "what the preedictions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee5b2fdf-d1d3-488b-9043-cb53de5ebda6",
+    "data": [
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " we flattening the curve now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

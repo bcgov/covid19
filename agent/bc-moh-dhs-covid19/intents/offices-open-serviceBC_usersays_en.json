@@ -1,0 +1,116 @@
+[
+  {
+    "id": "62ac52b1-d9ba-433f-a63e-e2eab732c08a",
+    "data": [
+      {
+        "text": "I need help with address change to the Government of ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd510b60-31fc-4172-a094-3e9df8791527",
+    "data": [
+      {
+        "text": "how can servicebc help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b72fa3c-2604-407e-8e13-380c86271662",
+    "data": [
+      {
+        "text": "how can I get in touch with servicebc?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbfa633f-9d97-411f-a8e6-b748aa9e3f8b",
+    "data": [
+      {
+        "text": "are there any locations for serviceBC available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "250bf131-d0ee-4e2b-9d60-84d1101cea2e",
+    "data": [
+      {
+        "text": "is there a serviceBC office still open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aab3dfd-7b28-441a-8bc4-062496b082f3",
+    "data": [
+      {
+        "text": "how can I reach service BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24b1ddf1-72a9-4b0d-a50b-7b4369ef4ef7",
+    "data": [
+      {
+        "text": "Can I talk to someone from serviceBC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "632917bf-4b94-491f-a9ea-fe24458feb1a",
+    "data": [
+      {
+        "text": "How do I access Service BC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db05d53c-fb3f-4eb8-b124-874797f0df51",
+    "data": [
+      {
+        "text": "Are Service BC Centres open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

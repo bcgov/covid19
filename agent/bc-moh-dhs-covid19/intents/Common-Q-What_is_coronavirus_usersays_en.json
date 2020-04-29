@@ -1,0 +1,363 @@
+[
+  {
+    "id": "c64b53dd-bb3a-41b6-9b0f-7c9cc33c3da4",
+    "data": [
+      {
+        "text": "Hi I’m doing a school project and need so info about the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e43e78b-75a1-47f8-b650-175aa61cc829",
+    "data": [
+      {
+        "text": "On Covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "730ff3df-68dd-4d20-b348-6fc75127da79",
+    "data": [
+      {
+        "text": "Outbreak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bcdf974-d7c3-49cf-8ea3-7f33bdf28c5f",
+    "data": [
+      {
+        "text": "Is carpooling allowed during this time of COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b580e8d-e716-4b45-a4c8-de1bf57ff505",
+    "data": [
+      {
+        "text": "Are all coronaviruses lethal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "76d8d499-e36f-45dc-bd46-ec306370de80",
+    "data": [
+      {
+        "text": "how can BCCDC help me about covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce0c1c56-5041-4a4b-956b-8354c00a58d4",
+    "data": [
+      {
+        "text": "Sars cov ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cab878e-0860-4101-b67a-dea1c9bc22d5",
+    "data": [
+      {
+        "text": "Why",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2fe03e6-5212-44f0-ae41-c834ed59f909",
+    "data": [
+      {
+        "text": "Isn’t covid 22?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdbb8c33-4f83-4937-98a3-cddbee241528",
+    "data": [
+      {
+        "text": "How do we know that covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " just happened in ",
+        "userDefined": false
+      },
+      {
+        "text": "January",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3648a46-ae4d-4a71-aa16-abffc248314d",
+    "data": [
+      {
+        "text": "What caused it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "61a56cc8-9b85-4e91-93da-2a07f582604f",
+    "data": [
+      {
+        "text": "How did it start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "39c93db2-360d-4516-9b8c-e328a2fd6f14",
+    "data": [
+      {
+        "text": "How do we know that covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " just happened in ",
+        "userDefined": false
+      },
+      {
+        "text": "January",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e54593fb-fc12-494a-86ca-0232d86e5685",
+    "data": [
+      {
+        "text": "how many strains are there of COVID 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0422dd85-2a7c-41a8-b4ce-0520b5d1e454",
+    "data": [
+      {
+        "text": "hello how many types of covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0eb40e1-f900-47ce-8c71-e70280d96a69",
+    "data": [
+      {
+        "text": "I am looking for educational materials appropriate for k",
+        "userDefined": false
+      },
+      {
+        "text": "-3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " about what corona virus is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5956035-a26f-4c9d-b21d-1f0c32b22a61",
+    "data": [
+      {
+        "text": "Did it come from a bat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdc13be1-e99e-49b1-b6e2-38adffc78c2f",
+    "data": [
+      {
+        "text": "where did covid come from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25f6ef73-b3af-4a73-ad07-325840abeb13",
+    "data": [
+      {
+        "text": "where is covid-",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f2ba901-01a7-4623-aea9-e7463aaf3443",
+    "data": [
+      {
+        "text": "what is covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f11326f-61a5-46b9-bd3f-52fb90f0ddc1",
+    "data": [
+      {
+        "text": "what is the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8fe095d-1068-4744-9100-366bf2ffefed",
+    "data": [
+      {
+        "text": "is covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e399f902-f66a-4533-9215-b67d05cfa676",
+    "data": [
+      {
+        "text": "What is covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6e7201c-bf71-4cfb-9d0e-ab266f7a856c",
+    "data": [
+      {
+        "text": "What is coronavirus/COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

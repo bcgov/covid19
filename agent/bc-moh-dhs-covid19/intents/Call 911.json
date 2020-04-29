@@ -1,0 +1,44 @@
+{
+  "id": "bc2a3910-ddc2-4868-907f-32ccf05a1dd8",
+  "name": "Call 911",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ed8bd33f-42a8-4fa4-85f2-1cfcaddd2832",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you or someone you are caring for is experiencing life threatening symptoms such as severe breathing problems, severe chest pain, is having trouble waking up, is feeling confused or has lost consciousness \u003cb\u003eplease call 9-1-1 immediately\u003c/b\u003e or go directly to your nearest emergency department."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

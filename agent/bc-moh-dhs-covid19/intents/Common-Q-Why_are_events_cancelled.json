@@ -1,0 +1,67 @@
+{
+  "id": "d8c65bf3-b4eb-45b3-a2b9-cc65ddceb0f5",
+  "name": "Common-Q-Why_are_events_cancelled",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa81f9df-d032-4cc0-af2c-cdb0edc1ef2b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "eb83d97a-287c-4638-8a19-6a8d4745ada9",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "At this time, all in-person gatherings of any size are strongly discouraged. The Provincial Health Officer encourages everyone to practice physical distancing to limit transmission of COVID-19. These efforts are not forever but are important for now. \n\u003cbr\u003e\u003cbr\u003e\nOn March 16th, by the Order of the Provincial Health Officer, all event organizers are ordered to limit all public gatherings larger than 50 people. This includes indoor and outdoor sporting events, conferences, meetings, religious gatherings or other similar events.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

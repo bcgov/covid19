@@ -1,0 +1,55 @@
+{
+  "id": "959a17d5-287a-41cc-b1b3-ca91d6755927",
+  "name": "Common-Q-How_to_prevent_covid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "172811e9-9c54-43a0-bd23-87197cb724bd",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "In addition to social distancing, the most important thing you can do to prevent infection is to wash your hands regularly and avoid touching your face. To help reduce your risk of infection:\n\u003cul\u003e\n\u003cli\u003eWash your hands often with soap and water for at least 20 seconds. \u003c/li\u003e\n\u003cli\u003eUsing soap and water is the single most effective way of reducing the spread of infection.\u003c/li\u003e\n\u003cli\u003eIf a sink is not available, alcohol based hand rubs (ABHR) can be used to clean your hands as long as they are not visibly soiled. If they are visibly soiled, use a wipe and then ABHR to effectively clean them.\u003c/li\u003e\n\u003cli\u003eDo not touch your face, eyes, nose or mouth with unwashed hands.\u003c/li\u003e\n\u003cli\u003eCover your mouth and nose with a disposable tissue or the crease of your elbow when you sneeze or cough.\u003c/li\u003e\n\u003cli\u003eRegularly clean and disinfect requently touched surfaces\u003c/li\u003e\n\u003cli\u003eDo not share food, drinks, utensils, etc.\u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

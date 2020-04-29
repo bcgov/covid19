@@ -1,0 +1,49 @@
+{
+  "id": "38d1edff-7f36-44d1-8438-0192a59a0d56",
+  "parentId": "7430fd34-c294-4f70-b1d0-92863d2541e3",
+  "rootParentId": "7430fd34-c294-4f70-b1d0-92863d2541e3",
+  "name": "self-assessment-tool - no",
+  "auto": true,
+  "contexts": [
+    "self-assessment-tool-followup",
+    "start-self-assessment"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-tool.self-assessment-tool-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr-ca",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok. Did you want to ask another question?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "72c408ba-1fca-4606-9ccf-5e462a4955b0",
+    "data": [
+      {
+        "text": "What is my risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41cd0dcf-6e9d-4120-a5e9-623f08887d64",
+    "data": [
+      {
+        "text": "What do I do if someone is a contact to COVID and not isolating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0aa6226c-a17e-4720-a7ce-ad75dbdd131f",
+    "data": [
+      {
+        "text": "community at risk of people not quarantined",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f3c21f8-3435-4a07-ad3f-48627ed9afbe",
+    "data": [
+      {
+        "text": "community at risk of disobeying isolation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf55e7bd-77c8-4165-be63-f0f77d93ff56",
+    "data": [
+      {
+        "text": "neighbours",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " put me at risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a53f51b-aa71-4359-9041-ea78777792fb",
+    "data": [
+      {
+        "text": "neighbours",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " not obeying the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df04a342-2203-4042-9693-8eed61fc90df",
+    "data": [
+      {
+        "text": "family not quarantining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "397ad49f-19b2-4f8e-a218-031aabf2b78b",
+    "data": [
+      {
+        "text": "Neighbours",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " not isolating\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cce8dcc9-25d6-46f8-a39e-292800e2af43",
+    "data": [
+      {
+        "text": "People not quaratining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ba93d69-f7e1-4033-8c9d-250ff1f2d538",
+    "data": [
+      {
+        "text": "people not isolating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0456d21-18fc-48f3-80d7-b361dde59541",
+    "data": [
+      {
+        "text": "How do people going against isolation affecting the community",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d40cba8-b429-4d69-8408-077293a94586",
+    "data": [
+      {
+        "text": "how am I at risk from other people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72a8b5e0-b5f1-4a27-a050-6fb3fd994f9f",
+    "data": [
+      {
+        "text": "Do people not isolating put me at risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d61e2697-2f72-4a2f-b4e6-973c52fb0e96",
+    "data": [
+      {
+        "text": "What is the risk of people not isolating?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

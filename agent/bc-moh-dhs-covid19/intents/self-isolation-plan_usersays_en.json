@@ -1,0 +1,288 @@
+[
+  {
+    "id": "45ce282e-dc5f-4d4b-a99c-ef7fb117cafa",
+    "data": [
+      {
+        "text": "I wish to Update BC Authorities on my Covid 19 isolation contact information - no cell service here.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90d16460-c290-4483-be7c-42c6a654a029",
+    "data": [
+      {
+        "text": "Report isolation location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a20f893-06bd-44e1-92e8-9ada4f54b446",
+    "data": [
+      {
+        "text": "Want contact phone number to report Covid-19 isolation details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9922589-9cc5-4b28-b09f-e3cf21643a94",
+    "data": [
+      {
+        "text": "Should I submit an self isolation format even if I transit at ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ed329c6-fa14-4706-bddd-05fab51976ec",
+    "data": [
+      {
+        "text": "Federal government form for Canadians returning to Canada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "254c5308-e218-4bac-be31-4450cc240b15",
+    "data": [
+      {
+        "text": "how do I submit my isolation plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d1c7b9a-fa7d-4081-a4b9-1844a4d0578d",
+    "data": [
+      {
+        "text": "where can I submit my self isolation plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8566bfe6-b105-4191-8fde-90bfa37dd786",
+    "data": [
+      {
+        "text": "what is the penalty if I do not follow my isolation plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ef11775-8638-44cc-9f87-20a67fb169b9",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " an self isolation plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97f0c8b8-df97-47f1-a249-328c526dd263",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " needed for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " self isolation plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "073c5546-d357-405a-b290-bff9123f83e5",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I document ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " self isolation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a614108-1a70-4c76-93c2-ff2600f00bfd",
+    "data": [
+      {
+        "text": "quarantine document",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "553d0cc1-57fb-4fed-9ea8-b435150de72b",
+    "data": [
+      {
+        "text": "quaratine plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0b63652-66df-49ce-840d-aef4aa0bb78b",
+    "data": [
+      {
+        "text": "self isolation document",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31bcbb97-57c0-4141-b522-135106ad2e8f",
+    "data": [
+      {
+        "text": "self isolation planning doc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2becfeb2-8af2-4ba4-a2a8-5fb8f3c51c8b",
+    "data": [
+      {
+        "text": "isolation plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba90f732-f07d-4ad5-a10a-24b63b549d0e",
+    "data": [
+      {
+        "text": "self isolation plam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0440896a-6f62-47da-a766-96f3d96d40ce",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I need for a self-isolation plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

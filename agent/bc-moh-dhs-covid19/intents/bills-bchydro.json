@@ -1,0 +1,40 @@
+{
+  "id": "535e5555-43e4-4b44-b56d-3f8dc8d4efb0",
+  "name": "bills-bchydro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "You can head over to \u003ca href\u003d\"https://www.bchydro.com/news/conservation/2020/covid-19-updates.html\" target\u003d_blank\u003eBC Hydro Customer Updates\u003c/a\u003e for details on bill payments and grants available.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

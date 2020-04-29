@@ -1,0 +1,176 @@
+[
+  {
+    "id": "fdbf1c23-0093-45c8-b10f-9764a5c64623",
+    "data": [
+      {
+        "text": "I am a nurse should my patient be tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d994a37-c227-4ccd-9940-594572e9b16a",
+    "data": [
+      {
+        "text": "where can patients get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c75408ea-1197-4347-b767-02cf567bc099",
+    "data": [
+      {
+        "text": "Test locations for long term health care employees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43bb3512-9375-4305-b582-0ffca1c2dd2b",
+    "data": [
+      {
+        "text": "Information for long term Health care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be439d3e-cc89-428c-b5fb-c297a40968e4",
+    "data": [
+      {
+        "text": "Can staff at assisted living facility be tested bi-weekly?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b09cd09-43e2-4df6-a41f-d05dba2e1123",
+    "data": [
+      {
+        "text": "Staff may affect residents up to ",
+        "userDefined": false
+      },
+      {
+        "text": "7 days before",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9c913f8-6ae7-4521-9c00-fdb3662be5de",
+    "data": [
+      {
+        "text": "how can my health care staff get tested for coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1835c6dd-28dd-4120-a2cd-ad80b6e4438e",
+    "data": [
+      {
+        "text": "how can health care professionals get a test for covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2b1a823-b862-4d83-aeb7-6dc0c837096a",
+    "data": [
+      {
+        "text": "how can care aids get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fcfc1c3-5f1a-4554-9248-86a99b54fe77",
+    "data": [
+      {
+        "text": "Where can hospital workers get tested.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd56484c-72fd-4516-a2f9-6a77f01e2026",
+    "data": [
+      {
+        "text": "Where can doctors get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1826c9d-8329-4070-9e17-a2d86369d260",
+    "data": [
+      {
+        "text": "Where can nurses get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c829d445-456d-4d66-93a1-3e691499412a",
+    "data": [
+      {
+        "text": "Where can health care workers get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc8e1d0b-0a2f-4b4c-aa9c-d7b6d25d4be4",
+    "data": [
+      {
+        "text": "Where are the testing sites for health care staff?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

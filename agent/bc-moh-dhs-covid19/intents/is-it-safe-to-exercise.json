@@ -1,0 +1,79 @@
+{
+  "id": "899dce30-c4dc-4b61-a37f-8c59bb8e469f",
+  "name": "is-it-safe-to-exercise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8064517e-6136-4cd9-9c3f-c3fd1833650f",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "faa9f5f0-a529-413d-b8b9-e6ea20851b00",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "d1be24f8-9497-4394-bb2e-58bb404bd7ed",
+          "required": false,
+          "dataType": "@pet",
+          "name": "pet",
+          "value": "$pet",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you are self-isolating or quarantined you must remain at home.  If you are older or have health conditions it is safer to remain at home. At this time in B.C., we are all encouraged to stay home as much as possible. \n\u003cbr\u003e\u003cbr\u003e\nIf you do leave your home to go outside or to get exercise please use common sense approaches and physical distancing to prevent infection and transmission. \n\u003cul\u003e\n\u003cli\u003eWash your hands often  and avoid touching your face with unwashed hands \u003c/li\u003e\n\u003cli\u003eTry to use public transit  at off peak times -If you have to cough or sneeze, make sure you sneeze or cough into a tissue or the crook of your arm (elbow) and then wash your hands.\u003c/li\u003e\n\u003cli\u003eAvoid crowded places and if a location is busy, consider going somewhere else. \u003c/li\u003e-.  \n\u003c/ul\u003e\nVist the BCCDC Common Question page if you need more information. http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

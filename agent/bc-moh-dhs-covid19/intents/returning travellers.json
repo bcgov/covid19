@@ -1,0 +1,113 @@
+{
+  "id": "4931782c-c53f-4444-9f85-962fe5a5757c",
+  "name": "returning travellers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "08a66c82-cd36-439a-ab07-3ad407cb6a4f",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "4601e733-6f10-4266-a58b-8f740f57ad25",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "4d1aa0cd-c1a2-4b52-bbac-6790c54f7817",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "96a181cb-de3c-49b5-ac38-fd990eae68dd",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "177a5435-0653-4df8-8937-721eb8c05959",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city1",
+          "value": "$geo-city1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3503bdce-5073-4d1e-bd4b-dee522f0aa66",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "British Columbians and Canadians should avoid all non-essential travel outside of Canada, including to the United States. \n\u003cbr\u003e\u003cbr\u003e\nAs of April10, 2020, all international travellers returning to B.C. are required by law to self-isolate for 14 days and complete a self-isolation plan. Travellers must submit a self-isolation plan for approval prior to their return to B.C., or upon arrival. \n\u003cbr\u003e\u003cbr\u003e\nThere are some individuals who are exempt from this order to provide essential services, but they still require a self-isolation plan and self-monitoring.  \n\u003cbr\u003e\u003cbr\u003e\nRefer to \u003ca href\u003d\"https://travelscreening.gov.bc.ca/\" target\u003d_blank\u003eSupport for Travellers\u003c/a\u003e to submit your self isolation plan. \n\u003cbr\u003e\u003cbr\u003e\nHead to \u003ca href\u003d\"http://covid-19.bccdc.ca/\" target\u003d_blank\u003eBCCDC.ca\u003c/a\u003e for further details.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

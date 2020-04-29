@@ -1,0 +1,79 @@
+{
+  "id": "f6c94ac0-064c-4a94-9286-ce610d9482a0",
+  "name": "Common-Q-Is_it_safe_to_go_out",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "17c06453-c631-4da4-b877-4212995cf0ed",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "361004a7-f1cf-43c9-a00a-42800f926cbc",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time1",
+          "value": "$date-time1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a45e0663-5f9f-45de-9d78-b1a9f554407e",
+          "required": false,
+          "dataType": "@sys.age",
+          "name": "age",
+          "value": "$age",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you are self-isolating or quarantined you must remain at home.  For those who are not required to isolate , at this time in B.C., we are all encouraged to stay home as much as possible. If you do leave your home to go shopping, take public transit or go to work, use common sense approaches to prevent infection and transmission:\n\u003cul\u003e\n\u003cli\u003eMany malls, shops and stores are limiting their hours or closing their operations entirely in order to help reduce the spread of COVID-19 in B.C. \u003c/li\u003e\n\u003cli\u003eConsider only shopping once per week for essential supplies and use food delivery services or online shopping where available. \u003c/li\u003e\n\u003cli\u003eAvoid crowded places and if a store is busy, consider going somewhere else.\u003c/li\u003e\n\u003cli\u003eIf you are older or have health conditions, consider asking your family, friends and neighbors to help you get the supplies you need.\u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

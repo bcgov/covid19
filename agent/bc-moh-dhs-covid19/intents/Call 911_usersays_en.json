@@ -1,0 +1,337 @@
+[
+  {
+    "id": "6025008f-78ca-4512-a21b-7762c9f04849",
+    "data": [
+      {
+        "text": "911",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56d8074c-f75e-4ed0-b7c3-623ce4f37283",
+    "data": [
+      {
+        "text": "911",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d3c95ee-c280-4b73-98db-9bdff41f9ebc",
+    "data": [
+      {
+        "text": "dead body",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ac969f6-016a-48ad-af70-ea8dc4e57447",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " wont wake up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d663dc56-588c-4572-9937-bfbd6c9a96b1",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " seems confused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0368e15-aa82-472d-9634-94a11a0c7810",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " is confused",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1990cee-0d47-43f0-b11a-023ff06b5cf0",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " can\u0027t breath well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0bd88a9-b6e5-44fb-ae67-40ec631b68ec",
+    "data": [
+      {
+        "text": "My child has difficulty breathing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f50026f7-71d3-4847-80cc-71f27584f471",
+    "data": [
+      {
+        "text": "My child has severe bleeding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de1f7023-88d1-443b-a975-33a48a95af4a",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " has chest pains",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9917e638-f26c-4c39-96a5-5443e81fddb4",
+    "data": [
+      {
+        "text": "lost consciousness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "45e16070-db0c-4ad0-856d-dde813dc886d",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "husband",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " is unconscious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f9cbe034-971c-4c92-a537-3a764436734a",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " passed out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "38129320-0958-43b5-ad37-511d7843ef2d",
+    "data": [
+      {
+        "text": "My sister is unconscious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f523aea9-5dfe-4fe6-8469-05f498bcbb2a",
+    "data": [
+      {
+        "text": "My sister cant wake up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c3b546a-bc49-4308-8fa9-f521ccb426b3",
+    "data": [
+      {
+        "text": "my room mate cant wake up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9e474ee4-97b2-4274-a5ef-ccd89751276f",
+    "data": [
+      {
+        "text": "i have chest pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e6522f1-1702-495b-9e5d-884b8814a59e",
+    "data": [
+      {
+        "text": "I\u0027m having chest pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1af5f71-98ab-444b-9b61-066fb5e972f3",
+    "data": [
+      {
+        "text": "I have a cough and cannot breath",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29349b35-b61c-490c-ac47-89596f7f329a",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "husband",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": true
+      },
+      {
+        "text": " can\u0027t breathe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "409f72dc-c5f4-479a-aea6-ebe501a50350",
+    "data": [
+      {
+        "text": "I cannot breathe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

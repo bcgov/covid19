@@ -1,0 +1,67 @@
+{
+  "id": "868ba89b-2c3f-453b-b53d-670d1ae70e52",
+  "name": "Where_can_I_get_test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0cf14787-2ee9-4e07-9c61-c306182196ca",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "b2befba8-00ab-4f38-a76b-75cd72b3a59a",
+          "required": false,
+          "dataType": "@sys.unit-length",
+          "name": "unit-length",
+          "value": "$unit-length",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Testing is recommended for anyone with cold, influenza or COVID-19-like symptoms, even mild ones. If an individual has no symptoms, they do not require a test. A healthcare provider may also decide whether a person requires testing. \n\u003cbr\u003e\u003cbr\u003e\nA list of collection centres across the province can be accessed on \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing\" target\u003d_blank\u003ethis map\u003c/a\u003e to help find a location near you. \n\u003cbr\u003e\u003cbr\u003e\nYou can also call 8-1-1 to find the nearest centre.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

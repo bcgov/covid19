@@ -1,0 +1,302 @@
+[
+  {
+    "id": "4f42288f-206f-4325-b3ef-9a2cc6aec8ad",
+    "data": [
+      {
+        "text": "How long does covid-19 live",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "114745a7-04c8-4030-b9a2-df6ba6cb4c09",
+    "data": [
+      {
+        "text": "i know i dont have it,  have been healthy and no symptoms  since March ",
+        "userDefined": false
+      },
+      {
+        "text": "14th",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " when we came home from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexico",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ".  What we want to know is how long does it live on a person ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e109d5c-08cb-4a79-8cd9-1460e659a75b",
+    "data": [
+      {
+        "text": "If you have covid 19  and have no symptoms,  does the virus die on your body or can you transmit it after ",
+        "userDefined": false
+      },
+      {
+        "text": "14 days",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09238b71-b471-4ce2-b571-a3da3783a574",
+    "data": [
+      {
+        "text": "Am I still contagious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27d1f34d-712c-4e3b-a10c-926d5c443154",
+    "data": [
+      {
+        "text": "how long do you shed coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bec52641-9c10-47b2-9165-7add909d083d",
+    "data": [
+      {
+        "text": "How fast can covid 19 be transmitted before you show symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4559edd0-a691-43a4-ae67-49f4973eccec",
+    "data": [
+      {
+        "text": "If I get the virus how long will I be sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef0c9546-0d47-48fb-8afd-74f2e6bc5cff",
+    "data": [
+      {
+        "text": "How many days before are they contagious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd6f4001-1752-45cf-b748-15a354b32aed",
+    "data": [
+      {
+        "text": "How soon after initial exposure can I present with symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f375fb3-8192-45c5-ab47-bef6ab839866",
+    "data": [
+      {
+        "text": "I went to the mall, to a beauty salon and to a restaurant on February 8 and on February 18 I had to go to the emergency room with a terrible lower respiratory infection. Could I have had Corona virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e33113f-9399-4e25-ad9c-bf952bcf34cb",
+    "data": [
+      {
+        "text": "how long can it before before I have symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf6eb3c5-09b7-46a2-b65d-896f9592dbc0",
+    "data": [
+      {
+        "text": "how long before symptons may appear?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e0c40aa-1433-4528-822f-cd5cbccf84ab",
+    "data": [
+      {
+        "text": "how long does the bug live?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "83ce9924-5440-4a6f-b785-367c1b1deacc",
+    "data": [
+      {
+        "text": "how long does the virus live?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8b8d9c52-03b9-4694-8543-ad05118e08a2",
+    "data": [
+      {
+        "text": "whats the recovery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "679d7a02-aa2b-4be2-9bed-4a42de18d62b",
+    "data": [
+      {
+        "text": "When is a person with COVID contagious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "953a2381-ae5d-441c-a456-c91df104ff70",
+    "data": [
+      {
+        "text": "how long does covid last",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2f1371ab-729b-40a9-8f2a-df7c647c2a90",
+    "data": [
+      {
+        "text": "How long does it last?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e1b206b-4e4c-434e-8a93-9817c83024d2",
+    "data": [
+      {
+        "text": "How long does covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " last?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54f74c76-ee18-401b-b2f9-e5ad3e6f0c0c",
+    "data": [
+      {
+        "text": "Can I be infected and not know it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b98a26e2-6e64-4624-9201-b051fa6bec5f",
+    "data": [
+      {
+        "text": "How long before symptoms are noticeable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53950211-914c-4464-9668-5ac46ab99879",
+    "data": [
+      {
+        "text": "What is the incubation period?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3c9b076c-8301-43f3-8ce7-d1184c87d233",
+    "data": [
+      {
+        "text": "musicians",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f17aa1ab-8964-473b-9f50-e627ca803965",
+    "data": [
+      {
+        "text": "I am an artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fad7bbe-67ba-47b3-b780-24f5e0c2057f",
+    "data": [
+      {
+        "text": "How can I find support for my work in the arts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc9c70a6-6f64-432c-8a4e-4904a1fedffa",
+    "data": [
+      {
+        "text": "Is there any support for arts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80480378-8b1e-4fc1-ada2-1808753db7e9",
+    "data": [
+      {
+        "text": "I work in the arts and culture sector.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

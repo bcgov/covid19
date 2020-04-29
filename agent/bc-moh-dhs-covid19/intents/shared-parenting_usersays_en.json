@@ -1,0 +1,374 @@
+[
+  {
+    "id": "3dc97ab8-d944-4f98-8583-187900a0413a",
+    "data": [
+      {
+        "text": "Separated families visiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb96e1cc-f91e-4f3e-889a-b97f7fecaa6f",
+    "data": [
+      {
+        "text": "Blended families visiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1c7dccf-799c-45db-bd49-169e8eae448e",
+    "data": [
+      {
+        "text": "My son was laid off and may be recalled to work.  For ",
+        "userDefined": false
+      },
+      {
+        "text": "the last four weeks",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": ", he has been staying home with his girlfriend, her ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " year old ",
+        "userDefined": false
+      },
+      {
+        "text": "son",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " and his nine year old ",
+        "userDefined": false
+      },
+      {
+        "text": "son",
+        "alias": "person-nouns1",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": ".  Would it be ok for my wife and I to babysit our grandson during the day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "387227cc-9107-498b-9c40-38d561841bd7",
+    "data": [
+      {
+        "text": "We are grandparents that normally provide ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " care. We are 65 yrs.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8ee83bd-03b4-4705-a1e6-5f0072852690",
+    "data": [
+      {
+        "text": "custody agreements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8382282d-00aa-4b5a-a23e-2ae2db990298",
+    "data": [
+      {
+        "text": "shared parenting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22deb65c-402d-4d25-be2d-ab4b401d3e8d",
+    "data": [
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " children visit their parent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91f60059-7871-4aa6-9ebf-d046cdac7831",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " we manage ",
+        "userDefined": false
+      },
+      {
+        "text": "co",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": "-parenting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18592a20-8dd0-403f-aa52-5b40876e6c98",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the guidance for shared custody",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4625d3d2-5e84-452f-bff4-84d5ced06aa4",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the advice for ",
+        "userDefined": false
+      },
+      {
+        "text": "co",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": "-parenting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3011095a-83c6-4e03-ab2a-7725bd918b91",
+    "data": [
+      {
+        "text": "Is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " safe for ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " go ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " their ",
+        "userDefined": false
+      },
+      {
+        "text": "mother",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " for shared parenting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f87740c-3765-4e68-b3d8-b71cbc6e8907",
+    "data": [
+      {
+        "text": "I share ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " children with their ",
+        "userDefined": false
+      },
+      {
+        "text": "father",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23ec5ab6-a22a-4a49-99b6-111cc46a4e8d",
+    "data": [
+      {
+        "text": "My",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " shared between parents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4688de1-03d0-4663-a0c8-8019cb19874c",
+    "data": [
+      {
+        "text": "I share custody",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "574eed90-5b72-41ef-95ee-1f61483b4066",
+    "data": [
+      {
+        "text": "how do i find out about icbc?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9eed25f-87bd-40aa-96f7-a6cdb401d964",
+    "data": [
+      {
+        "text": "where do i make an icbc claim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2272f04f-f604-4b8e-b243-14909fb95fc3",
+    "data": [
+      {
+        "text": "does icbc do accident claims during the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18667dd3-5744-4a5b-aab4-53ba3f3ca222",
+    "data": [
+      {
+        "text": "is icbc open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "280d6859-6f65-41b1-bb89-dc3b5c1eee5c",
+    "data": [
+      {
+        "text": "How do I renew my ICBC ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67167bc8-a606-4dd8-92ec-3ca8a204098c",
+    "data": [
+      {
+        "text": "How do I renew my ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "alias": "vehicles",
+        "meta": "@vehicles",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "alias": "msp",
+        "meta": "@MSP",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

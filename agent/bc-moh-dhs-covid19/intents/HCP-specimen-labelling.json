@@ -1,0 +1,55 @@
+{
+  "id": "84f21f5a-c576-4461-a72d-5f9ddf0830de",
+  "name": "HCP-specimen-labelling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "67afd6a2-734a-431a-ab81-e7f0c3464d35",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eHealth Care Professionals\u003c/b\u003e:To prioritize testing, label the requisition as coming from:\n\u003cbr\u003e\u003cul\u003e\n\u003cli\u003eHCW1 – Health Care Worker – Direct Care\u003c/li\u003e\n\u003cli\u003eEssential service providers (incl. first responders)\n-HCW2 – Health Care Worker – Non Direct Care\n-LTC – Long Term Care Facility -OBK – Outbreak \u003c/li\u003e\n\u003cli\u003e Including people who are homeless or have unstable housing -HOS – Hospital (Inpatient) \u003c/li\u003e\n\u003cli\u003eEmergency Department (with intent to admit) \u003c/li\u003e\n\u003cli\u003eSymptomatic pregnant woman in their 3rd trimester \u003c/li\u003e\n\u003cli\u003eRenal patients \u003c/li\u003e\n\u003cli\u003eCancer patients receiving treatment \n- CMM – Community (Outpatient)\u003c/li\u003e\n\u003cli\u003eResidents of remote, isolated or indigenous communities \u003c/li\u003e\n\u003cli\u003ePrimary Care Centres and Doctor’s office\u003c/li\u003e\n\u003cli\u003eEmergency Department (non-admitted)\u003c/li\u003e\n\u003cli\u003eSurveillance\u003c/li\u003e\n\u003cli\u003eReturning travellers identified at point of entry.\u003c/li\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

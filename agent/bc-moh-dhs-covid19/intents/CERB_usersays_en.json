@@ -1,0 +1,534 @@
+[
+  {
+    "id": "b971e589-dd8f-4ef7-a8c3-0b2316c3d7b4",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "1000.00",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " coming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41ccda1b-c698-407e-aa1f-46f9e3b1290d",
+    "data": [
+      {
+        "text": "Is there a ",
+        "userDefined": false
+      },
+      {
+        "text": "1000.00",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " covit payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da561f2c-fa0a-4052-b871-f7c8fdcaa01f",
+    "data": [
+      {
+        "text": "Hi. I applied for cerb e.i and received it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8be8702a-0276-4e38-bff8-47284f770df9",
+    "data": [
+      {
+        "text": "Need to apply for verb for ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " time through cra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96ff582f-bbc7-468c-a5b1-53b73a85dcee",
+    "data": [
+      {
+        "text": "Hi will the ",
+        "userDefined": false
+      },
+      {
+        "text": "Canadian",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " government give financial compensation compensation to Home Health Care Aides who have lost hours due to Covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0fd620b-07cc-4adf-974f-19c0b81521d0",
+    "data": [
+      {
+        "text": "am i able to grab my income assistance cheuqe on the ",
+        "userDefined": false
+      },
+      {
+        "text": "22",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " from the office ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de98abb4-f725-4538-8fc0-645b23c0c064",
+    "data": [
+      {
+        "text": "Grants to cover costs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61ae87d2-4a43-4931-853d-df4198cdec80",
+    "data": [
+      {
+        "text": "Where do I look to find out more about benifets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5b40d2b-5d29-4ad0-9d3c-afdffd1679ea",
+    "data": [
+      {
+        "text": "Where do I look for more info on benifets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de98128d-88af-4aea-ae0a-8d5518b622e1",
+    "data": [
+      {
+        "text": "Online supports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61822ca1-c33f-4db7-be75-a656e603176f",
+    "data": [
+      {
+        "text": "how long does it take to get covid assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a804b42-ca82-4bdc-a74f-6d4a3ae6c822",
+    "data": [
+      {
+        "text": "hello, if you are on social assistance in bc are you able to apply for the $",
+        "userDefined": false
+      },
+      {
+        "text": "2000.00",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " emergency benefit,  some web sites say yes you can",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "319115e6-dbbf-4cf0-9aa4-e53e853adf31",
+    "data": [
+      {
+        "text": "can yu apply for the ",
+        "userDefined": false
+      },
+      {
+        "text": "2000",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "$ emergency fund if you are on social assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c3eb6cd-e219-401e-8eb0-15fd9b885058",
+    "data": [
+      {
+        "text": "Just want to know my status and update on my cerb plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab16699a-26c2-4635-8851-c1c03115ad5e",
+    "data": [
+      {
+        "text": "where do i apply for the financial assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a23d75f-35b0-4545-84bf-98af66e1d5f9",
+    "data": [
+      {
+        "text": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7174c060-0638-49d2-91d6-aa01d276d25d",
+    "data": [
+      {
+        "text": "I quit voluntarily months ago but can\u0027t return to work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc1a33a3-8467-4630-93f7-251aad78bc2d",
+    "data": [
+      {
+        "text": "I want to apply for the ",
+        "userDefined": false
+      },
+      {
+        "text": "2000.00",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25e16f85-a557-431d-8173-53ed17e0d557",
+    "data": [
+      {
+        "text": "I want the number to the federal support line for the ",
+        "userDefined": false
+      },
+      {
+        "text": "2000.00",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6653b22-1e2c-4dd1-b04e-294b8bd6278f",
+    "data": [
+      {
+        "text": "I want phone number to appy or call for the help if 2000.00 a month help pkease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2390f51-8170-4355-b3f8-ba12a39f35e9",
+    "data": [
+      {
+        "text": "Just curious, my partner is not working so I have to pay for everything... How do I get assistance??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d5c3358-b871-4049-9867-1b0776c96748",
+    "data": [
+      {
+        "text": "wage subsidy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7818acfc-ff3e-4ad7-a806-8a6fcad6eb0b",
+    "data": [
+      {
+        "text": "how to get economic relief",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0859b61f-03e7-4e56-a01f-b6d06b6f3a46",
+    "data": [
+      {
+        "text": "Will welfare checks be more ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b46e98bd-457b-4e56-8aa7-0de736e13a56",
+    "data": [
+      {
+        "text": "Will welfare checks be more ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77a475c2-4380-4b23-96c8-9dc13a96594b",
+    "data": [
+      {
+        "text": "help with CERB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af22959a-8b86-411b-a956-5cbcb5f28a42",
+    "data": [
+      {
+        "text": "Income help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d256f44-f718-4e34-bc6d-033406a92742",
+    "data": [
+      {
+        "text": "Income Assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2591fee-fd6a-4abe-8657-5e2e18d83939",
+    "data": [
+      {
+        "text": "Get help with income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db28a0e0-63e9-409d-8c6c-89a28a4d9eda",
+    "data": [
+      {
+        "text": "Apply for a finance benefit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "731a4dec-d558-4ed5-9c82-22ae8b70e7c2",
+    "data": [
+      {
+        "text": "Apply for ",
+        "userDefined": false
+      },
+      {
+        "text": "Canadian",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Financial Benefit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "24597630-4861-412a-bcff-4f6f003e239d",
+    "data": [
+      {
+        "text": "CERB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b3d1cdf-53d2-449e-b7cb-ed2271a625cb",
+    "data": [
+      {
+        "text": "Canadian",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Emergency Response Benefit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8314b34-94dc-414a-a07d-e2be3410a921",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I apply for CERB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

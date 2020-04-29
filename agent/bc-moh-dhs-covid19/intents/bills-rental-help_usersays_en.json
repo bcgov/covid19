@@ -1,0 +1,228 @@
+[
+  {
+    "id": "c1d8e51d-2c51-419a-9050-bb53f96937ce",
+    "data": [
+      {
+        "text": "Looking for rental relief for small business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19a1570b-ab30-47f6-baa0-955664f4e8c1",
+    "data": [
+      {
+        "text": "If I move into a new apartment at ",
+        "userDefined": false
+      },
+      {
+        "text": "this time",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " does the landlord have to paint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05484d21-bb06-41c7-8ff1-fbe406e245a3",
+    "data": [
+      {
+        "text": "Hi there, a tenant is not letting me access their suite and I need to access the electrical panel which is in their suite.  Thank you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4ed7d73-c22e-41f4-a6c3-ec6e0c1fcb40",
+    "data": [
+      {
+        "text": "our lease is going to end on 30 April 2020 and now we are not able to find room to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "461276f8-8529-475f-b03d-1467a1128909",
+    "data": [
+      {
+        "text": "Can roomates living at the same address each apply for renter\u0027s assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "626aeb01-c5ab-4b52-9488-bdcde7ea4942",
+    "data": [
+      {
+        "text": "my tenant cant pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85168393-6ad5-4f76-8ada-0f6826f11589",
+    "data": [
+      {
+        "text": "Can I get funding for my rent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f1f1365-37e9-4fcb-a327-327583bbcdff",
+    "data": [
+      {
+        "text": "Can I get help with rent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dbe8ea7-3a6c-4447-a28b-e597d3a54f43",
+    "data": [
+      {
+        "text": "How about rental assistance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71491ce9-0d45-43e0-bac4-f7716c1eda32",
+    "data": [
+      {
+        "text": "My tenant did not pay rent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb2b2693-b7f0-4942-aa17-b919baf468c7",
+    "data": [
+      {
+        "text": "My renter didnt pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47f4d731-97b6-4289-8301-0e34d729a701",
+    "data": [
+      {
+        "text": "My renter cant pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7b63e75-d21e-44f9-8df5-a9d979db263f",
+    "data": [
+      {
+        "text": "Where do I get my rent grant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2425ad35-9e24-4d1e-93a5-81b3761ffee8",
+    "data": [
+      {
+        "text": "Where can I get help with rent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b118205-5135-4944-9fa3-62aeb3a87d8e",
+    "data": [
+      {
+        "text": "How do I pay my rent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19b1c6e9-9ca4-4663-99c2-87b4cdc676ae",
+    "data": [
+      {
+        "text": "I can\u0027t pay my rent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a7d4d0c4-a749-48bb-95c5-a61e22834c64",
+    "data": [
+      {
+        "text": "I am a landlord - how do I get support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cd9f0a4-fbb4-4a9a-b05b-383aec7dcab6",
+    "data": [
+      {
+        "text": "I am a renter - how do I get support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

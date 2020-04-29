@@ -1,0 +1,79 @@
+{
+  "id": "e90973db-3506-452b-aba7-a641434c5059",
+  "name": "Common-Q-How_ensure-compliance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4ff5934f-f0df-4027-9bcb-62033bc24fba",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "unit-currency",
+          "value": "$unit-currency",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b99f8edd-ec36-4297-b879-be6c87b1ab48",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7f84c784-c7b0-44c6-9a37-701eb9a3bcca",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "As of March 25, 2020, by Emergency Order under the Quarantine Act it is mandatory for any person entering Canada by air, sea or land to self-isolate for 14 days whether or not they have symptoms of COVID-19. There are some individuals who are exempt from this order to provide essential services.\n\u003cul\u003e\n\u003cli\u003eSpot checks will be conducted by the Government of Canada to verify compliance.\u003c/li\u003e\n\u003cli\u003eThose who are identified as a close contact to a confirmed case of COVID-19  3. Those who are a confirmed case of COVID-19\u003c/li\u003e\n\u003cli\u003eThe second and third groups are monitored by Public Health, both their health and their activities.\u003c/li\u003e\n\u003c/ul\u003e\nIf people do not voluntarily self-isolate, Public Health can use legal powers under B.C.’s Public Health Act to ensure that self-isolation occurs. \n\u003cbr\u003e\u003cbr\u003e\nMore information on how the government is monitoring self-isolation can be found here: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

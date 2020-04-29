@@ -1,0 +1,33 @@
+{
+  "id": "c180482a-3ad2-40bf-b712-91096bc53d98",
+  "name": "self-assessment-exit",
+  "auto": true,
+  "contexts": [
+    "self-assessment-exit"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thank you. Please ask me any other question you may have related to COVID-19."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

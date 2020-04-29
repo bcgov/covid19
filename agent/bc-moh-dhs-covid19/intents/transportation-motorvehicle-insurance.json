@@ -1,0 +1,56 @@
+{
+  "id": "0dd0c8b8-7fb6-4e4a-b3f1-4df01de0ace1",
+  "name": "transportation-motorvehicle-insurance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e32166b4-fc52-4f9a-9ed5-d30654ce2824",
+          "required": false,
+          "dataType": "@MSP",
+          "name": "msp",
+          "value": "$msp",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9585137c-c0f9-4805-8d63-213c5a88f674",
+          "required": false,
+          "dataType": "@vehicles",
+          "name": "vehicles",
+          "value": "$vehicles",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Information on vehicle insurance can be found here: https://www.icbc.com/about-icbc/contact-us/Pages/covid-19.aspx?bcgovtm\u003d20200319_GCPE_AM_COVID_4_NOTIFICATION_BCGOV_BCGOV_EN_BC__NOTIFICATION"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

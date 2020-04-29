@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "24a1fd32-f662-4413-97b6-98c2791333cd",
+    "data": [
+      {
+        "text": "I am looking for a way to contact the office of the Provincial Health Officer to ask for guidance on a specific sector",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abe68d27-0a0d-4ed6-9691-70a92c2eb24c",
+    "data": [
+      {
+        "text": "contact provincial health officer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e07809f-1fce-4bbc-8628-ba98311f95f5",
+    "data": [
+      {
+        "text": "I have a teen that’s been arrested and may need to isolate before going to a treatment Center unless she can test negative on a test. Could we pay for a test if she doesn’t have symptoms?.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ade0bd6b-53fb-4e3e-8c77-c011e2054dfe",
+    "data": [
+      {
+        "text": "I live in a senior building in OK Falls which has poor practice in place for cleaning  Is there a number where I can call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ae62010-fb1e-4766-a471-0e3fee1d8b21",
+    "data": [
+      {
+        "text": "I have a BCeID.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "117cd91a-2c24-463f-a9bb-933a1e90685f",
+    "data": [
+      {
+        "text": "Hi, can I speak with a representative, please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9725826-b4d2-46d4-b6e3-0ca2eca1a0fe",
+    "data": [
+      {
+        "text": "public washroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1984514f-92ad-403d-bb16-bba2307d92d2",
+    "data": [
+      {
+        "text": "washroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2259246-6966-457c-9737-22c62faf5ef0",
+    "data": [
+      {
+        "text": "Can I speak to an agent here?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cba8cf45-ca53-4025-9db4-87c97e9cc6fc",
+    "data": [
+      {
+        "text": "Who can I call to help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c320dd0c-c526-45ec-ba8b-8a78dfaa3263",
+    "data": [
+      {
+        "text": "how restart elective surgeries after covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76561e1e-1c42-440e-adcd-cbdb2bae8795",
+    "data": [
+      {
+        "text": "coquitlam covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " hotline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ba6eed0-b83e-4e92-8bb6-2c1743a9a5ad",
+    "data": [
+      {
+        "text": "coquitlam hotline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0b9eedd-0cfb-43cb-86dc-67ee23e55da5",
+    "data": [
+      {
+        "text": "I have PPE to sell to the government",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6eecefc6-cd41-4d7b-91eb-ceb76a527016",
+    "data": [
+      {
+        "text": "Who do I call to complain about a business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8ce20aa-c683-4589-be0f-967ad4c634d1",
+    "data": [
+      {
+        "text": "Why are air line flights provincially \u0026 internationally still continuing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc34737c-0742-44e6-9228-79203ab5e529",
+    "data": [
+      {
+        "text": "Is there LEH draws ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c921c7f0-5a72-4cde-8aae-d4c46bd0ee9b",
+    "data": [
+      {
+        "text": "covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " supply hub - contact info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7efb28a-6229-43e3-843e-307e7a42f6aa",
+    "data": [
+      {
+        "text": "Hello I have a non health question is this the correct place for that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "864c477a-78d8-4371-8bdb-e7058bfbbc8a",
+    "data": [
+      {
+        "text": "Why can’t I share a page on social media?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0edaf86a-04a0-4d21-bb2e-84b5ec23d8c3",
+    "data": [
+      {
+        "text": "what are the covid information apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5b91d71c-e0c2-426b-bc2d-48710e9b7443",
+    "data": [
+      {
+        "text": "I\u0027ve already looked on that site and I can\u0027t figure out where to do the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " because I\u0027ve already registered and got the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c164ee84-c8bf-4e8a-9759-15dbfcd42a31",
+    "data": [
+      {
+        "text": "I have alight books on the ",
+        "userDefined": false
+      },
+      {
+        "text": "20th",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " June or a raise on the ",
+        "userDefined": false
+      },
+      {
+        "text": "25th",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " June. My cruise has been nacelle.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c927a64-c0e1-4c75-aa98-59dd11c61ab5",
+    "data": [
+      {
+        "text": "What is the hot line number for Covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e841248-69d1-4ce1-abbc-bc12bc624d49",
+    "data": [
+      {
+        "text": "Looking for surgical guidelines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dddc896-d38f-4f8f-841c-d386c71910cc",
+    "data": [
+      {
+        "text": "will mosquitoes be a problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8259f196-daae-49ec-8086-3d89706a0a2b",
+    "data": [
+      {
+        "text": "Construction sites",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d9157a8-506d-44a7-a611-f50a910f590c",
+    "data": [
+      {
+        "text": "We are a medical supplier in the ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ". I am reaching out to see if anyone needs testing swabs and transfer reagent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e945f081-75e4-4c94-a2e9-0dacdffe666a",
+    "data": [
+      {
+        "text": "I am looking for help to cover the costs of masks sanitizers wipes dienfectany I\u0027m on provincial disability",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17983fec-d8da-42a7-8257-fa1faae1866b",
+    "data": [
+      {
+        "text": "Can we open  a gated facility to club members so they can access solo water crafts like kayak or canoe to get exercise? If they are asked to follow sanitation protocols.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6c36958-2300-4817-9899-c6a2cfa42175",
+    "data": [
+      {
+        "text": "We have a basketball team and we want to continue our season , so would we be able to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31270614-55a8-4d49-a81d-045009ecbde9",
+    "data": [
+      {
+        "text": "So as long as there is less than ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " people we could continue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "898d6878-3d98-4adf-8ed1-ffbbffff7e03",
+    "data": [
+      {
+        "text": "Is there a person I could speak with to discuss content for cross promotion?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "897fc948-bd7c-4a9a-b9a1-ced267f8c38d",
+    "data": [
+      {
+        "text": "Do taxi drivers have special hygiene rules to follow?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "600eb352-290b-49f1-821a-e7912c1554e2",
+    "data": [
+      {
+        "text": "If I am separated and my children live with my spouse can I visit my children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccd7c9e2-b86e-4c02-86fd-268f54c39e28",
+    "data": [
+      {
+        "text": "Where do I go to donation PPE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8193df37-f7b2-497c-baff-fd80dbc3d92b",
+    "data": [
+      {
+        "text": "Is it safe to have flowers delivered to my mom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ce5b0c0-98a0-4f09-9ba9-8346fbf234da",
+    "data": [
+      {
+        "text": "Can flowers carry the covid virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d05b32e2-b9c6-45d2-9425-bdd4c35152d7",
+    "data": [
+      {
+        "text": "You are trying to get a hold of me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5ad46b3-ff83-4f09-8ffb-2275e60dec4d",
+    "data": [
+      {
+        "text": "Why is it the Duncan hospital does not allow for all nurses to wear masks while at work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2884f952-f065-4488-901c-4621f731242b",
+    "data": [
+      {
+        "text": "Please tell management at the Duncan hospital the nurses have to wear masks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9eb242d-66cc-4fb2-8d1c-9cc0b871ff65",
+    "data": [
+      {
+        "text": "Is working at a homeless shelter high risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73c9bbb9-01c8-4e90-b0bb-d41a8ea46bab",
+    "data": [
+      {
+        "text": "I am trying to relate a question and a concern to the health minister.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1a75a7a5-dc19-43aa-a179-cee220b2762f",
+    "data": [
+      {
+        "text": "general covid questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f5cd7c5-f8ca-44da-aca0-ea91653f18af",
+    "data": [
+      {
+        "text": "is corona gonna kill all of us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8400478-1e9d-47bd-8f1f-154086b39588",
+    "data": [
+      {
+        "text": "My neighbour works at the Mission prison where there has been a major out break who do you contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "539341d8-c582-423f-adfb-d1ac6ab7e22a",
+    "data": [
+      {
+        "text": "Shouldn’t a health care person such as a chiropractor or physiotherapist wear a gown when treating patients as they lean on people?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0e24d3c-fa80-40eb-9440-3a3e57b9e5a8",
+    "data": [
+      {
+        "text": "But im scared they always assest covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2b8fbb9e-b9cc-4883-9d4b-692327015c50",
+    "data": [
+      {
+        "text": "It’s not in that website.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d670cdc9-c6ff-4d15-95d1-eb692fc405ff",
+    "data": [
+      {
+        "text": "This is a waste of taxpayers money.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3cb3ecf-1a7d-4786-b074-5d08c0541bed",
+    "data": [
+      {
+        "text": "Are Placer claims closed down at this time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2ae132c-2283-4af7-9465-03cfaef9da84",
+    "data": [
+      {
+        "text": "I live in a van.  If a total shelter in place is called  could I park at the Topaz park parking lot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "475d0bdd-f4be-4649-97f9-6668e0c30e41",
+    "data": [
+      {
+        "text": "This is not an emergency so I am reluctant to bother the ",
+        "userDefined": false
+      },
+      {
+        "text": "811",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " nurse.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7819aedf-3253-4fb7-a1b0-f8fb6cffec66",
+    "data": [
+      {
+        "text": "?help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "abc7b1ec-4f01-48f3-81e8-70bc8a3424e6",
+    "data": [
+      {
+        "text": "What is the phone number to ask questions about covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9338b351-f4d4-4da1-9327-3337e09e51db",
+    "data": [
+      {
+        "text": "What is the covid-",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99c17210-81cb-4bc8-8be0-e49c445a3cc8",
+    "data": [
+      {
+        "text": "Why have stores shut down their bulk water dispensers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eec1f97a-268e-4b61-8342-ba1be0934358",
+    "data": [
+      {
+        "text": "hello I have a client that is a manufacturer in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": ".  They wish to send PPE to ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ".  Is there an official process they go through so it is inspected and assigned to appropriate medical facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df91e56c-0b4d-4705-9a52-886cbbf946ba",
+    "data": [
+      {
+        "text": "thank you but they want to donate PPE not finances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50eb09b3-e3f2-459e-ba1b-369438c01ee0",
+    "data": [
+      {
+        "text": "I have PPE to donate  not money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8329cbc4-073e-412a-9323-51c893694f0c",
+    "data": [
+      {
+        "text": "Has GST annual rebates for low income seniors been increased?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09582b7f-3e43-4dbf-9292-5fd5c1c84f2d",
+    "data": [
+      {
+        "text": "I have joint custody of my daughter and am wondering if it is safer for her to just stay with ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of her parents during the COVID social distancing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "11f515c8-0ddd-4ebd-9b9a-232d2ef46576",
+    "data": [
+      {
+        "text": "Looking for support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aca0a83d-ba09-4291-bb16-2ab7d51d19fe",
+    "data": [
+      {
+        "text": "can I accept packages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2954d5d-f250-40ee-8b22-84b403a8d8e2",
+    "data": [
+      {
+        "text": "cardboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f34fce78-8642-498c-aaf2-4072dc89f891",
+    "data": [
+      {
+        "text": "why are the hospitals empty and vital surgeries cancelled when there are no patients in the hospitals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c199419-5380-47b9-bfab-98de645ad042",
+    "data": [
+      {
+        "text": "Why are vital surgeries cancelled when the hospitals are empty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c9ec746-b525-4aba-8b8a-338b4e0b46cd",
+    "data": [
+      {
+        "text": "I share custody of my ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " year old daughter.  Is it ok for shared custody to continue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69a77565-40ad-4f8a-9685-19fa98368a1e",
+    "data": [
+      {
+        "text": "What information do you provide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4b6f9a1-7b5b-4760-a16d-cbade3d0f734",
+    "data": [
+      {
+        "text": "Will this end in July?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9dea5f5-db2d-48c0-b103-76439ca39641",
+    "data": [
+      {
+        "text": "Shared custody agreements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7479ce1c-2a69-4f69-aad5-5510ab929b24",
+    "data": [
+      {
+        "text": "I want to know what to do if I live alone. I am stuck by myself and I\u0027m worried about getting sick or being too lonely.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da2a2e60-7f34-4186-abf2-42c408e7e193",
+    "data": [
+      {
+        "text": "parentin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2903f2e-6350-4f51-b105-f4a4a830c2ff",
+    "data": [
+      {
+        "text": "*parenting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f896a83-0dae-4f79-b127-2624cec3afc8",
+    "data": [
+      {
+        "text": "I would like guidance for co-parenting and transitioning children back and forth between houses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "defb3c83-cd6b-4458-be36-5bbe4cd94296",
+    "data": [
+      {
+        "text": "Dual custody during pandemic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f35da1ff-cae4-4c6c-b3b8-a2dc31885f44",
+    "data": [
+      {
+        "text": "Should children go back and forth between parents houses during pandemic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "142acacb-c116-4d4b-b61c-cc62dfbe02f8",
+    "data": [
+      {
+        "text": "I would like to know if the virus dies when the host dies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "202e3948-649a-4652-9656-bf1ebb84bfce",
+    "data": [
+      {
+        "text": "I don\u0027t want to know who is vulnerable, I just want to k ow if the virus dies when the person dies. If it doesn\u0027t die does that put funeral workers at risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a984f1a-2c47-46db-b7eb-21d6b3ab3190",
+    "data": [
+      {
+        "text": "where can I get info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe82ca7a-4502-40ed-bfb9-da8033631b63",
+    "data": [
+      {
+        "text": "How long until normal again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9670f6dc-75a3-4bc3-8625-9d8de9432354",
+    "data": [
+      {
+        "text": "I am in quarantine and someone, whom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69e72069-63f7-437d-b672-1e73019c27a2",
+    "data": [
+      {
+        "text": "what prrof is there that a lcokdown works vbersus no lockdown?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47003d17-ac15-4715-a72a-7dda4fb651e0",
+    "data": [
+      {
+        "text": "What are the rules and guidelines on physical exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e01ec15-3cd6-44a6-9408-ac613e6a3983",
+    "data": [
+      {
+        "text": "Are ophthalmologists still open for non-emergency appointments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd9989b6-d457-4e25-9381-385acf69ca66",
+    "data": [
+      {
+        "text": "Are eye specialists open for non-emergency appointments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01910fd4-cc59-49b6-a15b-2bbab7a17c0b",
+    "data": [
+      {
+        "text": "Ophthalmologist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d90cef21-6bcf-4366-92e3-20bfe2eeb38b",
+    "data": [
+      {
+        "text": "Willi get a ticket for carpooling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "866ede01-1b02-4f2b-bc67-bf813199de1b",
+    "data": [
+      {
+        "text": "I don’t have insurance, can I get help treating the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dd79ebd-106b-47e4-a0f1-59fbb1297c27",
+    "data": [
+      {
+        "text": "Should I worry about delivery contaminated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11e08b5c-c4f6-4942-92d2-142ba56e5f4a",
+    "data": [
+      {
+        "text": "should i eat a vegetarian diet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ada30433-a140-470e-a3aa-59073d415404",
+    "data": [
+      {
+        "text": "if I already had corona virus am I now immune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67317bc4-0b8e-4a35-8530-3897d5b5bb36",
+    "data": [
+      {
+        "text": "how do I know if you\u0027re immune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30e56806-0892-4b12-9e0f-40aa7132144a",
+    "data": [
+      {
+        "text": "How long are we going to be in isolation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e823210c-180f-40be-bf40-3f6d85474816",
+    "data": [
+      {
+        "text": "are grocery stores going to shut down?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8dba4cf-944f-4efd-b7d4-4abd5e4ea169",
+    "data": [
+      {
+        "text": "a lot of food workers are out of work right now. How can I support them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8f9d7e3-f33a-42ff-a7a7-3a6a278b174d",
+    "data": [
+      {
+        "text": "where do i go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc0b72a8-021d-4fdf-9423-ccb05dce893d",
+    "data": [
+      {
+        "text": "What is happening with the banks right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "270a07e2-bb6a-4bd3-be95-c9eabe37e31b",
+    "data": [
+      {
+        "text": "Can I get COVID twice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "429b4a8a-63d1-4f95-8191-fe837db260b4",
+    "data": [
+      {
+        "text": "Will COVID have long lasting affects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2318dda-3eb6-4291-abd6-edfa79d8da2b",
+    "data": [
+      {
+        "text": "can i talk to a human?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd054b05-ad6f-40e2-9ea4-735f3125081d",
+    "data": [
+      {
+        "text": "how can i teach my kids long division?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6be96649-4212-41d3-a1bd-5f1394f157cd",
+    "data": [
+      {
+        "text": "Can you provide me with COVID info?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0de71f23-2bb8-448c-967f-07db4451da63",
+    "data": [
+      {
+        "text": "who can help with my groceries if I cant go out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e02e6224-a81f-4749-87cf-901536f8d615",
+    "data": [
+      {
+        "text": "who can help with my groceries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b623e0f2-3777-4fa9-a969-0194c3f9ac1a",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5ccc4bda-556c-4355-b1be-2a9b3d2e377b",
+    "data": [
+      {
+        "text": "who can answer my questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2f8530d1-ff76-438b-af7f-395dd738436f",
+    "data": [
+      {
+        "text": "I am a senior where can I get help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dfadb9c7-c78d-407d-99f4-ec660a13ebcf",
+    "data": [
+      {
+        "text": "where can i get non health information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1d29633-42d5-47ea-9037-3f435ccd13dd",
+    "data": [
+      {
+        "text": "I want to talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eee92d02-81b5-44bc-a239-76eda847f871",
+    "data": [
+      {
+        "text": "I need to talk to a persin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "959758c7-cf57-4464-a4b7-aa1f2b5797e8",
+    "data": [
+      {
+        "text": "how can I talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3499efc-a120-43fd-818a-9131a982281a",
+    "data": [
+      {
+        "text": "does garlic protect you from the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e80486df-b740-47b4-bf3d-10f76050a71c",
+    "data": [
+      {
+        "text": "Can you get covid from your car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9af94f5-6062-4a6a-bb1c-71a339c664fe",
+    "data": [
+      {
+        "text": "Can I get covid from my car?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fe96b50-41f4-46c4-a5dd-f9f8e6eafdb5",
+    "data": [
+      {
+        "text": "who can give me info not about health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79c1128a-f0a3-4220-9888-00cb84fb9a60",
+    "data": [
+      {
+        "text": "How much food should I stock up on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1a9c04b4-e568-428a-bf13-c827a1f04b2c",
+    "data": [
+      {
+        "text": "Can I breastfeed my baby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "695545b0-eb99-4e6a-a205-321bdca087e2",
+    "data": [
+      {
+        "text": "Are you going to find anything for me on the BCCDC website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ddae8234-a923-49f9-87ce-7f100182f347",
+    "data": [
+      {
+        "text": "where can I find hospital hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbedf3eb-b824-49a7-9b19-49b04e921b69",
+    "data": [
+      {
+        "text": "can i donate blood during covid-19 crisis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc8f9b41-82e1-48ca-a3fb-3c2e692e0c45",
+    "data": [
+      {
+        "text": "where can i donate blood during covid-19 crisis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "240af8e7-50cf-4f59-a56d-c7838de21040",
+    "data": [
+      {
+        "text": "how do i get some assistance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "17a29bfb-6971-49aa-8b2d-218d7a7fdaf7",
+    "data": [
+      {
+        "text": "is there a phone number I can call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a6b1eed-3782-4a39-ab80-6e706129045e",
+    "data": [
+      {
+        "text": "Where do I go for help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1013f35-28e6-4bc2-86e9-0b3f151d0eb1",
+    "data": [
+      {
+        "text": "Where can I call for more information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc9ad7e2-7ba9-4bfc-a5c0-b70da99d6045",
+    "data": [
+      {
+        "text": "What number can I call for help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3f76ce9-d064-4bc6-9a55-50068f01a7a9",
+    "data": [
+      {
+        "text": "Who can I call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

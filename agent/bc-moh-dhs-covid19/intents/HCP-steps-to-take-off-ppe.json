@@ -1,0 +1,67 @@
+{
+  "id": "b9c80817-65d4-4a99-a9e7-8c4295702ca0",
+  "name": "HCP-steps-to-take-off-ppe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1bfad184-ecc2-4539-b577-39d35f66df43",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4ac4bf69-742a-4f15-8f61-fdb653fe57a6",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eFor Health Professionals\u003c/b\u003e: To remove PPE: \n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e.Gloves – Remember, the outside of gloves are contaminated. Grasp palm area of one gloved hand and peel off first glove. Slide fingers of hand under other glove at wrist and peel off. Discard in regular waste. \u003c/li\u003e\n\u003cli\u003e2.Perform hand hygiene – Clean all surfaces of hands and wrists.\u003c/li\u003e\n\u003cli\u003e3.Gown – Unfasten ties, pull gown away from neck and shoulders, touching ONLY the inside of the gown. Turn gown inside out and roll into a bundle. Discard in regular garbage.\u003c/li\u003e\n\u003cli\u003e 4.Perform hand hygiene – Clean all surfaces of hands and wrists.\u003c/li\u003e\n\u003cli\u003e5.Goggles or face shield – Do NOT touch the front of them. Discard in regular garbage or put in receptacle for reprocessing.\u003c/li\u003e\n\u003cli\u003e6.Perform hand hygiene – Clean all surfaces of hands and wrists.\u003c/li\u003e \u003cli\u003e7.Surgical/procedure mask – Grasp ties or elastics at back and remove WITHOUT touching the front. Discard in regular garbage. \u003c/li\u003e\n\u003cli\u003e8.Perform hand hygiene – Clean all surfaces of hands and wrists. \u003c/li\u003e\n\u003cli\u003e9.Exit room – AFTER cleaning all surfaces of hands, exit room.\u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4e4b8f2e-0891-4ede-ab19-4b0e3a590c6d",
+  "name": "Common-Q-Laundry-clothes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you are sick, have someone sick in your home, and/or are self-isolating you need to wash your laundry thoroughly:\n\u003cul\u003e\n\u003cli\u003eContaminated laundry should be placed in a laundry basket with a plastic liner.\u003c/li\u003e\n\u003cli\u003eWear gloves and mask when handling.\u003c/li\u003e\n\u003cli\u003eWash with regular laundry soap and hot water (60-90°C)\u003c/li\u003e\n\u003cli\u003eClean your hands with soap and water immediately after removing your gloves. \u003c/li\u003e\n\u003c/ul\u003e\nIf you are not ill you should continue to practice physical distancing and be sure to clean and disinfect frequently touched objects, material and surfaces",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

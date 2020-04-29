@@ -1,0 +1,192 @@
+[
+  {
+    "id": "0fdb0093-5e21-4968-8a87-08841877a75a",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " single people start to cohabitate at this point in the outbreak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51b222fc-9066-4b84-ae28-6295cdca5fa5",
+    "data": [
+      {
+        "text": "Multi residential recommendations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89d04b3f-568f-4566-b6cd-1781a5e94a46",
+    "data": [
+      {
+        "text": "what are the recommendations for children on a shared household playing together out side",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94da9cb9-338b-4a22-a6c9-0da16d9dbd68",
+    "data": [
+      {
+        "text": "close contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff517dbe-38e2-4794-89eb-b1e2798f6fb9",
+    "data": [
+      {
+        "text": "Must couples that do not live together be isolated from each other?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e638417-7f5e-47ec-8c1e-556159e0b512",
+    "data": [
+      {
+        "text": "can people living in the same condo as me infect me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aadbad8b-c3c9-4895-9029-1575e2ebbe6c",
+    "data": [
+      {
+        "text": "I live with room mates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb4d3dd6-816c-4c77-b593-743995631dc4",
+    "data": [
+      {
+        "text": "i live with people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c862889f-50e4-4123-ae7d-fc04685cfb6a",
+    "data": [
+      {
+        "text": "I share an appartment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54e2844f-e457-4a1e-acd4-0de4ad05931c",
+    "data": [
+      {
+        "text": "how do I live safely with my roommate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fafddf8-f6a0-40c9-ab19-8e829f96e3c8",
+    "data": [
+      {
+        "text": "I share an appartment is it ok to be together",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d000f3fb-9836-41b6-b850-9102432fa912",
+    "data": [
+      {
+        "text": "do I have to move away from my roommate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415a747e-d539-4a55-a73b-0526700d8d96",
+    "data": [
+      {
+        "text": "do I have to move away from my family",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0e11f8c-fee0-49ce-9027-5bed956ec228",
+    "data": [
+      {
+        "text": "I live in a shared residence what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a56e1aa-d2ab-4e70-8b8e-55fa07958192",
+    "data": [
+      {
+        "text": "I live in an apartment what do I do to be safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

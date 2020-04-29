@@ -1,0 +1,42 @@
+{
+  "id": "3a6c32f2-8619-40df-8b46-6d7d7d25740c",
+  "name": "how-to-prepare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Plan ahead and take time to consider what you will do if you or a family member becomes sick and needs care. Have supplies on hand so you do not need to leave your home if you become ill. Think about:\n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003eWhat food and household supplies you need for you and your family\u003c/li\u003e\n\u003cli\u003eWhat medicines you need, including renewing and refilling prescriptions ahead of time\u003c/li\u003e\n\u003cli\u003eDiscuss your plans with your family, friends and neighbors, and set up a system to check in on each other by phone, email or text during times of need.\u003c/li\u003e\n\u003c/ul\u003e\nLearn more about how you can prepare here: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html?topic\u003dtilelink",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

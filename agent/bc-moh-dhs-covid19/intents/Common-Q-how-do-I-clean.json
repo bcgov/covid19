@@ -1,0 +1,67 @@
+{
+  "id": "435702cb-cbac-4863-bd3c-37357e86e581",
+  "name": "Common-Q-how-do-I-clean",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7c316384-8658-441c-903e-f50c42ada456",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5db580c6-471d-4c9f-a8bb-0c7590663ee1",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "If you live in a household with someone who is sick or who has COVID-19 it is important to clean and disinfect common areas regularly. \n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003eFor cleaning, water and detergent (e.g., liquid dishwashing soap) or common household cleaning wipes should be used. \u003c/li\u003e\n\u003cli\u003eApply firm pressure while cleaning. \u003c/li\u003e\n\u003cli\u003eSurfaces should be cleaned at least once a day. \u003c/li\u003e\n\u003cli\u003eNext, use a store bought disinfectant or diluted bleach solution, one part bleach to 50 parts water (20ml of bleach to 1 litre of water), and allow the surface to remain wet for one minute. \u003c/li\u003e\n\u003cli\u003eClean surfaces that are touched often (e.g., counters, table tops, doorknobs, toilets, sinks, taps, etc.) at least twice a day.\u003c/li\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

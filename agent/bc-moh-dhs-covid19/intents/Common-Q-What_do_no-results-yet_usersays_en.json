@@ -1,0 +1,132 @@
+[
+  {
+    "id": "036eb94d-2d54-41e1-8b97-6284e0ec0ab6",
+    "data": [
+      {
+        "text": "what to do when I have been swabbed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bcd3be6-d24b-4bae-9484-8b9362def01d",
+    "data": [
+      {
+        "text": "what to do when I was swabbed and need to find out results from home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b8aa1b2-1bec-4fd3-a1ea-d3e1b88d184f",
+    "data": [
+      {
+        "text": "I got testing at hospital yesterday for covid virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4749e8be-5623-403e-b8da-bf8bdc8beee1",
+    "data": [
+      {
+        "text": "this resident is for dialysis ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " AM Sotheby’s renal clinic needs to know results prior to our facility sending her.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "115b0a56-6bcb-42ae-b902-744b5e18307a",
+    "data": [
+      {
+        "text": "I was tested but dont have my results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28e8c8ea-9abc-470c-a9bf-829a19b9a0d4",
+    "data": [
+      {
+        "text": "what do I do before my test results come back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6d1b7ad-337c-4b26-916d-e19fca5ba0f3",
+    "data": [
+      {
+        "text": "quarantine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1818364-8367-40ca-86d9-4ae7e209c9fa",
+    "data": [
+      {
+        "text": "I don\u0027t have my test result yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d89825ae-ab26-443f-a160-f79986ad1150",
+    "data": [
+      {
+        "text": "I have been tested what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48614ecc-5ff8-4b41-9608-9ea75a74700a",
+    "data": [
+      {
+        "text": "What do I do after I get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

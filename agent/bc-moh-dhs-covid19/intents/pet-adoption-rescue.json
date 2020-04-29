@@ -1,0 +1,67 @@
+{
+  "id": "b02a7a0c-6490-4c64-9fe0-51d6195ef906",
+  "name": "pet-adoption-rescue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "82cafdd6-1fc9-4222-a214-d526deff89c5",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "43279a8a-cfcd-4d8c-acba-eaa076f5c2db",
+          "required": false,
+          "dataType": "@pet",
+          "name": "pet",
+          "value": "$pet",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "There is no evidence that imported pets or other domestic animals can spread the virus to humans. This situation is being monitored very closely and any new information on the risk from imported animals will be updated as it becomes available. However, until we know more, importers, rescue organizations and adoptive families should avoid importing animals from areas where COVID-19 is circulating. If animals are imported from affected areas, they should be closely monitored for signs of illness. If your pet has been imported from an affected area and becomes sick, contact your veterinarian and inform them of the situation. Call ahead to ensure they are aware of the circumstances before taking your pet to a veterinary clinic.\n\u003cbr\u003e\u003cbr\u003e\nFor more information on pets and COVID-19 please refer to: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/prevention-risks/pets",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

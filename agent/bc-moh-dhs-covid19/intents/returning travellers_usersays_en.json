@@ -1,0 +1,789 @@
+[
+  {
+    "id": "559231eb-43b6-4a1b-b8de-d3a799e054e6",
+    "data": [
+      {
+        "text": "Can you give me a phone number where I can ask about quarantine for travellers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "913d3cec-d071-44f2-87f5-4373f5509ed2",
+    "data": [
+      {
+        "text": "If a family member visits from another province, how long do they isolate ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9839e326-bb92-4a95-8689-2948e2b310a5",
+    "data": [
+      {
+        "text": "Hi I was wondering what are the rules for someone who has family members that are returning back to ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " but have no symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "081dadb1-2bf8-447a-9bf8-94a5ff98fd27",
+    "data": [
+      {
+        "text": "How do I get home from YVR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c54a2972-0e1c-4353-b9bb-1ca50ee3262e",
+    "data": [
+      {
+        "text": "Transportation from YVR to my home.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7faec1ea-47b3-4162-b41a-ff073e2908c4",
+    "data": [
+      {
+        "text": "Travelling back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3e0901a-ed6a-4102-8dd6-f6621314064d",
+    "data": [
+      {
+        "text": "hi im in bc triing to go home to nwt but i cannot find the forms to fill out and submit ???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59428af6-e958-4449-983c-b3d279799df5",
+    "data": [
+      {
+        "text": "Hi! We are in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " now and we were in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cambodia",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2 weeks",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " ago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15d539e6-a60f-4b83-8f76-0afa4db6e35e",
+    "data": [
+      {
+        "text": "Can we see a friend? Because he will be at the airport ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". He arrives from ",
+        "userDefined": false
+      },
+      {
+        "text": "Montreal",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ". He wants to share an appartment with us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fd8a84c-fd7c-43bb-9560-930a8fc2fb6f",
+    "data": [
+      {
+        "text": "Arrive ",
+        "userDefined": false
+      },
+      {
+        "text": "April 21 @ 8:00 PM.",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ?how to travel to Victoria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80d86497-0690-4416-b28c-df5d63dbd172",
+    "data": [
+      {
+        "text": "If I am a registered nurse who lives in Ontario and I am coming to work in BC, do I have to self-isolate for ",
+        "userDefined": false
+      },
+      {
+        "text": "14 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " before I start to work in BC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3a6c807-a16f-4071-87af-3c7d612563ee",
+    "data": [
+      {
+        "text": "Is there a form for self isolation plan for returning travellers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc3e16ab-6a8a-4c1a-8302-096672df9da7",
+    "data": [
+      {
+        "text": "My husband is coming home from working in the Yukon. Does he have to self quarantine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50bb3054-3c92-4be5-a34b-e70282f558fe",
+    "data": [
+      {
+        "text": "Hello! Can you please tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "2 week",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " quarantine after travelling into ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5331bb89-d8aa-4b64-9a93-782b09ae5154",
+    "data": [
+      {
+        "text": "2 weeks",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " quarantine after travel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22e10741-f86e-44a1-ae28-539659f58c3d",
+    "data": [
+      {
+        "text": "When one person\u0027s returns from ",
+        "userDefined": false
+      },
+      {
+        "text": "U.S.A.",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " is the rest of the household put in quarantine as well?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc058a1d-2058-4a9d-bbce-2fdce326fd61",
+    "data": [
+      {
+        "text": "can my brother come here from ",
+        "userDefined": false
+      },
+      {
+        "text": "spain",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1a924eb-e683-4d9f-9ed3-09b160b17586",
+    "data": [
+      {
+        "text": "do travellers need to isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5000e028-a95f-4fe6-83a7-be0bbbeee5d1",
+    "data": [
+      {
+        "text": "I have a family member living in a socially isolated home in Calgary who will be coming to stay at my socially isolated home in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chilliwack",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ".  Do they need to quarantine upon arrival?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96ce926d-7191-406b-b50b-edb1fcb942c8",
+    "data": [
+      {
+        "text": "I was travelling internationally",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56c80966-6bce-41b6-8735-d9a52875d810",
+    "data": [
+      {
+        "text": "do I have to self isolate after travelling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57c268ab-1c52-4c1e-8a7d-4f422896359c",
+    "data": [
+      {
+        "text": "I was in ",
+        "userDefined": false
+      },
+      {
+        "text": "rome",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c29c5d26-a9a7-40a4-b8ce-3ff266cc8390",
+    "data": [
+      {
+        "text": "I just returned to canada. How long do I have to stay at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2893ee5b-d701-4509-8081-d4d33855bfbe",
+    "data": [
+      {
+        "text": "I flew from Calgary to Victoria on ",
+        "userDefined": false
+      },
+      {
+        "text": "April 8.",
+        "alias": "date-time1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1621584-4ff3-4448-bc38-d449b3b8cc38",
+    "data": [
+      {
+        "text": "I am landing in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Montreal",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e16a6893-0bf5-4dc3-aa28-87648f06c549",
+    "data": [
+      {
+        "text": "what advices for people who recently traveled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c710b42-e3c3-40ec-94c1-7727f73a503e",
+    "data": [
+      {
+        "text": "my neighbour was traveling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "50d5a8a3-f20b-4c38-bd2d-b5ca088b5535",
+    "data": [
+      {
+        "text": "i have been in ",
+        "userDefined": false
+      },
+      {
+        "text": "rome",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbe8a9e3-a745-4da5-ba0a-77eb89e0c104",
+    "data": [
+      {
+        "text": "How do I know if someone had covid on a plane",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8f3e4a6-9a10-4cec-97fe-afeee342b1e9",
+    "data": [
+      {
+        "text": "How do I know if my flight was exposed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20d661a4-7a78-4068-981b-bff1ca2177d4",
+    "data": [
+      {
+        "text": "How do I know if a flight was affected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df3f4914-abfd-4a5c-b82f-a52e993ef534",
+    "data": [
+      {
+        "text": "Can I go on a cruise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90add850-4307-4460-8261-9f617d2585ac",
+    "data": [
+      {
+        "text": "What do I do if I am just back from a trip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a0a9f34-f1f2-4160-bdc6-829e13d77736",
+    "data": [
+      {
+        "text": "Where do I register if I was traveling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "931a04c8-2f01-4bde-88f5-b3dc83110416",
+    "data": [
+      {
+        "text": "Do I have to register if I was traveling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dae6c2d5-ec16-4ffa-822d-deac90e1d76a",
+    "data": [
+      {
+        "text": "I just came home from Hawaii",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb3d1c89-583e-4e06-ab2d-d1cf76519386",
+    "data": [
+      {
+        "text": "I just returned to Canada from ",
+        "userDefined": false
+      },
+      {
+        "text": "Italy",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "729b258f-5db2-4f08-82c7-3a76cedac69c",
+    "data": [
+      {
+        "text": "It has been 14 days can I go out again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06a3129a-2d77-4889-934a-f09dbf6d7e78",
+    "data": [
+      {
+        "text": "it\u0027s been ",
+        "userDefined": false
+      },
+      {
+        "text": "14 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": ", can I go out again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5d612a7f-8aa9-411d-a858-314b623b68a3",
+    "data": [
+      {
+        "text": "It has been ",
+        "userDefined": false
+      },
+      {
+        "text": "14 days",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " can I go out again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0e93d60-8e33-45db-90eb-33f69b561281",
+    "data": [
+      {
+        "text": "I’ve just returned from out of country.  What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8acd594-dbbc-4688-aa3b-3c92e1af75f8",
+    "data": [
+      {
+        "text": "I am returning from the ",
+        "userDefined": false
+      },
+      {
+        "text": "UK",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " - do I need to do anything special?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68f43d16-f403-4161-b47c-8f78348d74da",
+    "data": [
+      {
+        "text": "i just got home from US",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eadc99a9-c4ef-4ccb-919c-b2092719964a",
+    "data": [
+      {
+        "text": "i just got home from us what do i do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06e6d2c4-4cb3-4c82-b4d5-d4de0a2230a5",
+    "data": [
+      {
+        "text": "what is quarantine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "54f42e10-a646-43ea-abf8-fe490653df75",
+    "data": [
+      {
+        "text": "how long should I isolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f3cf296-266f-4938-b1f9-ae589d559b7a",
+    "data": [
+      {
+        "text": "I am a returning traveller, should I self-isolate or stay home from public places?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d502bbd-c9be-4cdb-a31e-4a248d9024b3",
+    "data": [
+      {
+        "text": "I have been traveling - do I need to quarantine or self-isolate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

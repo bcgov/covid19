@@ -1,0 +1,91 @@
+{
+  "id": "ace1f28d-2a7c-415d-b1b3-99d4e4257411",
+  "name": "family member is sick",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b643ab2-3ca6-4bd8-94b7-88aae8a9c8e6",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dbf88b3d-c65b-469b-b543-958e5a5fb64f",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a03ffb70-2307-4410-bce2-41530d8802e1",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dc62af7f-1c9a-4230-8aba-1bbf057e1014",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid1",
+          "value": "$covid1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "People who live in the same household as a patient with respiratory symptoms are at higher risk of being exposed. If a person lives in the same household as a patient who tests positive for COVID-19, they will need to self-isolate for 14 days from the last time they were in close contact without appropriate personal protective equipment. Public health can advise individuals on their specific circumstances. \n\u003cbr\u003e\u003cbr\u003e\nWe are asking household contacts with respiratory symptoms who are not tested to self-monitor for respiratory symptoms.  As much as possible, household contacts should distance themselves from the patient (e.g. stay in separate rooms, sleep in separate beds and use separate bathrooms if possible). \n\u003cbr\u003e\u003cbr\u003e\nFor more details refer to the Government of Canada \u003ca href\u003d\"https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html\"\u003eSelf Isolation\u003c/a\u003e page.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

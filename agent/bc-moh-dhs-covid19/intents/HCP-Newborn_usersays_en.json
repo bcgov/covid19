@@ -1,0 +1,224 @@
+[
+  {
+    "id": "7e7d7925-f752-4e0e-8197-98566dbbf869",
+    "data": [
+      {
+        "text": "newborns ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efa4654d-ad0a-4357-b48c-e06ded1588e9",
+    "data": [
+      {
+        "text": "clinical care for newborns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d10046-ba7d-437b-b4ac-5d866bd05d65",
+    "data": [
+      {
+        "text": "newborns ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " lactation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a204b1b-05a1-4226-bb28-bb037b3a9c33",
+    "data": [
+      {
+        "text": "newborn resuscitation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7693927c-b1f0-4080-a97f-cefbb0b520b6",
+    "data": [
+      {
+        "text": "newborn care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fd3d234-c5e6-45d5-916b-3ebca3d0bd6b",
+    "data": [
+      {
+        "text": "guidance for newborn care, resuscitation procedures and lactation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b4caed8-ccf7-4918-ae15-1c838879ca77",
+    "data": [
+      {
+        "text": "clinical care for infants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9458e4b-ef9b-4250-8c5a-e4d2f65ccee4",
+    "data": [
+      {
+        "text": "newborn clinical care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e26d1a3c-c74d-475d-a558-d5af086aa62a",
+    "data": [
+      {
+        "text": "what protection ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " care needed for newborns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ff0dfb1-9da8-406b-9541-c69acc36be00",
+    "data": [
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " newborns ",
+        "userDefined": false
+      },
+      {
+        "text": "at",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " risk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07891316-984d-44d0-b1dd-9fd019ade6af",
+    "data": [
+      {
+        "text": "guidance for newborns ",
+        "userDefined": false
+      },
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "768fe4ea-16d6-43b4-ba2e-f31740a61a9f",
+    "data": [
+      {
+        "text": "what care ",
+        "userDefined": false
+      },
+      {
+        "text": "is",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " needed for newborns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

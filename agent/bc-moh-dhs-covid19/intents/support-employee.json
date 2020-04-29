@@ -1,0 +1,31 @@
+{
+  "id": "faec46b6-db87-43a1-9751-cdc1a98537bf",
+  "name": "support-employee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "For the most current information on current WorkSafeBC Information for employers and workers go to:\nhttps://www.worksafebc.com/en/about-us/covid-19-updates"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

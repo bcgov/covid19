@@ -1,0 +1,9 @@
+{
+  "id": "1a934483-67e8-4a74-8c13-0f94d82111ec",
+  "name": "MSP",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

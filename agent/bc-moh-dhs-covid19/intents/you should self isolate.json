@@ -1,0 +1,67 @@
+{
+  "id": "23830172-eaa1-4917-a6f7-1eefabb4a97d",
+  "name": "you should self isolate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "928db5fe-f848-48f7-8d7c-7f6770c22884",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f992bf13-bbb8-403c-a66a-68887c24ed9e",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "People who have been contacted by their regional health authority\u0027s public health team because they are \u003cb\u003e contacts of a confirmed case \u003c/b\u003e, meaning they have been or could have been exposed to the virus but do not have symptoms, are required to self-isolate.\n\u003cbr\u003e\u003cbr\u003e\nSelf-isolation means staying home and avoiding situations where you could come in contact with others. You may have been exposed to the virus and are at risk for developing COVID-19 and passing it on to others. You may not self-isolate in a place where you will be in contact with vulnerable people, such as seniors and individuals with underlying health conditions. \n\u003cbr\u003e\u003cbr\u003e\nGo to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation\" target\u003d_blank\u003eSelf Isolation\u003c/a\u003e  for more information on when and how to self isolate.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

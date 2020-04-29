@@ -1,0 +1,42 @@
+{
+  "id": "817f1d2d-a4c4-4a63-8717-934beb36fbac",
+  "name": "public-substance-use-homeless",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "We recognize that many of the public health messages being shared on COVID-19 are hard to practice when people are living outside, in a tent, in an SRO, or in a shelter. People who use drugs are already doing incredible work to keep communities safe and reduce the spread of infection. We need creative solutions to slow down the spread of COVID-19 and protect people who use drugs, have underlying health conditions, and/or may be elderly.  \n\u003cbr\u003e\u003cbr\u003e\nFor more information please refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/vulnerable-populations/people-who-use-substances\" target\u003d_blank\u003e Vulnerable Populations: People who use substances\u003c/a\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

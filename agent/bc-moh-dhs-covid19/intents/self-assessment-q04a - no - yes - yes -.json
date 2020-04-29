@@ -1,0 +1,65 @@
+{
+  "id": "bec383a6-3b2f-4cd5-be85-a5e116422104",
+  "parentId": "b3de2006-9414-4aac-8b8f-e78ff144ce8d",
+  "rootParentId": "ac67c934-7232-43e3-9e89-864d9b130b92",
+  "name": "self-assessment-q04a - no - yes - yes -",
+  "auto": true,
+  "contexts": [
+    "self-assessment-exit",
+    "self-assessment-q04a-no-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-yes.self-assessment-q03-yes-no.self-assessment-q03a-no-no.self-assessment-q04a-no-yes.self-assessment-q04a-no-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-exit",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eSelf\u003c/b\u003e-isolate for a minimum 10 days\n\u003cbr\u003e\n\u003cbr\u003e\nYou \u003cb\u003eDO NOT\u003c/b\u003e require a nurse assessment at this time\n\u003cbr\u003e\n\u003cbr\u003e\nCall 8-1-1 if symptoms worsen or change\n\u003cbr\u003e\n\u003cbr\u003e\nTesting is recommended - Refer to  \u003ca href\u003d\"http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/lab-testing\" target\u003d_blank\u003eCollection Centre Locator\u003c/a\u003e for a testing site near you.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

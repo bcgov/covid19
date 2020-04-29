@@ -1,0 +1,55 @@
+{
+  "id": "98cdd6ae-3d66-4531-9bae-74eb4741cf5b",
+  "name": "HCP-clinical-ppe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "13ea3af1-462b-4082-94f1-033292a7be8f",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003eHealth Care Professionals\u003c/b\u003e: Use contact and droplet precautions with a surgical mask and eye protection when collecting a nasopharyngeal or throat swab or sputum. A N95 respirator is recommended for aerosolizing procedures. \n\u003cbr\u003e\u003cbr\u003e\nInformation on Pandemic Personal Protective Equipment (PPE) can be found here: http://www.bccdc.ca/health-professionals/clinical-resources/covid-19-care/infection-control/personal-protective-equipment",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

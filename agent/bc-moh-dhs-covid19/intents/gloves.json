@@ -1,0 +1,56 @@
+{
+  "id": "9f0e8a0a-9a6a-415b-8088-f4f307bd7aaf",
+  "name": "gloves",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "65628b48-7cd1-4d44-a82d-6c1bbd7b3af9",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "1fbb7493-757a-46f6-a954-07bbbff5e973",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Frequent and proper handwashing is always encouraged as it is the best way of preventing all respiratory virus infections and other foodborne illnesses. If a food premises chooses to use gloves, employees must wash their hands thoroughly before putting on the gloves and change them regularly. Change the gloves before you handle money or credit card machines, and afterward. Wearing gloves does not reduce the need for hand washing. Even while wearing gloves, employees must avoid touching the face."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

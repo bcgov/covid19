@@ -1,0 +1,70 @@
+{
+  "id": "c688f358-f00d-42c1-ba87-d44ed24b1a61",
+  "parentId": "784b2b70-1270-4897-a4d5-0e7b6fb9b778",
+  "rootParentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "name": "self-assessment-q03",
+  "auto": true,
+  "contexts": [
+    "self-assessment-q02-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-q03-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Are you experiencing cold, flu or COVID-19-like symptoms, \u003cb\u003eeven mild ones\u003c/b\u003e?Symptoms include:\n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003eFever\n\u003cli\u003eChills\n\u003cli\u003eCough\n\u003cli\u003eShortness of breath\n\u003cli\u003eSore throat and painful swallowing\n\u003cli\u003eStuffy or runny nose\n\u003cli\u003eLoss of sense of smell\n\u003cli\u003e Headache\n\u003cli\u003e Muscle aches\n\u003cli\u003e Fatigue\n\u003cli\u003e Loss of appetite?\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No, none of these"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

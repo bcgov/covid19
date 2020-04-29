@@ -1,0 +1,71 @@
+{
+  "id": "cea87a06-727d-486b-8d7f-e476ff5aed33",
+  "name": "Easter Bunny",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7d154142-3304-4ffe-86a8-282985419b84",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f5da5a0f-8e5a-4afe-a717-30ca9c8aa968",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fb702743-fa22-420f-979a-1f8791e4e986",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "The Easter Bunny will be allowed to break the COVID-19 rules this weekend while everyone else is bending the curve.\nPremier John Horgan has authorized a \u003ca href\u003d\"https://globalnews.ca/news/6794680/easter-bunny-eggsemption-coronavirus/\" target\u003d_blank\u003especial essential service “eggs-emption”\u003c/a\u003e for the Easter Bunny to enter people’s homes and break physical-distancing rules to deliver Easter chocolates across the province.",
+          "ssml": "",
+          "displayText": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

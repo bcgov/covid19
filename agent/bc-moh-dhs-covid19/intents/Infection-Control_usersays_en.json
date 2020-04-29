@@ -1,0 +1,136 @@
+[
+  {
+    "id": "72f7e8f3-24b6-47d6-9220-721b9a85aee9",
+    "data": [
+      {
+        "text": "environmental servive protective equipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "005d5207-a162-479f-9a00-c1bc59c405ae",
+    "data": [
+      {
+        "text": "PPE for environmental services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "683f6a7a-4494-4b05-8b12-8144f8dbda33",
+    "data": [
+      {
+        "text": "info for environmental workers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6813734e-8c25-414c-b1ba-0427ba283116",
+    "data": [
+      {
+        "text": "environmental service staff protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a45fbe9b-0f16-4f0f-b207-d8b3eee5504a",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I locate ",
+        "userDefined": false
+      },
+      {
+        "text": "infection",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " control information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d04b7454-ac5c-4e9f-bc7d-a9c5e43ebe37",
+    "data": [
+      {
+        "text": "Infection",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " control for environmental workers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01c6a0e1-8c64-4e56-9b79-353b54357d8c",
+    "data": [
+      {
+        "text": "Infection",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " control",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5f4b7c4-270c-4172-a309-57d230b12f27",
+    "data": [
+      {
+        "text": "Infection",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " control info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

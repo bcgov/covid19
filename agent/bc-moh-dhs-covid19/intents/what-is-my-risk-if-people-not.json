@@ -1,0 +1,44 @@
+{
+  "id": "c1c4e821-4968-4e23-8555-869fa742ca7b",
+  "name": "what-is-my-risk-if-people-not",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b59cd4c3-e426-41ad-ac9b-3eb53aa6afd6",
+          "required": false,
+          "dataType": "@person-nouns",
+          "name": "person-nouns",
+          "value": "$person-nouns",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "At this time, international travellers, close contacts of a COVID-19 case or a COVID-19 case are all required to self-isolate. All of these groups will have been told to self-isolate either by Canadian Border Services or Public Health. Self-isolation is required under either the Emergency Order under the Quarantine Act  or B.C.’s Public Health Act. At this time, all of us have a role to play to slow the spread of COVID-19 and reduce the risk for vulnerable populations in our communities. Ways we can all reduce our risk of COVID-19 are to stay at home as much as possible and stay at home if you are sick. If going out in public, in addition to physical distancing, the most important thing you can do to prevent infection is to wash your hands regularly and avoid touching your face."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

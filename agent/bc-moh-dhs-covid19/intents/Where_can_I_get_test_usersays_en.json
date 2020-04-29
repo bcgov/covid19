@@ -1,0 +1,496 @@
+[
+  {
+    "id": "e4721fd0-88c0-42a7-b34b-c82e06a2ed00",
+    "data": [
+      {
+        "text": "How do I get tested if the self assessment says I should",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d74f0a0-7294-41ff-a1eb-839fa00e9c24",
+    "data": [
+      {
+        "text": "What is the correct address for the drive through testing by the U of M?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59a35700-715d-4c56-9774-0bcf738b91ba",
+    "data": [
+      {
+        "text": "I have consulted w/doctor.  He told me I needed rest to control the coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "314e1a0b-b030-4775-8be5-31e2c4e21e82",
+    "data": [
+      {
+        "text": "where can i be tested for covid-",
+        "userDefined": false
+      },
+      {
+        "text": "19 in",
+        "alias": "unit-length",
+        "meta": "@sys.unit-length",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nanaimo",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", bc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35145106-6584-4541-816c-79d6db16bbfa",
+    "data": [
+      {
+        "text": "Where can someone go to get tested in ",
+        "userDefined": false
+      },
+      {
+        "text": "Abbotsford",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "372030fe-1032-4d03-bff8-4438d8fa6823",
+    "data": [
+      {
+        "text": "British Columbia COVID-19 Collection Centres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e438abb-f2ee-4d10-888e-d14fdd828e68",
+    "data": [
+      {
+        "text": "is there a number that I can call to have a testing time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff791284-6921-4a1d-bdf9-c4e81b06eeb9",
+    "data": [
+      {
+        "text": "What hospitals in northern health are dedicated covid hospitals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff9c2836-afaf-410f-81b9-46649585211d",
+    "data": [
+      {
+        "text": "I need a virtual appointment for a doctor to issue a referral for testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "870751b6-b806-4e00-b534-7a61f03f155a",
+    "data": [
+      {
+        "text": "where can i get tested for covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df361afd-99fd-4ff5-979d-c86820f0e3fa",
+    "data": [
+      {
+        "text": "Where I can go to test covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81018220-7f3f-4d1b-802c-420023e5155f",
+    "data": [
+      {
+        "text": "Where and how to get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45c8d92b-12ed-4129-81cc-2c5a1172eb77",
+    "data": [
+      {
+        "text": "Is there a test to determine if a person has recovered from a suspected case of covid 19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42f567f2-bcb3-479d-a790-a1554f74f99f",
+    "data": [
+      {
+        "text": "How do I find out if I\u0027m immune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffd957a4-8adf-4b1d-bf1c-2fcc46361397",
+    "data": [
+      {
+        "text": "Are IgG tests available in ",
+        "userDefined": false
+      },
+      {
+        "text": "Victoria",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " BC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c136814-2805-487f-9e03-669772429d8a",
+    "data": [
+      {
+        "text": "where I can go for coronavirus tests?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3bc36e8-9cd8-416f-bc87-fe92c972d9d2",
+    "data": [
+      {
+        "text": "Hi how can I get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfbd1831-6766-4f80-97b5-5b3f8f29f4fb",
+    "data": [
+      {
+        "text": "Hello where are the test sites on ",
+        "userDefined": false
+      },
+      {
+        "text": "vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " island",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c81bea4f-8bdb-42ed-9da9-fc50001025a3",
+    "data": [
+      {
+        "text": "How can one get tested for COVID 19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2e17758-9d20-4444-941c-d2c20b28bd86",
+    "data": [
+      {
+        "text": "OK so to contact our family doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33f9c6fa-347c-4fb2-86c8-1f7ac2a729ee",
+    "data": [
+      {
+        "text": "For testing one should contact the family doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8ec1299-09e9-4ddf-b2dd-376123074feb",
+    "data": [
+      {
+        "text": "I just wanted if there were any test sites in ok valley",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71b66f1e-d82c-4118-a951-2896db8ef8f0",
+    "data": [
+      {
+        "text": "how do i get a test in new west?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cf70a9b-16fa-48bb-a1b6-3eccb87cdd56",
+    "data": [
+      {
+        "text": "who is eligible for covid19 testing in bc right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f26d0f4-5ec0-47ca-ae8b-844c752228f2",
+    "data": [
+      {
+        "text": "Antibodies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17be363a-0f85-478b-bd52-2af77779c787",
+    "data": [
+      {
+        "text": "Why are we not testing people with flu symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3b19b94-81af-482d-9cf9-5ef0062e00e6",
+    "data": [
+      {
+        "text": "when can I get a covid 19 test ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38b49a54-f5b4-4a36-975c-bdcf27b053a3",
+    "data": [
+      {
+        "text": "where can i buy a testing kit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf3dbf11-154f-4f27-b50f-48a908510cd5",
+    "data": [
+      {
+        "text": "Where are they testing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1eafae5b-1be3-44f9-8288-33832cb6d3bb",
+    "data": [
+      {
+        "text": "where can my mother get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a435d5a-4dce-4b67-952b-f286cc7749d3",
+    "data": [
+      {
+        "text": "Where can my family get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c991d20-c650-435e-a46e-544f07c809e7",
+    "data": [
+      {
+        "text": "Where can my grandfather get tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "82357221-f7d5-4df9-873e-08b2b0316adf",
+    "data": [
+      {
+        "text": "how do i get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bfd98de1-473e-4c83-8162-38885ef7e772",
+    "data": [
+      {
+        "text": "where do i get tested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3460ad6e-4812-4aab-b2a8-86c652b120c2",
+    "data": [
+      {
+        "text": "where can I get ppe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6e0f8359-5e6a-4194-a033-7092ed3b0349",
+    "data": [
+      {
+        "text": "Can you test for covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dd335ae-b69a-4a45-83bf-f1ce2983855e",
+    "data": [
+      {
+        "text": "Where can I get tested for COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

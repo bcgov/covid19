@@ -1,0 +1,336 @@
+[
+  {
+    "id": "dd5deb38-9b39-4d6b-8800-f73547215c01",
+    "data": [
+      {
+        "text": "Are there guidelines specific to a Stable, Businesses that provide for the health and welfare of ",
+        "userDefined": false
+      },
+      {
+        "text": "animals",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5da54fc2-8ebe-4950-848f-22ce6fc03f8d",
+    "data": [
+      {
+        "text": "how do I care for my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fc69503-cc0b-4d9e-b6c6-791ddd260c66",
+    "data": [
+      {
+        "text": "what can I do for my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " if I am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "353e44c6-0289-47ca-babe-ae021151a888",
+    "data": [
+      {
+        "text": "is my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " going to get sick if I am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf636ad6-c0d9-4690-8113-6f95b338879e",
+    "data": [
+      {
+        "text": "is my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " at risk if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f04749a-e56e-4230-8655-694170f124af",
+    "data": [
+      {
+        "text": "is there a risk to my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " if I am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27060359-5dd5-418e-bf3e-909be1baf01c",
+    "data": [
+      {
+        "text": "how do I keep my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " safe if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d18c8df-ae22-4aef-baf6-324a43677495",
+    "data": [
+      {
+        "text": "is there a way to keep my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ede825ed-2e9c-4bca-adfe-38a7a94970f0",
+    "data": [
+      {
+        "text": "how can i avoid my ",
+        "userDefined": false
+      },
+      {
+        "text": "cat",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " getting ill\\",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31449dab-c8b7-46f5-b96f-650952c3e1c1",
+    "data": [
+      {
+        "text": "how can my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " stay safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "009596ed-2f02-49d2-8161-292b30b7a457",
+    "data": [
+      {
+        "text": "how can I keep my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b3412ce-7950-490c-affe-9d2a438e27d9",
+    "data": [
+      {
+        "text": "do ",
+        "userDefined": false
+      },
+      {
+        "text": "animals",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a60de70-315b-480f-bfd3-73afb9c54530",
+    "data": [
+      {
+        "text": "How can I protect my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "409435e3-0f33-4a9e-99c1-4b23bf029d44",
+    "data": [
+      {
+        "text": "How can I protect my ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "alias": "pet",
+        "meta": "@pet",
+        "userDefined": false
+      },
+      {
+        "text": " if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

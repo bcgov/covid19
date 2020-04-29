@@ -1,0 +1,174 @@
+[
+  {
+    "id": "c9e3a5c0-12ea-4c23-83d6-e92cf27c9e82",
+    "data": [
+      {
+        "text": "What do i do if i have to work but am the only care provider for my kids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f421c072-5ad0-4ff3-961e-bd6abc48c62e",
+    "data": [
+      {
+        "text": "Social distancing childcare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16417e4e-7d50-47fe-a489-72e4435a6a48",
+    "data": [
+      {
+        "text": "Can I stay at home if my ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " doesn\u0027t have care?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f578017d-b223-4576-91da-af1474e1e377",
+    "data": [
+      {
+        "text": "Are daycares safe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48b38514-961b-4ff4-8f88-b1b80d8ec2d8",
+    "data": [
+      {
+        "text": "Can I use my daycare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7936b7f8-5f59-4fb7-aea8-d85ab9275aa3",
+    "data": [
+      {
+        "text": "My daycare is closed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04fca67a-58b1-49f5-9fc9-6a60487136d5",
+    "data": [
+      {
+        "text": "Are daycares open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3ce917f-e184-4260-b61f-0ce860312507",
+    "data": [
+      {
+        "text": "Are daycares closed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "370a7f13-ddd1-456d-a763-5de4b757ca3e",
+    "data": [
+      {
+        "text": "Can my ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " go to a daycare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddc34a30-0a34-496c-9eb6-ed51ef6282ce",
+    "data": [
+      {
+        "text": "Can I send my ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " to daycare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58a53c8e-f6ed-4f00-8f06-a14b983d43d7",
+    "data": [
+      {
+        "text": "Can my ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " go to daycare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

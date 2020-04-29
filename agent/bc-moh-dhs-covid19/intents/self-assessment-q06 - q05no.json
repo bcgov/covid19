@@ -1,0 +1,53 @@
+{
+  "id": "f66124b1-bcbb-4c19-8509-d10a57ece3c1",
+  "parentId": "685c9832-3f19-4646-8b61-c8368c0c3b54",
+  "rootParentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "name": "self-assessment-q06 - q05no",
+  "auto": true,
+  "contexts": [
+    "self-assessment-q05-q04no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-no.self-assessment-q04-no.self-assessment-q05-q04no-no",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-q06-q05no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "You don’t appear to have symptoms of COVID-19.\nThere are many things you can do to prevent the spread of COVID-19 in your community.\n\u003cbr\u003e\u003cbr\u003e\nFor more information on preventing COVID-19, visit \u003ca href\u003d\"http://covid-19.bccdc.ca/\" target\u003d_blank\u003ethe BCCDC website\u003c/a\u003e .",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

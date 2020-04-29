@@ -1,0 +1,78 @@
+{
+  "id": "13a6d913-5d8b-4e25-bb9f-79eb952c13d2",
+  "parentId": "c688f358-f00d-42c1-ba87-d44ed24b1a61",
+  "rootParentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "name": "self-assessment-q03 - yes",
+  "auto": true,
+  "contexts": [
+    "self-assessment-q03-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-yes",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-q03-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "-assessment-q04-no-response",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            },
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Did you develop symptoms within 14 days of travel outside Canada?"
+        },
+        {
+          "type": 0,
+          "lang": "fr-ca",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

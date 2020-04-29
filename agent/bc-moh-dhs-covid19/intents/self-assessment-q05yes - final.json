@@ -1,0 +1,64 @@
+{
+  "id": "b76b9b96-b018-4e99-bf89-1eb8d01e896f",
+  "parentId": "685c9832-3f19-4646-8b61-c8368c0c3b54",
+  "rootParentId": "b069482d-7251-43e5-a96f-dda69cd58788",
+  "name": "self-assessment-q05yes - final",
+  "auto": true,
+  "contexts": [
+    "self-assessment-q05-q04no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "self-assessment-q01.self-assessment-q01-no.self-assessment-q02-no.self-assessment-q03-no.self-assessment-q04-no.self-assessment-q05-q04no-yes",
+      "affectedContexts": [
+        {
+          "name": "self-assessment-exit",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "\u003cb\u003ePlease self-isolate for 14 days and self-monitor.\u003c/b\u003e\nPeople who are contacts of a confirmed case, meaning they have been or could have been exposed to the virus but do not have symptoms, are required to self-isolate for at least 14 days or 10 days after the start of symptoms, whichever is longer.\n\u003cbr\u003e\u003cbr\u003e\nSelf-isolation means staying home and avoiding situations where you could come in contact with others. You may have been exposed to the virus and are at risk for developing COVID-19 and passing it on to others. You may not self-isolate in a place where you will be in contact with vulnerable people, such as seniors and individuals with underlying health conditions.\n\u003cbr\u003e\u003cbr\u003e\nYou can find out more information on the \n\u003ca href\u003d\"http://www.bccdc.ca/Health-Info-Site/Documents/Self-isolation_dos_donts.pdf\" target\u003d_blank\u003edos and don\u0027t of Self Isolating\u003c/a\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

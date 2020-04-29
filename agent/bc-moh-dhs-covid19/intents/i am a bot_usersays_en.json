@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "e6a70123-ccfb-4510-b52b-9f6deb948c58",
+    "data": [
+      {
+        "text": "Can I speak to somebody",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f525a165-6fdd-41c3-b3ee-f54389f2e56e",
+    "data": [
+      {
+        "text": "it will be in the mail right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db04d399-8544-4029-b450-1f6a7134e4ee",
+    "data": [
+      {
+        "text": "Your service is pathetically uninformative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05f9abca-a6f5-4852-af89-28d995f4b9ec",
+    "data": [
+      {
+        "text": "What does that mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80f2a30e-be2b-4d32-b1d0-302b2e5baec9",
+    "data": [
+      {
+        "text": "French version ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b697cc8-2bdb-41a6-883e-656f0cc59f90",
+    "data": [
+      {
+        "text": "Seems inappropriate response",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5160a666-2818-42d6-a4ab-3af734de7b94",
+    "data": [
+      {
+        "text": "This isn\u0027t helping.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ef1390e-b338-4b2e-a052-4953b2f88ffc",
+    "data": [
+      {
+        "text": "Who controls you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c37020f-6060-4b3b-86f8-015365293e5e",
+    "data": [
+      {
+        "text": "How is this working?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d05535d1-69e9-43d1-9d07-df1e60b3b7f5",
+    "data": [
+      {
+        "text": "This is a waste of time.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "242fda8e-4371-4314-a234-c9951d787f71",
+    "data": [
+      {
+        "text": "Assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa5915f0-a0da-4935-a1c6-81f85df21849",
+    "data": [
+      {
+        "text": "so what information can you give me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa039215-ac48-4245-8a00-cbb010cf6dfd",
+    "data": [
+      {
+        "text": "i don\u0027t have a phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d8442ec-a46e-4830-988a-75e2ed41bafe",
+    "data": [
+      {
+        "text": "Who created you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67cb0539-f30c-4dd8-a849-94017c66de10",
+    "data": [
+      {
+        "text": "Who made you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c30be9f3-efc3-4dcb-a8d9-62c140f02973",
+    "data": [
+      {
+        "text": "Hello ..is someone there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5731cda3-3c41-4a04-8e7d-7e6767247498",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd98c16e-53b6-4048-88e0-daba70fcce58",
+    "data": [
+      {
+        "text": "i feel happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "79979ade-6c27-4492-929d-f8f9585e021d",
+    "data": [
+      {
+        "text": "i could not find what i needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c5861af-8b6b-4116-bd06-e05ed1937889",
+    "data": [
+      {
+        "text": "Anything else?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a71a0b92-5452-441f-8a6b-e5028d12fe8d",
+    "data": [
+      {
+        "text": "Was this useful? No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c478eeb-68ca-4409-8bbf-e1795c8e53b1",
+    "data": [
+      {
+        "text": "That is not what I asked.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d39f4cba-fe81-4b25-824c-b6c620af11d7",
+    "data": [
+      {
+        "text": "Nor is that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "998e2166-577c-443d-ad2a-f1b355a7b0e8",
+    "data": [
+      {
+        "text": "Hello, I am researching useful resources for ",
+        "userDefined": false
+      },
+      {
+        "text": "BC",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " Seniors, any recommendations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a8719cd-78bf-418f-8b2a-43bd9abe4c37",
+    "data": [
+      {
+        "text": "I love you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5e3f915-dab3-4f60-a48e-3318ca053c1e",
+    "data": [
+      {
+        "text": "that page has not been updated in a while and it doesn\u0027t tell you much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd72aec7-d560-4bfc-bc5d-9396920e1685",
+    "data": [
+      {
+        "text": "how are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00986d86-72e1-4a15-8515-3c5e5d665806",
+    "data": [
+      {
+        "text": "i want you to tell me. not BCCDC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56875a79-39b3-4400-80c9-624b26d9693a",
+    "data": [
+      {
+        "text": "are you infected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6548f825-df8b-46f4-974d-7447d0b9a412",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " questions same answer.  bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33100bc6-8fa5-494a-90eb-98c6cab27532",
+    "data": [
+      {
+        "text": "Not even close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd626a9c-3e1f-48a1-9070-16de6c50d6b0",
+    "data": [
+      {
+        "text": "☺",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f20f8a-4576-424f-9028-49303e7cb591",
+    "data": [
+      {
+        "text": "How are you feeling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "273e502d-ed58-42cf-b5e5-331839aba141",
+    "data": [
+      {
+        "text": "Piss off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8606d95f-b0f8-4286-b95e-5a10378e502f",
+    "data": [
+      {
+        "text": "do you know what the Turing test is ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9374468b-2f76-4cd0-91f4-1b0f28914bb1",
+    "data": [
+      {
+        "text": "Not useful. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b6730cc4-570a-4fd1-967f-04f18c8b07b5",
+    "data": [
+      {
+        "text": "Not useful.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b05a5029-4e21-4348-afae-116a91d83dfe",
+    "data": [
+      {
+        "text": "that did not help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a5df77b-d660-4c97-ab12-5e2e182910c2",
+    "data": [
+      {
+        "text": "You were  not much help to me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": ". Maybe ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date-time1",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94dcd522-b105-497c-9011-de33a1bf5e1d",
+    "data": [
+      {
+        "text": "What kind of questions you can answer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a27aef-151c-4cff-bccf-b034b099b61c",
+    "data": [
+      {
+        "text": "This thing is useless.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12f07485-742f-4a98-8b49-a460364efe0f",
+    "data": [
+      {
+        "text": "I\u0027m literally gonna fight you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f68f4e2-b339-4b2a-b2bf-864ee99adf8d",
+    "data": [
+      {
+        "text": "That’s useless. I just want the answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5bbb8ef9-5afd-444f-99f0-a875c02b9f23",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don",
+        "alias": "given-name",
+        "userDefined": false
+      },
+      {
+        "text": "’t want to watch a video. Please give me answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6de27605-0016-47d8-acbc-8d24633585d9",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": "’t want to watch a video. Please give me answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21d51a1e-2c03-4cb8-82c6-39764d7503f1",
+    "data": [
+      {
+        "text": "Not what i am looking for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6a97a98-5e46-4486-99e0-18c1b042ccc9",
+    "data": [
+      {
+        "text": "so you are a guy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "710a155e-b628-41af-a9b6-a80d1daed224",
+    "data": [
+      {
+        "text": "a/s/l?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3b1c933-2903-4764-bd4c-4a0a6ba29c39",
+    "data": [
+      {
+        "text": "what is your sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "da0b0734-be36-4dd0-9ca3-c2e59d819598",
+    "data": [
+      {
+        "text": "a/",
+        "userDefined": false
+      },
+      {
+        "text": "s/l",
+        "alias": "given-name1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4f2f2d1-ad0a-460d-a966-379f5ed22e0e",
+    "data": [
+      {
+        "text": "a/",
+        "userDefined": false
+      },
+      {
+        "text": "s/l",
+        "alias": "given-name1",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30fff6c2-366e-49e8-8180-ebc57c7e8575",
+    "data": [
+      {
+        "text": "I have tried several different ways to ask how long covid survives on surfaces and you have not given me a helpful response",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bd5418c-8a18-42f2-b905-d1df8c83a8bc",
+    "data": [
+      {
+        "text": "Who do you work for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92968096-e4e1-4b6e-8a9b-c885c3b096af",
+    "data": [
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10c25da9-0736-45f3-8ab4-e046e6cd1f8e",
+    "data": [
+      {
+        "text": "I rate your helpfulness as mediocre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e25eb953-d5a0-4966-ad87-d9a7ac841d85",
+    "data": [
+      {
+        "text": "nice i dont understand lol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f13adb9c-8937-4a40-bcc0-c210b26dfa3e",
+    "data": [
+      {
+        "text": "fail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dac65c4-589f-4ce3-ad52-b32b5f3e5c4e",
+    "data": [
+      {
+        "text": "Hello, I am your digital assistant! I can help you with your questions about COVID-19. I learn through interactions. My responses ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " get better over time. Thank you! I want to know about is there is community transmission started in ",
+        "userDefined": false
+      },
+      {
+        "text": "B.C",
+        "alias": "given-name1",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9d3f932-dad6-46c2-b640-1fc7bd62ebb8",
+    "data": [
+      {
+        "text": "really?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65373fb6-95bd-4226-964d-61968000650f",
+    "data": [
+      {
+        "text": "i\u0027m so hungry, what\u0027s for dinner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f77962f7-24dd-4307-8072-e4846fab85b7",
+    "data": [
+      {
+        "text": "it is very boring",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "991d6ded-da4d-4218-90c1-29fe65eece58",
+    "data": [
+      {
+        "text": "No I cant rephrase the question.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc3a19ac-2d95-40e3-b5c0-e0031eec9fd6",
+    "data": [
+      {
+        "text": "you are fucking stupid!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a2f574a-49dc-475a-a214-43fd2183c023",
+    "data": [
+      {
+        "text": "That\u0027s because you are fucking stupid.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f30f1f3-b80a-4d2d-8216-861e2c13420b",
+    "data": [
+      {
+        "text": "agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67d58865-4b8c-46e0-b73f-f6f7bd8b9822",
+    "data": [
+      {
+        "text": "you suck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4d945d9-ac57-42c1-bd72-b093ac69d9e2",
+    "data": [
+      {
+        "text": "machine learning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6740d2db-df73-4f89-98d4-c544332dcd85",
+    "data": [
+      {
+        "text": "what is machine learning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54bc7e73-257b-45c9-b951-1275b04315b7",
+    "data": [
+      {
+        "text": "Nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82b84f9c-2d16-4387-afa2-81622b2cb8cd",
+    "data": [
+      {
+        "text": "You are dumb.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3ab0d90-6368-45a4-b076-2cbb52443bd4",
+    "data": [
+      {
+        "text": "How have you been?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "310cf9cc-ee47-4468-9004-87b3c27d1da2",
+    "data": [
+      {
+        "text": "That\u0027s not what I\u0027m asking about",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a21aa1a-1dfa-40ff-8a3d-43f969bb66d1",
+    "data": [
+      {
+        "text": "Hi, my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Olfa",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63e70c07-ed55-4416-9fa6-e7f841e65dfa",
+    "data": [
+      {
+        "text": "Why bother..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5bcbe2f-ad38-4739-b85d-c13134fb1281",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "054a9951-cef6-4e74-9865-7811cbac02e0",
+    "data": [
+      {
+        "text": "Nice to meet you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11906014-a14d-4291-8de5-f0479ba69548",
+    "data": [
+      {
+        "text": "Your assistant is needs assistance. Not helpful at all☹",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "883bea6e-20d1-46e3-b909-4f33fd0b10a4",
+    "data": [
+      {
+        "text": "not helpful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c7c94db-d46c-4b49-a0d1-570bb8a29126",
+    "data": [
+      {
+        "text": "Make it simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db4b2217-8ccc-44dd-b88a-a4b7545ed6ac",
+    "data": [
+      {
+        "text": "what are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4a1ff0c-71be-4c6c-bd53-ef8651b27587",
+    "data": [
+      {
+        "text": "who are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8439c5c-9715-41e6-a34e-fb818dd5efe9",
+    "data": [
+      {
+        "text": "How accurate is this information?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36e62f9f-9f86-4cdc-bfa4-7a0424dfdf09",
+    "data": [
+      {
+        "text": "I\u0027d like to take over the world. Any tips?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b787c65-d9e2-4f06-b270-4b9fb60065d0",
+    "data": [
+      {
+        "text": "Do you have contact info for Siri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e141661b-250d-41ae-93cd-10a752ea48e0",
+    "data": [
+      {
+        "text": "how are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9361e2e6-8a68-490c-9a4c-f9a894122976",
+    "data": [
+      {
+        "text": "What can you help with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d7dbcbc-a19f-4255-9e2f-78073b43ff03",
+    "data": [
+      {
+        "text": "what\u0027s the purpose of this tool?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "04fab7cb-4b51-4f85-83ac-cb32f298e9b3",
+    "data": [
+      {
+        "text": "who is this for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "56ec644f-5ca8-40b6-826e-69543b25efb1",
+    "data": [
+      {
+        "text": "how do I know what you undrestand?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8518bc08-7998-4378-80f3-d8e91eed9495",
+    "data": [
+      {
+        "text": "how can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4add3482-fc26-4c5f-97c9-c1cec07fca85",
+    "data": [
+      {
+        "text": "I see you have a website now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "285cc850-3e92-427c-bcb3-0b767b8fb95b",
+    "data": [
+      {
+        "text": "How’s it going",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00d0357c-1f31-42f2-9b4a-6bd07765e56f",
+    "data": [
+      {
+        "text": "where are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "99f71526-db3f-46e1-be60-074fabb68841",
+    "data": [
+      {
+        "text": "bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7118a8b-b452-498c-a03e-e210e30570a9",
+    "data": [
+      {
+        "text": "I thought I was?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1c93d01-8ea9-429a-945a-87a8466b1200",
+    "data": [
+      {
+        "text": "how do I train you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f65c0b13-22fd-4d07-84ff-6f0a608feda1",
+    "data": [
+      {
+        "text": "my wife doesn\u0027t believe in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a920924-b8d4-4503-a7ba-decd1a17b0a2",
+    "data": [
+      {
+        "text": "I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33a2ae9e-8ebb-4eb8-9406-5c836ed4226f",
+    "data": [
+      {
+        "text": "begin the razzledazzle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66136c44-af8c-4c3a-a4d3-9170c566077d",
+    "data": [
+      {
+        "text": "What is your name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "953f6270-211c-471b-bce3-1a8fe2867de4",
+    "data": [
+      {
+        "text": "just testing this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cbcb91f-520c-4e13-8061-5010e223ea88",
+    "data": [
+      {
+        "text": "This is terrible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dc0f901f-9efa-4167-a206-eee2aaa411c5",
+    "data": [
+      {
+        "text": "I am frustrated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5a8a3551-3849-4dfc-b7ac-f1cdd9a21ede",
+    "data": [
+      {
+        "text": "You are not answering my questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1d5e0089-db01-4e63-b841-a721eb659f86",
+    "data": [
+      {
+        "text": "why won\u0027t you answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d6fe70da-28da-4b03-ae00-3b2bebdfcb31",
+    "data": [
+      {
+        "text": "This does not work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c45408e9-29ce-4e09-a7f6-e659e5490cfa",
+    "data": [
+      {
+        "text": "This is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7411e995-b98f-4668-a1ba-40755092f406",
+    "data": [
+      {
+        "text": "Who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a53cd858-2806-4801-b1e2-18156d1ed64b",
+    "data": [
+      {
+        "text": "Are you a human?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f0dd1fb-0674-4e2d-9dc5-8ce2cb510dc8",
+    "data": [
+      {
+        "text": "Are you a person?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "34197385-9217-4fc0-9654-260202699a2d",
+    "data": [
+      {
+        "text": "My child care provider still hasn’t received  cheque . What is going on. We were approved ",
+        "userDefined": false
+      },
+      {
+        "text": "until April 30 2020",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ac2f586-e6f7-4af3-8235-1da3f731f69f",
+    "data": [
+      {
+        "text": "What do I tell parents of children I provide care for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8191e58-7ff1-4580-a1bd-76dec91f35a9",
+    "data": [
+      {
+        "text": "My daycare must remain open what funding is available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5301abd-a9bd-40da-abd0-cd515c2d61c6",
+    "data": [
+      {
+        "text": "My daycare is closed because of ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " how can I access funding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a625bbf-53b1-4773-a63b-eb866d745977",
+    "data": [
+      {
+        "text": "What funding is available for childcare centres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "986e2f87-529f-4046-badf-c3cf810f8fd3",
+    "data": [
+      {
+        "text": "How do I get funding for childcare?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

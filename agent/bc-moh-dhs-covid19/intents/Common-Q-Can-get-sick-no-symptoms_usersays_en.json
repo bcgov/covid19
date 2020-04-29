@@ -1,0 +1,336 @@
+[
+  {
+    "id": "4b1544ce-830e-4352-b5d8-e74a67bb926b",
+    "data": [
+      {
+        "text": "Can we get from a person who just recorded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4a0c9d0-346a-4245-836c-11838b396b8d",
+    "data": [
+      {
+        "text": "asymptomatic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f22de5c-36f1-4e79-8425-26bf481c7b79",
+    "data": [
+      {
+        "text": "assymptomatic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a134d9b-0220-4157-874c-d6303028313f",
+    "data": [
+      {
+        "text": "can people have covid but no symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d89e8a5b-04b9-4763-821e-ae65baa8d3a6",
+    "data": [
+      {
+        "text": "Can I be sick with no symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a502536-6d68-4a99-be9c-7c57c2693d8d",
+    "data": [
+      {
+        "text": "I have never had any symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db93d5b0-8f7f-4a24-9aa4-628c51630aed",
+    "data": [
+      {
+        "text": "How contagious is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72411408-b422-4c88-bbd0-364a27fa272a",
+    "data": [
+      {
+        "text": "A person I saw ",
+        "userDefined": false
+      },
+      {
+        "text": "a week ago",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " is now confirmed for covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9c981ea-fb4a-4d2c-8025-39262fcc38da",
+    "data": [
+      {
+        "text": "how long this virus last long without carrier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9e1f49e-a8ff-46a0-ba15-9bf6f2ce0641",
+    "data": [
+      {
+        "text": "Could I have covid 19 with no symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eed99c70-92e6-4a56-a911-8db137ad2a90",
+    "data": [
+      {
+        "text": "Am i still contagious if I\u0027m no longer symptomatic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11b528cf-7817-4b33-a3d9-b54a667f3aa5",
+    "data": [
+      {
+        "text": "Can I pass the covid if i\u0027m no longer showing symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2aca7864-50e1-4ff7-b6d4-6280ad7a4168",
+    "data": [
+      {
+        "text": "no symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1559bbc0-23f3-46c8-8d0d-dabf8b1903cb",
+    "data": [
+      {
+        "text": "How long is the asymptomatic period?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "557eb307-e9bd-40dd-82cf-ce4f3e9aa753",
+    "data": [
+      {
+        "text": "What are the chances of asymptomatic transmission?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "419733f6-82cd-4e76-bd50-92fc025728d3",
+    "data": [
+      {
+        "text": "What materials carry the disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "677a67c3-166e-454c-9436-bd018a3b3c33",
+    "data": [
+      {
+        "text": "Can I catch covid from people who look ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffbe536d-e6ca-4568-b6e8-a26668ae23d0",
+    "data": [
+      {
+        "text": "Can I catch covid from an object?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7da5b9a-7697-4066-bbc5-0ed67ee9d1b9",
+    "data": [
+      {
+        "text": "Can I catch covid from someone who is not sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f23e012-ed76-49b4-a5dc-565cdbc433d5",
+    "data": [
+      {
+        "text": "Can I get it on my shoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "459d44f8-9882-4470-87ce-40ba82d343e6",
+    "data": [
+      {
+        "text": "Can it live on people without them knowing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2db39edd-dc6a-4409-8a0a-319580060599",
+    "data": [
+      {
+        "text": "Can you catch it from people\u0027s clothes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "297ac803-8661-4cef-85c9-bc944a580b19",
+    "data": [
+      {
+        "text": "Can people without symptoms give you covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24599238-22bb-40a3-af11-3d800bd08b35",
+    "data": [
+      {
+        "text": "Can you catch it from people who are not sick yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e611c98-9fee-4f04-a15e-4feaa5e7ef24",
+    "data": [
+      {
+        "text": "Can you get sick from objects?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ab1b29d-d9cc-4273-87fd-1ee064fe67b6",
+    "data": [
+      {
+        "text": "Can you spread COVID-19 if you don’t have symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "aa4feb0b-736f-42fc-badb-3cebaa5637c3",
+    "data": [
+      {
+        "text": "Can you get sick from people who don\u0027t have symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

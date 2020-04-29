@@ -1,0 +1,55 @@
+{
+  "id": "273656c1-d04d-4ea2-b8b7-193a636b6a84",
+  "name": "Common-Q-How_do_I_protect_family",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "76b20ab3-b588-419e-8023-c8870692e7a7",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Follow the same advice that public health officials recommend to prevent COVID-19 transmission: \n\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003ewash your hands often with plain soap and water for at least 20 seconds; if soap and water are not available, alcohol based hand rubs can be used to clean your hands as long as they are not visibly soiled;\u003c/li\u003e\n\u003cli\u003eavoid touching your face, eyes, nose or mouth with unwashed hands;\u003c/li\u003e\n\u003cli\u003eregularly clean and disinfect frequently touched surfaces;\u003c/li\u003e\n\u003cli\u003efollow physical distancing recommendations;\u003c/li\u003e\n\u003cli\u003eavoid others who are unwell; and \u003c/li\u003e\n\u003cli\u003estay home when you are sick.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr\u003e\u003cbr\u003e\nIf you are sick yourself, stay away from others. If you have COVID-19, or think you might have it, help prevent spreading by following the instructions from the BC Centre for Disease Control .http://covid-19.bccdc.ca/",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

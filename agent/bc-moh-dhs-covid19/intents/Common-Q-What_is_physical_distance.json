@@ -1,0 +1,115 @@
+{
+  "id": "73b16703-b827-443a-a178-ac08dacb6aa0",
+  "name": "Common-Q-What_is_physical_distance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a8ef0220-dd15-4ce9-8e5f-8918c63fd844",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c4fe4087-1b53-4c23-b003-220d88bc1146",
+          "required": false,
+          "dataType": "@sys.unit-length",
+          "name": "unit-length",
+          "value": "$unit-length",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "44551769-9ed8-4468-bd42-ca63f84ba2e3",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "3d7a4582-fe5a-4e3e-9556-624743f8998f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "b6351fa3-3409-4a56-806c-79c0f74278ee",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration1",
+          "value": "$duration1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a5bd2c2c-3d5a-4349-9279-48e4cfbbb4e5",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Physical distancing is essential for containing COVID-19 across the province. Physical distancing means limiting close contact with others. \n\u003cbr\u003e\u003cbr\u003e\nWhen outside of your home, practicing social distancing by keeping two meters (six feet) away from one another is something we can all do to help stop the spread of COVID-19. Remember to :\n\u003cul\u003e\n\u003cli\u003eStay at home when you’re sick, even if symptoms are mild\u003c/li\u003e\n\u003cli\u003eAvoid crowded places. This includes play dates, group walks, basketball games and gathering on the beach\u003c/li\u003e\n\u003cli\u003eTake care of your mental well-being by checking in with loved ones and practicing self-care\u003c/li\u003e\n\u003cli\u003eCough and sneeze into your elbow or sleeve\u003c/li\u003e\n\u003cli\u003eWash your hands regularly\u003c/li\u003e\n\u003c/li\u003eLimit your time in common spaces\u003c/li\u003e\n\u003cli\u003eUse common amenities like laundry only when neighbours are not present in the room or you can keep two meters of distance between yourself and others\u003c/li\u003e\n\u003c/li\u003eGreet people with a wave instead of a handshake, kiss or hug\u003c/li\u003e\n\u003cli\u003eWork from home\u003c/li\u003e\n\u003cli\u003eUse public transportation at off-peak times\u003c/li\u003e\n\u003c/ul\u003e",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

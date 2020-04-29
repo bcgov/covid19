@@ -1,0 +1,346 @@
+[
+  {
+    "id": "81e7da49-c763-4aed-bfc1-deddda6bf8ef",
+    "data": [
+      {
+        "text": "what is someone is sick at home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4baa636-62c6-4e19-b213-24dd8594b896",
+    "data": [
+      {
+        "text": "caring for someone sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2800782-6318-449d-9d86-9ffe3345678a",
+    "data": [
+      {
+        "text": "I am a support worker on downtown east side of ",
+        "userDefined": false
+      },
+      {
+        "text": "vancouver",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", and i am supposed to do laundry for tenants who might be at risk of ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": ", can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid1",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from doing their laundry?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c399af3-8b5c-4c6f-b744-4354feba4b1b",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from doing an ",
+        "userDefined": false
+      },
+      {
+        "text": "infected",
+        "alias": "covid1",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " person\u0027s laundry???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f36d8c3-0360-4cae-b44f-770a4b3d3f51",
+    "data": [
+      {
+        "text": "What happens if a parent in a custody dispute becomes ill with ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid 19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d22e18e5-35b5-4dd3-9908-1c9c35267f3f",
+    "data": [
+      {
+        "text": "What does the B.Cdc recommend for a single parent t who becomes ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid 19",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " positive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8ffd538-b195-44ce-8f8c-a806f1f13284",
+    "data": [
+      {
+        "text": "husband has the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfcf4d00-9f9f-49ed-aa8d-0748e4d22b2e",
+    "data": [
+      {
+        "text": "husband",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " is presumptive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90ae2ed0-1edb-47bc-b498-91260763d9b5",
+    "data": [
+      {
+        "text": "husband",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "infected",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c52887a8-c8c6-4ced-a510-dd24c19fd009",
+    "data": [
+      {
+        "text": "husband",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " tested positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da9d8331-6863-4d54-827d-d2d78ffae227",
+    "data": [
+      {
+        "text": "boyfriend has ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a2d42f7-220f-47d2-b9c5-d3faccbd68b7",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "husband",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c2779fe3-942e-4b43-80a7-159f4268828c",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "child",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "11fab983-a1e9-4525-b2bc-39cc768ad2bc",
+    "data": [
+      {
+        "text": "my roommate has ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0597078f-ecf8-4fac-8997-0ec2d0437991",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "wife",
+        "alias": "person-nouns",
+        "meta": "@person-nouns",
+        "userDefined": false
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": ", can I go to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

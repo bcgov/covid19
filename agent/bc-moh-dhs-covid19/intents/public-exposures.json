@@ -1,0 +1,77 @@
+{
+  "id": "f4b9fa29-f934-4275-9299-824e2f0d06b4",
+  "name": "public-exposures",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e3d1bcb2-2f7a-4a9d-a006-4eaffb9e66db",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "10af14fc-6612-4ef8-9257-99714a19e830",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7573b646-8856-4d99-bb51-96fe3a3f9c6e",
+          "required": false,
+          "dataType": "@covid",
+          "name": "covid",
+          "value": "$covid",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Refer to \u003ca href\u003d\"http://www.bccdc.ca/health-info/diseases-conditions/covid-19/public-exposures\" target\u003d_blank\u003eFlight, cruise and public events with a confirmed case of COVID-19\u003c/a\u003e for details of public exposures in BC.\n\u003cbr\u003e\u003cbr\u003e\nPlease check for similar information posted on other provincial public health web sites or \u003ca href\u003d\"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice/exposure-flights-cruise-ships-mass-gatherings.html\" target\u003d_blank\u003efederal government travel advice\u003c/a\u003e if you have travelled to or from other parts of Canada, and are concerned about potential in-flight exposure.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "82c18929-50ad-4a8a-a69b-4f219e197650",
+    "data": [
+      {
+        "text": "commercial truck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d8976aa-e619-4d29-a760-477a815c2912",
+    "data": [
+      {
+        "text": "truck driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79475470-af8e-465a-b3f4-369aef68a0c2",
+    "data": [
+      {
+        "text": "Can I purchase a car from a dealership ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f77b4002-5ce0-4924-8ca6-553b96c4d5ef",
+    "data": [
+      {
+        "text": "Are eye doctors allowed to due routine eye exams now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e42df22e-4faf-418d-b631-b19a50137bda",
+    "data": [
+      {
+        "text": "Eye testing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43c76100-eb64-4797-afed-185ae9435ef0",
+    "data": [
+      {
+        "text": "Eye exam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "448633f3-988c-408a-9137-3122620f80ca",
+    "data": [
+      {
+        "text": "Prescription eyeglasses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e35a4849-b427-4414-9f85-ef9b61245cb6",
+    "data": [
+      {
+        "text": "Eyeglasses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91bd5b13-1dba-41ec-9f3f-2f903785c790",
+    "data": [
+      {
+        "text": "Why do not all pharmacies have the ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " day supply rule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f8e3568-d84b-4d57-893b-c8777663a12f",
+    "data": [
+      {
+        "text": "Ate tutor agencies allowed to open during covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44df6d15-a52c-4680-8902-345711df4a22",
+    "data": [
+      {
+        "text": "tattoo parlour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbc51ea7-2bb3-4d9e-ae27-77c8b35cfeb6",
+    "data": [
+      {
+        "text": "tattoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "017914b2-9b17-4f86-85cc-4c95ad1d68b1",
+    "data": [
+      {
+        "text": "Non profit thrift shop, proactive thinking, open to take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee326dbb-a59f-4e0b-a900-878bc0677bdf",
+    "data": [
+      {
+        "text": "Hello, I’m looking for specific information in regards to Fishing resorts opening ",
+        "userDefined": false
+      },
+      {
+        "text": "this spring",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "/ ",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period1",
+        "userDefined": false
+      },
+      {
+        "text": " in Northern BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a05a62d2-5492-412c-9269-dc405b40af59",
+    "data": [
+      {
+        "text": "I just wonder about the possibility of a fishing resort opening in the ",
+        "userDefined": false
+      },
+      {
+        "text": "spring",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period1",
+        "userDefined": false
+      },
+      {
+        "text": " in Northern BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48f38b51-ab83-41cb-9e1a-769ae34a98a3",
+    "data": [
+      {
+        "text": "where can I get dental care?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3a52cf9-e351-4cc1-90dd-ca1d5c7ce1c7",
+    "data": [
+      {
+        "text": "Hello, I’m looking for specific information in regards to Fishing resorts opening ",
+        "userDefined": false
+      },
+      {
+        "text": "this spring",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "/ ",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period1",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " in Northern BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8f6b23b-e713-4648-831f-91c267168c7d",
+    "data": [
+      {
+        "text": "I just wonder about the possibility of a fishing resort opening in the ",
+        "userDefined": false
+      },
+      {
+        "text": "spring",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period1",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " in Northern BC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8edd7df9-eef8-4749-8db2-197bd034a631",
+    "data": [
+      {
+        "text": "Dental service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6263ae53-aaac-4d24-a5c0-ba96c2c728e8",
+    "data": [
+      {
+        "text": "May I have a service person into my home to repair my appliance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e42e3d04-24ee-4393-89d0-b0db157bdb31",
+    "data": [
+      {
+        "text": "May I have a person into my home to repair my appliance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e4f1369-2358-42b4-981d-aa9730e557b0",
+    "data": [
+      {
+        "text": "home repair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e14a9c5-62c5-495d-a517-df64bdaa310d",
+    "data": [
+      {
+        "text": "appliance repair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84ce8b2f-81ad-4b4d-afef-0dd8a30b61b9",
+    "data": [
+      {
+        "text": "Hi my mother lives in white rock and said she is seeing a physiotherapist, I was under the understanding the we closed so to Clovid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " .,, she is ",
+        "userDefined": false
+      },
+      {
+        "text": "78",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " this concerns me and she refuses to stay home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8bf2ebb-71e7-465e-ab80-e395f24edf89",
+    "data": [
+      {
+        "text": "Are physiotherapist open is white rock bc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97516178-f2c4-4384-8640-3029fd769116",
+    "data": [
+      {
+        "text": "I am looking to find out when our no profit horse facility is safe to open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd214db9-9c0c-4e6d-9814-644c017d2c85",
+    "data": [
+      {
+        "text": "Acupuncture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48bef815-dee8-46db-bbea-b54d0fff7117",
+    "data": [
+      {
+        "text": "Are acupuncturists prohibited from seeing patients",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "505ae3d2-3b10-4bad-a0a3-1aa33d7fbc71",
+    "data": [
+      {
+        "text": "Looking for information on how long business must remain closed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7eaaa8e-700f-4659-93b7-7b8806bc9a06",
+    "data": [
+      {
+        "text": "Are ophthalmologist offices open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "268cdd5d-34fc-4d44-a30c-7b93652e7d72",
+    "data": [
+      {
+        "text": "fitness facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1819909-a0cd-43f9-a758-3972b7c50c3c",
+    "data": [
+      {
+        "text": "mandated closure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac4ed45-f0a1-4e90-bc28-da01c15819a1",
+    "data": [
+      {
+        "text": "Chiropractic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f94143c1-4f97-4e5c-9785-48f8f0655079",
+    "data": [
+      {
+        "text": "Are chiropractors allowed to be open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8802e118-f6f5-4bb6-8729-2a6949b0e628",
+    "data": [
+      {
+        "text": "Are all motels closed in the province?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25c9c401-de29-4b10-8955-c33d5c393ae7",
+    "data": [
+      {
+        "text": "Thank you.  I am wondering when I can expect to go back to work as a hair stylist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e666d3f6-c4a8-4912-a7f2-6cadaa94503d",
+    "data": [
+      {
+        "text": "Massage therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aebc9ac-379b-47ac-bac8-6173409ea99e",
+    "data": [
+      {
+        "text": "Is massage therapy allowed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a144a1d5-5ac8-4335-874f-3b72d57d393c",
+    "data": [
+      {
+        "text": "CDC guidance for ",
+        "userDefined": false
+      },
+      {
+        "text": "summer",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " overnight camps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcaa4e69-66b7-4cc7-a67b-49591193e400",
+    "data": [
+      {
+        "text": "Can my household cleaner come to my house to clean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a594430b-c946-48c4-b890-bc853910f5aa",
+    "data": [
+      {
+        "text": "Can the Cleaning lady come to my house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4c04c06-db4a-44f5-b973-5ca0e23d48f2",
+    "data": [
+      {
+        "text": "I have cancelled my cleaning lady even though most of her clients continue. Is it safe to have her clean my house?  She has approximately 20 different clients every ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " weeks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2f07860-6bcb-4323-84b1-0e0020f62651",
+    "data": [
+      {
+        "text": "When will dental offices is Victoria BC open again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d295f691-1a44-4ae5-b11b-9cbd9d07dc4f",
+    "data": [
+      {
+        "text": "Dentist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10b4a179-f8a6-418d-b616-5c69e0ef371f",
+    "data": [
+      {
+        "text": "are there guidelines for opening golf courses ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec18492e-1e5f-4812-b108-168853ec75a7",
+    "data": [
+      {
+        "text": "when can i go back to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a03b557-a6f4-49b9-b5c8-26f122339366",
+    "data": [
+      {
+        "text": "Can my hair be cut by my barber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63f70541-8b5c-479d-9d85-84e0c7022bfc",
+    "data": [
+      {
+        "text": "I need a haircut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d54e2a3-19b6-419d-a444-092944e56c4a",
+    "data": [
+      {
+        "text": "Can we open flight schools?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0cdd3af-8563-413c-9285-352920f5b417",
+    "data": [
+      {
+        "text": "Do gyms have to shut down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "358f7c60-6ef4-4b5a-9cfc-60bdce7eb9d9",
+    "data": [
+      {
+        "text": "Gyms have to close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a1dd1c5-d912-4398-9bc6-5358d5cf13af",
+    "data": [
+      {
+        "text": "Are recreation centres allowed to be open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef07d08a-596f-42a2-b016-afc494c34f04",
+    "data": [
+      {
+        "text": "can you confirm if new construction projects are allowed to start ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4747bd0-cbff-4c6b-bb5d-8b2fa6b79b5d",
+    "data": [
+      {
+        "text": "Are dog groomers an essential service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a981a9e9-a0ea-423f-853c-98f51435ee1d",
+    "data": [
+      {
+        "text": "when can I return to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8fc8b35-2d0c-45b2-957e-bb487c848d66",
+    "data": [
+      {
+        "text": "Farm workers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f7cac48-cc1a-4c47-ba83-a2bc104fd2f3",
+    "data": [
+      {
+        "text": "Is a condo renovation permitted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a68c108f-b62e-46ad-a976-df21cc9f0a3b",
+    "data": [
+      {
+        "text": "What stores must close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d53e10d-01a6-43c5-811c-6411ce749435",
+    "data": [
+      {
+        "text": "are dentist office open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fcea31c-ffc9-4918-a862-030b1bcb36cb",
+    "data": [
+      {
+        "text": "Can photographers continue to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64074773-eb6a-4656-9a5a-a7994cfb69b1",
+    "data": [
+      {
+        "text": "we would like to open our golf course can we have ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " somes playing ",
+        "userDefined": false
+      },
+      {
+        "text": "10 minutes",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " apart. With being ",
+        "userDefined": false
+      },
+      {
+        "text": "120 acre",
+        "alias": "unit-area",
+        "meta": "@sys.unit-area",
+        "userDefined": false
+      },
+      {
+        "text": " course are we able to have more than 50 golfers on the course at any given time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11bbc880-fa8f-4563-8033-2d9925a4c224",
+    "data": [
+      {
+        "text": "What is being done for essential workers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba63b1c9-ee81-4c68-b4f9-e3d2f4970c95",
+    "data": [
+      {
+        "text": "What is the government doing for essential workers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e1123e4-ddfd-4212-aae9-0fbab0de8896",
+    "data": [
+      {
+        "text": "Which businesses are closed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01fcfaef-26ea-492a-a123-ff833e580897",
+    "data": [
+      {
+        "text": "Can I operate small business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40b1e16b-dc7a-411d-bca2-2e4d7b2b1a2f",
+    "data": [
+      {
+        "text": "When are resident to go back to work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76b36abb-ed58-403d-906f-8924939f57d8",
+    "data": [
+      {
+        "text": "when can I open my shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3fff6bc-9954-4330-862d-214aa5ccc98e",
+    "data": [
+      {
+        "text": "What is the stance on working in the office",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae972fab-2c09-4d27-ae34-4a8f655fbd0b",
+    "data": [
+      {
+        "text": "When will pubs and restaurants reopen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b8fd2fd-3528-4bcd-b755-9e9a0412377c",
+    "data": [
+      {
+        "text": "When will barber shops reopen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e62c3e4-e0fa-4ea2-b1bc-28605b06ff9b",
+    "data": [
+      {
+        "text": "Can I work in people’s homes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5eed9513-4caa-435d-9ac7-323947b50458",
+    "data": [
+      {
+        "text": "Should I stay home from work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1a1e002-98b2-424c-8d87-458c6a9c59ec",
+    "data": [
+      {
+        "text": "Are there guidelines for industrial camps?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e04413d9-a85e-4aa8-b27e-21792c6261c1",
+    "data": [
+      {
+        "text": "Are golf courses open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47693e01-b236-4517-94a9-71fa88e78ec0",
+    "data": [
+      {
+        "text": "When will stores open again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09729838-7e30-4fec-8b71-f7489a144915",
+    "data": [
+      {
+        "text": "When will bars open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dc8125d-63fc-495e-869b-2b6a4f997be8",
+    "data": [
+      {
+        "text": "Are the grocery store open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dbcfe8f-158a-4134-9107-4337af0c627a",
+    "data": [
+      {
+        "text": "Am I aloud to go to work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "492d7402-b4b6-4c9a-bcb6-4906c487df16",
+    "data": [
+      {
+        "text": "How can I determine if my job is essential?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da4c2c35-c9e1-4508-88f8-5199f8fda371",
+    "data": [
+      {
+        "text": "Which business are required to close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228c9c45-231a-41bc-80ba-e6ba133d1ebf",
+    "data": [
+      {
+        "text": "Am I am essential worker?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ca0ef22-3aed-494f-be9d-e234bf322b93",
+    "data": [
+      {
+        "text": "Am I an essential worker?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "755bda87-6240-4c20-8653-4e84bc3e3a3a",
+    "data": [
+      {
+        "text": "what essential services are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa0575fa-04bf-49cc-bacf-db977b476bc5",
+    "data": [
+      {
+        "text": "what essential services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cebba12-24e9-42c1-a801-50398233a0b2",
+    "data": [
+      {
+        "text": "what services are considered essential?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bd07e28-5844-404c-a232-8a3c40eba1bb",
+    "data": [
+      {
+        "text": "which services are essential?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83d06072-5508-4b8a-814f-25d4278ec2ec",
+    "data": [
+      {
+        "text": "who are essential services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b967067-54e6-4f79-987a-852406ab05b2",
+    "data": [
+      {
+        "text": "what are considered essential services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84289385-8972-416a-bbf4-195ff348a29f",
+    "data": [
+      {
+        "text": "what essential services are there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "475cb9c1-3c7a-45f0-b0ae-b50587a77b97",
+    "data": [
+      {
+        "text": "what are the essential services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

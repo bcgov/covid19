@@ -1,0 +1,606 @@
+[
+  {
+    "id": "934fb426-eb71-4f86-829a-c64b14c9332e",
+    "data": [
+      {
+        "text": "How do I wash things",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b692848-1dce-4e7b-92aa-1ff668388ad3",
+    "data": [
+      {
+        "text": "Wash counters",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18852049-0a5d-49f8-8ee4-1bb7e5d98394",
+    "data": [
+      {
+        "text": "Wash my floor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30c8e5f0-f2a4-42cd-a7ff-eda9ba669dfa",
+    "data": [
+      {
+        "text": "how do I clean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ea478233-b795-47f2-bed6-f44397d4b119",
+    "data": [
+      {
+        "text": "Is it effective, for killing Covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " germs, to put antibacterial gel on latex gloves and clean a car\u0027s steering wheel, seatbelt buckles etc.  that way? Or, is it more effective to wipe those things down with an antibacterial wipe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7541d5fe-8712-4689-87ea-f1b6c1b38022",
+    "data": [
+      {
+        "text": "list of approved cleaners",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2238ef7e-7a2a-4e7a-8ccf-b6ba87bff2dc",
+    "data": [
+      {
+        "text": "How long does the Covid virus live on objects?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fd038bf-f256-416d-9eeb-44284c29204e",
+    "data": [
+      {
+        "text": "What about Oxiclean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f79655a-3557-4390-96dd-b6f510fe2227",
+    "data": [
+      {
+        "text": "If I carry parcels, products, boxes, can I catch the ",
+        "userDefined": false
+      },
+      {
+        "text": "Coronavirus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5afef03-b906-4760-9c8b-dce9088a441e",
+    "data": [
+      {
+        "text": "How long does covid last on services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49630867-8a66-4f5c-aafc-d22431d2b488",
+    "data": [
+      {
+        "text": "Can you recommend what to do with garbage bins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0941c0b5-6261-4541-a15d-1959bb79ef80",
+    "data": [
+      {
+        "text": "How long can COVID-19 live on fabric?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3193890f-3b3b-4c7d-b456-1c704feaca23",
+    "data": [
+      {
+        "text": "How long can COVID-19 live on plastic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "372a8abc-c0b5-497e-afeb-2594175228c3",
+    "data": [
+      {
+        "text": "can you get ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from a toilet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "550132d4-beba-4e45-baa0-aebcd67136fa",
+    "data": [
+      {
+        "text": "can you get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from your tap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a981d6b-4b07-49bd-be06-ebf0c1730995",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " from a toilet seat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac8b7876-e5b5-4e8c-a76b-75afb89f01aa",
+    "data": [
+      {
+        "text": "Regular cleaning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4921c806-332c-4eb1-a48e-5b12220fc7a1",
+    "data": [
+      {
+        "text": "I am a senior and I am self isolating with my husband.  We are both in good health.  We have a cleaning person come in twice a month to do the heavier cleaning in our home.  If she wears a mask and gloves, is it safe for her to clean our home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56c0596b-408d-440a-8a2f-5d73d8e6d4b5",
+    "data": [
+      {
+        "text": "paper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8280af0-4b7c-4dea-a42b-7532abce007a",
+    "data": [
+      {
+        "text": "How long will it live on plastic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6256c41d-0129-4031-acf2-4f10144e43d7",
+    "data": [
+      {
+        "text": "Should I sanitize my mail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b08141f2-61a4-4b52-8a1b-7574585bc64b",
+    "data": [
+      {
+        "text": "How long does the ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " survive on surfaces?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84529ec5-d0b9-4fe0-973c-60710000b52f",
+    "data": [
+      {
+        "text": "Does Clorox help me fight the virus at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31d3764f-b3de-4775-bc3e-e592c2946593",
+    "data": [
+      {
+        "text": "what temperature kills the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea41f950-859b-4995-a459-a3fdb150eb70",
+    "data": [
+      {
+        "text": "does soap kill ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a7f06a22-b773-4c18-8d35-b9f934608f0e",
+    "data": [
+      {
+        "text": "does soap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c29b387-b7bc-4488-afb7-01dde656da91",
+    "data": [
+      {
+        "text": "How do i handle waste products at home during ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cfd6458-e347-46d0-a302-9152d4196508",
+    "data": [
+      {
+        "text": "do I clean differently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5566abfc-c5e1-453d-9f32-38ec15a1a16a",
+    "data": [
+      {
+        "text": "should i use bleach on surfaces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d619cbce-59c8-45f3-a104-d4a2de52f2a8",
+    "data": [
+      {
+        "text": "how do i disinfect surfaces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5784eb71-8e3a-4c56-bc4d-dbcdaad34a8e",
+    "data": [
+      {
+        "text": "can I use bleach to kill the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d531df6-a4b5-447a-b2c3-b36d342e4984",
+    "data": [
+      {
+        "text": "do I clean differently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fcc4ea21-af87-47ae-890e-5f18f51ae9ff",
+    "data": [
+      {
+        "text": "should I bleach my house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cd1c28a-b84c-47b6-a3c9-cf78a55c92d8",
+    "data": [
+      {
+        "text": "does bleach work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7d344bc-1577-4d01-993e-1c23555e6749",
+    "data": [
+      {
+        "text": "Does cleaning help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70db5d51-7ae2-48ed-a4b6-f92b21254078",
+    "data": [
+      {
+        "text": "How can I disinfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "884709de-bd6b-46e0-bcdf-934202b9907e",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " how do I clean house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bcf4b5d-78ec-421d-a037-63a77a10e714",
+    "data": [
+      {
+        "text": "can I clean my house to be safe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d3bacc7-0548-4a80-b8e2-b4398b853169",
+    "data": [
+      {
+        "text": "what should i disinfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0407c184-5df0-460f-8c94-8383b47b560a",
+    "data": [
+      {
+        "text": "how do I clean my house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "079b9033-ff0c-4536-a0bd-f0c05ed7b9a9",
+    "data": [
+      {
+        "text": "I think I have ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid",
+        "meta": "@covid",
+        "userDefined": false
+      },
+      {
+        "text": " how do I clean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
